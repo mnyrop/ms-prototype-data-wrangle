@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    csv (3.3.2)
+    ostruct (0.6.0)
+
+PLATFORMS
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  csv
+  ostruct
+
+BUNDLED WITH
+   2.5.16
