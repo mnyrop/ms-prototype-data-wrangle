@@ -1,9 +1,3 @@
-# TO DO:
-# - FIX NaN VALUES
-# - DON'T STORE EMPTY VALUES
-# - FIX ID / AFILE ID KEYS IN PAGE DATA
-# - MOVE is_g325a" and "is_cert_naturalization" to top level
-
 require 'csv'
 require 'json'
 
