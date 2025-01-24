@@ -1,0 +1,34 @@
+{
+  "id": "A10775863_0004",
+  "page_index": 4,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0004/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "EMBASSY OF THE UNITED STATES OF AMERICA, PPT 9-16:0'NEILL Mrs. Margaret"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1946,
+        1933,
+        1964,
+        1957,
+        1932
+      ]
+    }
+  },
+  "anumber": "A10775863",
+  "full_text": "PPT 9-16:0'NEILL Ars. Margaret ml EMBASSY OF THE UNITED STATES OF AMERICA Via Air Mail Dublin 4, Ireland. July 8, 1964. Mrs. Margaret O'Neill, 829 Hyde Park Avenue, Hyde Park, Boston 36, Mass. Dear Mrs. O'Neill: The receipt is acknowledged of your letter dated June 22, 1964, requesting the Embassy to forward to you the certificate of loss of United States nationality in your case, which contains information regarding your acquisition of American citizenship. Your citizenship file at this office shows that you were naturalized before the Supreme Court of the State of New York at Long Island City, New York, on November 30, 1932, in your maiden name, Margaret Horgan. Certificate of Naturalization number 3645015 was issued to you. You were issued passport number 30184 in your maiden name, by the Department of State on June 8, 1933. You lost your American nationality under Section 404(b) of the Nationality Act of 1940 by residing continuously in Ireland, the country of your birth, for a period of three years. The effective date of loss was October 15, 1946. A certificate of loss of nationality in your name, dated, July 30, 1957, was approved by the Department of State on August 13, 1957. A copy of the approved certificate of loss was forwarded to you from the American Consulate at Cork on September 3, 1957. The Embassy does not, therefore, have a copy to forward to you at this time. In view of the recent decision made by the Supreme Court of the United States in the Schneider v.Rusk case, it appears that you may regain your American citizenship. It is believed that the information contained in this letter will be of assistance to you in this matter. Sincerely yours, For the Charge d'Affaires a.i., theore American Kiyonao Consul Okami Heame"
+}

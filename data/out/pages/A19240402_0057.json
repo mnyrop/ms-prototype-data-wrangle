@@ -1,0 +1,17 @@
+{
+  "id": "A19240402_0057",
+  "page_index": 57,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0057/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "misc"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+  },
+  "anumber": "A19240402",
+  "full_text": "A 19 240 401-402 02/13/74 Anna and Janos Nemeth C/O Tolstoy Foundation 250 West 57th. Street New York, New York 10019 Seaport Sec. 11th. Floor Monday, February 25, 1974 2:15 P. M."
+}

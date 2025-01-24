@@ -1,0 +1,17 @@
+{
+  "id": "A10775863_0026",
+  "page_index": 26,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0026/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "misc"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+  },
+  "anumber": "A10775863",
+  "full_text": "American Consular Service Cork, Ireland. July 3, 1939. Application for registration this date , to include two children AMERICAN CONSULATE CORK, IRELAND. Certificate of the Loss of the Nationality of the United States executed at the American Consulate, Cork, Ireland, on July 30th, 1957 Erich W. A. Hoffmann American Consul STO SEUBN 12 our 10 paidon"
+}

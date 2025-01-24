@@ -1,0 +1,39 @@
+{
+  "id": "A10775863_0012",
+  "page_index": 12,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0012/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Certificate of the Loss of the Nationality of the United States, F-324"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1907,
+        1946,
+        1944,
+        1933,
+        1957,
+        1940,
+        1932
+      ]
+    }
+  },
+  "anumber": "A10775863",
+  "full_text": "Form No. se FOREIGN SERVICE Established April 1944 CERTIFICATE OF THE LOSS OF THE NATIONALITY OF THE UNITED STATES (This form has been prescribed by the Secretary of State primant to Section 501 of the Act of October 14, 1940, 54 State 1773 DEPARTMENT OF STATE AUG 13 1957 (Date) Copy cos. CERTIFICATE insulate of the United States, APPROVED For the merica at Cork Ireland laus Secretary or State Frances G. knight Passport I. Erich A. Hoffmann here certify that, to the best of my knowledge and belief, Jame By JECOM HORGAN (argaret O'Neill, nee was born at Ovens County Cork (Town or city) (Province or county) Ireland on March 17, 1907 ; State or country (Date That She resides at 31 Reendowney Place, Friars' Walk, Cork, Ireland : (Street) (City) (State) That She last resided in the United States a Queensborough Hospital, Long Island (Street) (City) N.Y. New York ; State That She left the United States on or about August 1933 : (Precise date should be given) That She acquired the nationality of the t ted States by virtue of naturalization before the Supreme Court of the State of New York, held at Long \"Isiani City, himth New York, on November 30th, 1932, in her maiden name Margaret HORGAN. the United States so state if naturalized give the name and the court in the United States before which naturalisation was granted naturalization hot That She has expatriated himself under the provisions of Section 404(b) of Chapter IV of the Nationality Act of 1940 by residing continuously for three years in a foreign state in which the place of her birth is situated. Effective loss of nationality October 15 1946. expatriation should be set forth muchaelly) That the evidence of such action consists of the following: Mrs. Margaret 'Neill returne to Ireland on August 7th, 1933 as indicated in her passport of 50184 issued by the Department on June 8, 1933 in her maiden name Margaret and such documentary evidence as may be available concerning the action causing expatriation of the Individual concerned) HORGAN, and she resided in the country of her birth, Ireland, ever sind that date. Her case does not come within the purview of any exception to the operation of Section 404 of the ACT. In testimony whereof, I have hereunto subscribed my name and affixed office seal this 30th day of July 1957. (Month) [SEAL] Erich W. A. Hoffmann Consul of the United States of America. (Title of officer)"
+}

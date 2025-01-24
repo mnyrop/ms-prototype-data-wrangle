@@ -1,0 +1,30 @@
+{
+  "id": "A10775863_0020",
+  "page_index": 20,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0020/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "REQUEST FOR INFORMATION FROM NATURALIZATION FILE ( (N-585 is attached, fill in items 2, 3 and 6 only)"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1957
+      ]
+    }
+  },
+  "anumber": "A10775863",
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Bx 586 REQUEST FOR INFORMATION FROM NATURALIZATION FILE (If N-585 is attached, fill in items 2, 3 and 6 only) 1. CERTIFICATE NO. C-3 645 015 2. REQUESTING OFFICE Boston, Mass. N-565-etk 3. DATE OF REQUEST 7-23-64 4. FILE NO. 5. NAME OF APPLICANT Margaret O'Neill 6. REASON FOR REQUEST a. Derivative f. Application for Certificate, N-580 b. Lost Papers g. Denaturalization proceedings C. Special Certificate h. Birth Date d. New Name Certificate i. Information from Record . furnish copy of Petition Old Certificate submitted j. Other (Specify, indicate application Form No. if any) e. New Name Certificate Old Certificate lost or mutilated PLEASE SEND COMPLETE NATURALIZATION FILE INCLUDING DENATURALIZATION PROCEEDINGS. AL$0 NATURALIZATION CERTIFICATE IF IN FILE. 7. NAME OF NATURALIZED PERSON Margaret Horgan AT TIME OF NATURALIZATION 8. DATE OF BIRTH 3-16-07 - Ireland 9. COURT (TITLE and LOCATION) Supreme Court, Long Island City, N Y. 10. DATE OF NATURALIZATION 11-30-32 11. NO EVIDENCE OF LOSS OF CITIZENSHIP APPEARS IN FILE Eppat 1957 12. COMPLETE FILE FORWARDED - 13. PHOTOGRAPH OF CERTIFICATE ATTACHED 14. PHOTOGRAPH OF PETITION ATTACHED 15. PETITION FILED ON SHOWS DATE OF BIRTH TO BE 3-17-07 SIGNATURE OF TRANSCRIBER DATE TRANSCRIBED GPO 947-592 Form G-347 (Rev. 3-25-64)"
+}

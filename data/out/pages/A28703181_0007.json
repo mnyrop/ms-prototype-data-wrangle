@@ -1,0 +1,25 @@
+{
+  "id": "A28703181_0007",
+  "page_index": 7,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28703181_0007/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Screened by NARA, 5/9/2023, ARQUIVO GENERAL DEL ESTADO"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "anumber": "A28703181",
+  "full_text": "Screened by NARA, 5/9/2023 te autorizado manifestande: que los contrayentes no padecen ningu na de las enfermedades querse-ala el artículo 103 cientro tres del Codigo Sanitario de los Estados Unidos Mexicanos ni defecto fisi- CO que les impida el matrimonio.- Presentan como testigos por par te del contrayente a los ciudadanos Geronimo López y J.Jesus Maga llanes, casados, agricultores y vecinos del rancho de la Palma y- Guadalupe respectivamente, y por parte de la seorita a los seño- res Juan Villareal y Leonardo Gonzalez, casado el primero, y el - segundo soltero, y vecinos de este lugar. - Leída que les fue la presente fueron conformes y firmó el que supo.- A. Castrellón. María Dolores Ramirez. - Leonardo Gonzalez. - Juan Villareal.- - Geró nimo López. - Rúbricas. Es copia sacada fielmente del libro antes citado, se expide- a solicitud el interesado, para los usos legales que al mismo con vengan, en la ciudad de Zacatecas, Zac. a cinco de julio de mil- novecientos setenta y cuatro. Jesus Medrano Avalos. ESTADO DEL UNIDOS LIDER SECTION SECURITY ARCHIVO GENERAL DEL ESTADO"
+}

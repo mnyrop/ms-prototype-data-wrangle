@@ -1,4 +1,5 @@
 require 'csv'
+require 'fileutils'
 require 'json'
 
 IN_DIR              = './data/in'
@@ -68,6 +69,8 @@ end
 # EXPORT SUBSET PAGE DATA
 puts "writing data for #{@pages.count} pages"
 File.write("#{OUT_DIR}/pages.json", JSON.pretty_generate(@pages))
+FileUtils.mkdir_p("#{OUT_DIR}/pages")
+@pages.each { |page| File.write("#{OUT_DIR}/pages/#{page['id']}.json", JSON.pretty_generate(page)) }
 
 # GET LIST OF SUBSET G325A FORMS + EXPORT
 @g325as = @pages.select { |page| page.dig('fields', 'is_g325a') == true }

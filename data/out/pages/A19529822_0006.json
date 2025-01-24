@@ -1,0 +1,36 @@
+{
+  "id": "A19529822_0006",
+  "page_index": 6,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0006/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "male"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Application for Naturalization, N-4"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Pakistan",
+        "United States",
+        "India"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1906,
+        2023
+      ]
+    }
+  },
+  "anumber": "A19529822",
+  "full_text": "Screened by NARA, 7/13/2023 U.S. Department of Justice OMB #1115-0009 Immigration and Naturalization Service Application for Naturalization START HERE - Please Type or Print FOR INS USE ONLY Returned Part 1. Information about you. Receipt Family Name WADHWANI Given Middle Name DURUPADI Initial J U.S. Mailing Address - Care of N/A Resubmitted Street Number Apt. and Name 57 MANGER ROAD # NONE City CEDAR KNOLLS County MORRIS State ZIP NEW JERSEY Reloc Sent Code 07927 Date of Birth 11/28/1906 Country (month/day/year) at Birth PAKISTAN Social Security # 120-54-8105 A # A19 529 822 Reloc Rec'd Part 2. Basis for Eligibility (check one). a. 1 have been a permanent resident for at least live (5) years b. I have been a permanent resident for at least three (3) years and have been married to a United States Citizen for those three years. Applicant Interviewed C. I am a permanent resident child of United States citizen parent(s) d, I am applying on the basis of qualifying military service in the Armed Forces of the U.S. and have attached completed Forms N-426 and G-325B At interview e. Other. (Please specify section of law) request naturalization ceremony at court Part 3. Additional information about you. Remarks Date you became a permanent Port admitted with an immmigrant visa or INS Office resident (month/day/year) where granted adjustment of status. 11/2/72 NYC Citizenship INDIA Name on alien registration card (if different than in Part 1) Other names used since you became a permanent resident (including maiden name) BHAGWANANI Sex Male Height Marital Status: Single Divorced Female 4'8\" Married Widowed Can you speak, read and write English ? No Yes. 58/20 Action Absences from the U.S.: Have you been absent from the U.S. since becoming a permanent resident? No Yes. If you answered \"Yes\" complete the following, Begin with your most recent absence. If you need more room to explain the reason for an absence or to list more trips, continue on separate paper. Did absence last Date left U.S. Date returned 6 months or more? Destination Reason for trip Yes No Yes No To Be Completed by Attorney or Representative, if any Yes No Fill in box if G-28 is attached to represent the applicant Yes No VOLAG# Yes No Yes No ATTY State License Form N-400 (Rev 07/17/91)N Continued on back."
+}

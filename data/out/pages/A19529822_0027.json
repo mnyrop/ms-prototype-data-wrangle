@@ -1,0 +1,25 @@
+{
+  "id": "A19529822_0027",
+  "page_index": 27,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0027/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "COVER SHEET RECORD OF PROCEEDING, M-175 ( (Rev. 10-20-69)"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "anumber": "A19529822",
+  "full_text": "Screened by NARA, 7/13/2023 UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE COVER SHEET RECORD OF PROCEEDING This is a permanent record of the Immigration and Naturalization Service. Any part of this record that is removed MUST BE RETURNED after it has served its purpose. INSTRUCTIONS 1. Place a separate cover sheet on the top of each Record of Proceeding. 2. Each Record of Proceeding is to be fastened on the inner left side of the file jacket in chronological order. 3. Any person temporarily removing any part of this record must make, date, and sign a notation to this effect which is to be retained in this record, below the cover sheet. The signer is responsible for replacing the removed material as soon as it has served its purpose. 4. See AM 2710 for detailed instructions. M-175 (Rev. 10-20-69) GPO 946-316"
+}

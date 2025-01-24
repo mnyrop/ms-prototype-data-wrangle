@@ -1,0 +1,25 @@
+{
+  "id": "A10712436_0016",
+  "page_index": 16,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0016/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Notice of Naturalization Oath Ceremony, N-445A ("
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "years": {
+      "ms_years_nlp_v1": [
+        1996
+      ]
+    }
+  },
+  "anumber": "A10712436",
+  "full_text": "U.S. Department of Justice OMB #1115-0052 Immigration and Naturalization Service Notice of Naturalization Oath Ceremony Naturalization and Citizenship Branch File or A # 300 NORTH LOS ANGELES STREET A10 712 436 LES ANGELES, CA 90012 Date 7/20/1996 You are hereby notified to appear for a Naturalization Oath Ceremony at the DATE, TIME AND LACE SHOWN BELOW. Date 8/09/1996 RESA DOMINGUE RENDEROS Time 3:00 AR 984.3 RAMONA $ 17. #405 LIFLOWER CA 90706 Place LCS ARGELES CONVENT tun CENTER 1201 source LEVERON STREET You must bring the following with you: This letter, with ALL of the QUESTIONS ON THE REVERSE side answered in ink or on a typewriter. Alien Registration Card. Reentry Permit or Refugee Travel Document. Any immigration documents you may have. If the naturalization application is ON BEHALF OF YOUR CHILD (children), BRING your CHILD (children). If you cannot come to this ceremony, return this notice immediately and state why you cannot appear. In such case, please use the return address in the extreme upper left hand corner of this letter. You will be sent another notice of ceremony at a later date. You must appear at an oath ceremony to complete the naturalization process. Form N-445A (Rev. 5/23/94)Y IMPORTANT - PLEASE SEE REVERSE"
+}

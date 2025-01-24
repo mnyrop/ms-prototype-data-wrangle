@@ -1,0 +1,33 @@
+{
+  "id": "A19240402_0016",
+  "page_index": 16,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0016/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-4 100 ( Rev. 5-1-76)"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1976
+      ]
+    }
+  },
+  "anumber": "A19240402",
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE Form approved IMMIGRATION AND NATURALIZATION SERVICE OMB Ng 43 R0079 FEE STAMP APPLICATION TO FILE PETITION FOR NATURALIZATION Mail or take to: IMMIGRATION AND NATURALIZATION SERVICE 245 ALIEN REGISTRATION (Show the exact spelling of your name as it appears on your alien registration (See INSTRUCTIONS. BE SURE YOU UNDERSTAND EACH receipt card. and the number of your card. If you did not register, so state.) QUESTION BEFORE YOU ANSWER IT.) Name ANNA GABRIELLA NEMETH No. A-19240 402 Date: 4/4/77 My name is: ANNA GABRIELLA NEMETH (Print or type here your present full name only) I live at: 300 MONTE VISTA APT 103 OAKLAN CA 94611 (Print or type present apartment number, street address, and if appropriate \"in care of OAKLAND ALAMEPA (City) we (County) JCA, (State) 94611 (ZIP Code) Other names I have used are: ANNA KARDOS NEMOTIFGMBORNE (Print or type here any other name you have ever used, including maiden name) My present occupation is HOUSEWIFE Sex: Male Female (1a) Was your father or mother ever a United States citizen? (If \"Yes\" explain fully separately) Yes No (1b) Can you read and write English? Yes No (1c) Can you speak English? Yes No (1d) Can you sign your name in English? Yes No (2) In what places in the United States have you lived during the last 5 years? List present address FIRST. FROM To- STREET ADDRESS CITY AND STATE (a) 5-1-1976 PRESENT TIME 300 MONTE VISTA OAKLAND Ca 94611 (b) 3-1-1974 5- 1976 534 W. WELLINGTON CHICAGO 122, 60657 (c) 1-20.19.12 3-1 74 3172 N. SHERIDAN CHILAGO 122 60657 (d) 19 19 (3) What were the names, addresses, and occupations (or types of business) of your employers during the last 5 years? (If none, write \"None.\") List present employment FIRST. FROM- To- EMPLOYER'S NAME ADDRESS OCCUPATION OR TYPE OF BUSINESS (a) 19 PRESENT TIME (b) 19 19 (c) 19 19 NONE (d) 19 19 (4) Have you been out of the United States since you first arrived? Yes No If \"Yes\" fill in the following information for every absence of less than 6 months. no matter how short it was. 8 NAME OF SHIP, OR OF AIRLINE, RAILROAD COMPANY Bus DATE DEPARTED DATE RETURNED COMPANY OR OTHER MEANS USED TO RETURN TO THE PLACE OR PORT OF ENTRY THROUGH WHICH You UNITED STATES RETURNED TO THE UNITED STATES / (5) How many times have you been married? How many times has your husband or wife been married? If either of you has been married more than once, fill in the following information for each previous marriage. Check one) DATE MARRIED DATE MARRIAGE ENDED NAME OF PERSON TO WHOM MARRIED SEX PERSON MARRIED WAS How MARRIAGE CITIZEN ALIEN ENDED (a) (b) (c) (d) Form N-400 (Rev. 5-1-76)N (1) GHT (OYER)"
+}

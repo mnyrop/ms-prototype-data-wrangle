@@ -1,0 +1,25 @@
+{
+  "id": "A21203456_0012",
+  "page_index": 12,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0012/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Surrender This copy when leaving the United States - see reverse, I-94"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    }
+  },
+  "anumber": "A21203456",
+  "full_text": "Family Name (Capital Letters) First Name Middle Initial TA THI VIEN T 000 Country of Citizenship Passport or Alien Registration Number Permit Numbe VN ID 017 64 51 United States Address (Number, Street, City and State) US DEL FPJMT, APO SF 96393 Airline, and Flight No. or Vessel of Arrival Passenger Boarded at Military Saigon Number, Street, City, Province (State) and Country of Permanent Residence Saigon Month, Day and Year of Birth PAROLED PURSUANT TO SEC.212(d)(5) 1885 OF THE I & N ACT TO: City, Province (State) and Country of Birth PURPOSE: SON TAY NVN Visa Issued at (Port) (Date) Officer) Month, Day and Year Visa Issued FORM I-94"
+}

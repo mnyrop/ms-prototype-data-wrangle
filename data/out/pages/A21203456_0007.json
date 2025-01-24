@@ -1,0 +1,25 @@
+{
+  "id": "A21203456_0007",
+  "page_index": 7,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0007/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "IMPORTANT NOTICE, FORM 1-94 (Rev. 9-1-73)N (Parole Edition)"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    }
+  },
+  "anumber": "A21203456",
+  "full_text": "IMPORTANT NOTICE Your arole into the United States does not consti tute an admission under the terms of the Immigra- tion and Nationality Act. You must observe the conditions of the parole and failure to comply with any of those conditions may result in the revocation of your parole. If, for any reason, you do not pro- ceed to the address shown on the face of this form, or if after arrival, you change your address you must immediately report to the nearest office of the Immigration and Naturalization Service. You must also report to the nearest office of the Immigration and Naturalization Service if your status is not otherwise changed or if you do not leave the United States before the termination date shown. UPON DEPARTURE FROM THE UNITED STATES By sea or air surrender this permit to trans- portation line. Over Canadian border, surrender this permit to Canadian Immigration Officer. Over Mexican border, surrender this permit to United States Immigration Officer. N DEPARTURE RECORD Port: Date: Carrier: To: (Country of disembarkation) UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service Form Approved Budget Bureau No. 43-R311.7 ARRIVAL - DEPARTURE RECORD FORM I-94 (Rev. 9-1-73)N (Parole Edition)"
+}

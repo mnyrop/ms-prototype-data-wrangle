@@ -1,0 +1,35 @@
+{
+  "id": "A10712436_0030",
+  "page_index": 30,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0030/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "FOREIGN SERVICE MEDICAL EXAMINATION OF VISA APPLICANTS, FS-398"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "El Salvador"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1953,
+        1957,
+        1956
+      ]
+    }
+  },
+  "anumber": "A10712436",
+  "full_text": "Form FS-398 PLACE (Rev. May 1953) FOREIGN SERVICE San Salvador UNITED STATES OF AMERICA DATE MEDICAL EXAMINATION OF VISA APPLICANTS Dec. 13th.1956 CITY COUNTRY At the request of the American Consul at San Salvador El Salvador NAME AGE SEX I certify that on the above date I examined Rosa Aminta Renderos 39 F I examined specifically for evidence of any of the following conditions: CLASS A: TUBERCULOSIS (in any form) LEPROSY (Hansen's Disease) DANGEROUS CONTAGIOUS DISEASES: Actinomycosis Granuloma Inguinale Ringworm of scalp Amebiasis Keratoconjunctivitis infections Schistosomiasis Blastomycosis Leishmaniasis Syphilis, infectious stage Chancroid Lymphogranuloma Venereum Trachoma Favus Mycetoma Trypanosomiasis Filariasis Paragonimiasis Yaws Gonorrhea MENTAL CONDITIONS: Feeble-mindedness Previous occurrence of one or more Mental defect (mental deficiency) attacks of insanity Narcotic drug addiction Insanity Psychopathic personality Chronic alcoholism Epilepsy (Idiopathic) (See proviso, sec. 34.7, USPHS Regs.) CLASS B: Physical Defect, Disease, or Disability Serious in Degree or Permanent in Nature Amounting to a Substantial Departure from Normal Physical Well-Being. CLASS C: Minor Conditions. (Check number (1) below or complete number (2) ) My examination, including the X-ray and other reports below, revealed: (1) No defect, disease, or disability (2) Defect, disease, or disability, or previous occurrence of one or more attacks of insanity, as follows (give class-A, B, or C-diagnosis, and pertinent details*) : Passed JAN 9 - 1957 U. S. QUARANTINE STATION Halmmen BROWNSVILLE TEXAS BY: QUARANTINE INSPECTOR EOR: MED. OFFICER IN- CHARGE- Chest X-ray report Negative from Dr. Esquivel Blood serological report Negative from Dr. Bloch Urinalysis report Normal from Dr. Bloch SIGNATURE OF MEDICAL EXAMINER Think TITLE *Continue on reverse side if necessary. GPO 945912"
+}

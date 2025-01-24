@@ -1,0 +1,30 @@
+{
+  "id": "A10712436_0045",
+  "page_index": 45,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0045/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "COMPTON COLLEGE, 1111 EAST ARTESIA STREET COMPTON, CALIFORNIA"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "El Salvador"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1956
+      ]
+    }
+  },
+  "anumber": "A10712436",
+  "full_text": "COMPTON COLLEGE 1111 EAST ARTESIA STREET COMPTON, CALIFORNIA LUCILE DOUGLASS PAUL MARTIN November 5th, 1956 Dean President Rosa Aminta Renderos Dominquez Calle Chile # 6 Bo. Candelaria San Salvador, E. Salvador, C.A. Dear Madam: On the recommendation of your cousin and my student, Martha Dominquez Smith, I wish to offer you employment doing housework. The remuneration ,contingent on the amount of work hours you wish to put in, could amount to thirty two dollars a week and your board and room. I would appreciate hearing from you as soon as possible. Yours very sincerely, Alice Greenough R.N.,M.A. Alice Greenough, R.N. 9 M.A. Director of Vocational Nurse Program AG/hf"
+}

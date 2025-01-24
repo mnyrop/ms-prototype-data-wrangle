@@ -1,0 +1,26 @@
+{
+  "id": "A10775863_0000",
+  "page_index": 0,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0000/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Memo, C 3645015"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "years": {
+      "ms_years_nlp_v1": [
+        1933,
+        1964
+      ]
+    }
+  },
+  "anumber": "A10775863",
+  "full_text": "A10775863 C 3645015 Memo: App being duly sworn, testified as follows: App test that she had one absence from the U.S. in excess of six months since her natz on 11/30/32. She test that she dad departed from the U.S. sometime in 1933 and returned to the U.S. on 11/8/59. She stated that this absence was onlt to her native country of Ireland. App test that she had never voted in a foreign election, had never worked for a foreign government, had never served in the Armed Forces of a foreign country, had never taken an oath of allegiance to a foreign country, and had never obtained foreign natz. The State Dept file in her visa file ( A 10 775 863 ) reflects that App was held to have expatriated due to foreign residence. The U.S. Supreme Court in Schneider V. Rusk in May of 1964 held this to be unconstitutional. As no other grounds for expatriation is indicated, it appears that App has not been expatriated. In accordance with instructions contained in NE Memo of 7/9/64, a new N.C. was issued. App subsequently married and has surrended her old cert and a new one in her marriage was issued her this day. General Attorney, Natz. Boston, Mass. Sept 11, 1964"
+}

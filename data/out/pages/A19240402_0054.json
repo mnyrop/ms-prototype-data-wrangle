@@ -1,0 +1,32 @@
+{
+  "id": "A19240402_0054",
+  "page_index": 54,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0054/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, G-14"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Hungary",
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1907,
+        1972
+      ]
+    }
+  },
+  "anumber": "A19240402",
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE I RECEIVED N Immigration and Naturalization Service JAN I- File No: Northern 219 Chicago S Decision Ch Ill Fll-60604 Date: 1/15/74 Your assistance in furnishing additional identifying information is requested so that we may act upon or reply to your communication. Please fill in the necessary information and return this letter and any attached material to this office. Any Other File Your \"A-\" (Alien Registration) No. A19-240-402 No., if Known Your Full Name AnnA Gabriella Nemeth Complete Present Address 3170 N, Sken dan Rd.- Address in U.S. at Time of Entry Tolst of Found. Fisk Bldg 250W SISN. 10019 Birthdate 3-16-1907 Birthplace Budapesty Hungary Airline and Flight Number or Vessel of Arrival Miaz 21/154-72 Date of Entry 1/13/1972 Place of Entry N. y C. - Type of Entry (Temporary Visitor, Student, Permanent Residence Visa, Reentry Permit, etc.) Refugee Destination in U.S. as Shown on Entry Document Ch, Ill. Name Used at Time of Arrival Anna Gabrielle Nemeth Other Names Used at Any Time none time Nerweth 3170 N. Sheridan Rd. - Ch. Tll-6065 Please fill in the following if an application or previous correspondence concerning this matter was forwarded to this Service: DEDEMED Type of Application: Date of Application or Correspondence: Your address as shown on application or correspondence: Address of Service office where application or correspondence was forwarded: Form G-14 (Rev. 4-7-72)N"
+}

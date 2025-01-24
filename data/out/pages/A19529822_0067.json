@@ -1,0 +1,20 @@
+{
+  "id": "A19529822_0067",
+  "page_index": 67,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0067/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "misc"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+  },
+  "anumber": "A19529822",
+  "full_text": "Screened by NARA, 7/13/2023 Contd of Application for Status as Permanent Resident NAME: WADHWANI DURYPADI JAGATRAI 7.a (6) HARISH M WEST PAK. 12/16/40 WITH NE - (7) NARAIN M 1, 1, 3/26/43 N.Y.CITY N.Y., U.S.A. (8) VISHNU M 4 \" 7/29/45 BOMBAY INDIA (9) USHA F INDIA 6/21/48 WITH ME"
+}

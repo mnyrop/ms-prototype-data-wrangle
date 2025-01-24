@@ -1,0 +1,35 @@
+{
+  "id": "A10712436_0001",
+  "page_index": 1,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0001/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Application for Naturalization, N-4 (Rev. 07/17/91)N"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States",
+        "El Salvador"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1995,
+        1996
+      ]
+    }
+  },
+  "anumber": "A10712436",
+  "full_text": "U.S. Department of Justice OMB 1 1115-0009 Immigration and Naturalization Servic Application for Naturalization START HERE - Please Type or Print FOR INS USE ONLY Returned Receipt Part 1. Information about you. 2 Family Name DOMINGUEZ 3 Renderos Given Name Rosa Initial Middle Aminta U.S. Mailing Address - Care of Rosa Aminta Renderos 0063 001 R 4 06/16/95 16:01 Resubmitted N400 95.00 Street Number and Name 9843 Ramona St. Apt. # 405 City County Bellflower State Los Angeles California ZIP Code 90706 Reloc Sent Date of Birth (month/day/year) 2-28-13/ Country Birth El Satrador of Social A Security # 566-54-1023 # 10712436 Reloc Rec'd Part 2. Basis for Eligibility (check one). a. I have been a permanent resident for at least five (5) years b. I have been a permanent resident for at least three (3) years and have been married to a United States Citizen for those three years. Applicant Interviewed C. I am a permanent resident child of United States citizen parent(s) d. I am applying on the basis of qualifying military service in the Armed Forces of the U.S. and have attached completed Forms N-426 and G-325B At interview e. Other. (Please specify section of law) request naturalization ceremony at court Part 3. Additional information about you. Remarks Date you became a permanent Port admitted with an immmigrant visa or INS Office resident (month/day/year) where granted adjustment of status. 3/c.a) 1-9-570 BRO, TEXAS 0-1 Citizenship E1 Salvador Name on alien registration card (if different than in Part 1) DOMINGUEZ -Renderos, Rosa Aminta Other names used since you became a permanent resident (including maiden name) None Sex Male Height Marital Status: Single Divorced Female 5-00 Married Widowed NOV 07 1995 Can you speak, read and write English ? No Yes. Action APPROVED Absences from the U.S.: INS DISTRICT DIRECTOR Have you been absent from the U.S. since becoming a permanent resident? No Yes. If you answered \"Yes\" , complete the following, Begin with your most recent absence. If you MAY 21 1996 need more room to explain the reason for an absence or to list more trips, continue on separate paper. Did absence last Repommended by Jun Prem Date left U.S. Date returned 6 months or more? Destination Reason for trip LOS 4688 9/78 9/79 Yes No Salvador Vacation 10/77 6/78 Yes No Salvador vacation To Be Completed by Attorney or Representative, if any Yes No Fill in box if G-28 is attached to represent Yes No 2 axa 54 the applicant VOLAG# Yes No Tast Yes No ATTY State License # Form N-400 (Rev. 07/17/91)N Continued on back."
+}

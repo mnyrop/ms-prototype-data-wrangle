@@ -1,0 +1,25 @@
+{
+  "id": "A19240402_0047",
+  "page_index": 47,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0047/full/max/0/default.jpg",
+    "ocr_txt": true
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Naturalization Form, N-4"
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false,
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    }
+  },
+  "anumber": "A19240402",
+  "full_text": "Authority for collection of the personal data information requested on the Description form is contained in Sections 332 and 338 of the Immigration and Nationality Act (8 U.S.C. 1442 and 1449). Submission of this information is voluntary. The principal purpose for requesting this information is to comply with the statutory requirements as to the contents of a certificate of naturalization. The in- formation requested, as a matter of routine use, will be furnished to the clerk of the naturalization court where your petition for naturalization will be filed in order to place the information on a certif- icate of naturalization in the event you are admitted to United States citizenship. As a routine use all or any part of the information may be disclosed to a court, and to other federal, state, local or foreign law enforcement or regulatory agencies, Department of Defense, including any component thereof, the Selective Service System, the Department of State, the Department of the Treasury, the Department of Transportation, Central Intelligence Agency, Interpol and individuals and organiza- tions in the processing of your application or petition for naturalization or during the course of investigation to elicit further information required by the Immigration and Naturalization Service to carry out its function. Information requested which indicates a violation or potential violation of law, whether civil, criminal or regulatory in nature, may be referred, as a routine use, to the appropriate agency, whether federal, state, local or foreign, charged with the responsibility of investigating, enforc- ing or prosecuting such violations. Failure to provide any or all of the requested information will prevent the issuance of a certificate of naturalization. FILL IN NAMES AND ADDRESSES OF YOUR TWO WITNESSES (Type or print) (1st witness) Residing at (Street address, city or town, and State) (2nd witness) Residing at (Street address, city or town, and State) DO NOT WRITE BELOW THIS LINE U.S. State Physical presence Mos. (Naturalization examiner) U.S. GOVERNMENT PRINTING OFFICE c70-16-83252-3"
+}
