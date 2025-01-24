@@ -12,3 +12,5 @@ TO DO:
 - FIX ID / AFILE ID KEYS IN PAGE DATA
 - MOVE is_g325a" and "is_cert_naturalization" to top level
 - NORMALIZE SEX (NARA is F, M/S is female)
+- ADD THUMBNAIL URI TO AFILES
+- ADD IIIF MANIFEST URI TO AFILES
