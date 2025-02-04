@@ -1,0 +1,33 @@
+{
+  "anumber": "A28754751",
+  "id": "A28754751_0017",
+  "page_index": 17,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28754751_0017/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Embassy of the United States of America, 28-754-751"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States",
+        "El Salvador"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1989,
+        1988,
+        2023,
+        1915
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 5/5/2023 - RECEIVED SVC. Embassy of the United States of America D JAN 27 10 21 AM '89 LOS DIDUP 28-754-751 SAN SALVADOR, EL SALVADOR This is to certify that I PRudeNcio Deleon TORRES born 28-4-1915 ,in SOYAPANgO SAN SalvadoR , E1 Salvador, personally appeared at this Embassy to verify my departure from the United States. I presented my passport Number 3099 issued on 28-12-88 , by E1 Salvador as proof of my identity. I entered E1 Salvador on 8-1-89 via AEREA . I posted a Departure Bond of $ 2000 which bears the following A Number 28754751 . X Prudencia d Seon Republic of E1 Salvador ) City and Department of San Salvador ) SS: 10 Embassy of the United States of America ) On this day of JAN 12 1989 ,1988, before me personally came to me known and known to be the person (s) name in and who executed the aforegoing affidavit and acknowledged to me that they executed the same. With (Vice) Consul of the United States Commission Indefinite 22 USC Sec 1195 RAYMOND W. DILLON JR. Vice Consul of the United States of America RD: 5/88"
+}

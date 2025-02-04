@@ -1,0 +1,43 @@
+{
+  "anumber": "A21200457",
+  "id": "A21200457_0055",
+  "page_index": 55,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21200457_0055/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "male"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "BIOGRAPHIC INFORMATION, G-325A"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023,
+        1933,
+        1915,
+        1913
+      ]
+    },
+    "g325a": {
+      "occupation": {
+        "occupation_llm_v1": "['budget i foreign aid office', ' examiner (retired)']"
+      },
+      "nationality": {
+        "nationality_llm_v1": "UN"
+      }
+    }
+  },
+  "is_g325a": true,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/17/2023 FORM G-325A (REV. 10-1-74) Y Form Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE IRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. ALLUYEN AII NH VAN FEMALE 1915 UN (If A21200457 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. None History OF BIRTH(If yes known) NVN CITY AND (If any) APP FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY COUNTRY OF RESIDENCE. REB FATHER Unknown MOTHER (Maiden name) Unlanory HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF 12 May MARRIAGE 3 OR WIFE (For wife, give maiden name) PHAM THI VAC 1913 Hury 1933 Hiny you FORMER HUSBANDS OR WIVES(if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 163 48 Street cholon Sayon UN 65 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATIONISPECIFY) MONTH YEAR MONTH YEAR Budget & foreign in office Examinates 73 PRESENT TIME 1424 Hong that Itt Saijon (Retired) 11 Examinates 65 73 Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE NATURALIZATION ADJUSTMENT OF STATUS OTHER (SPECIFY): REFUGEE 5/8/75 IF YOUR NATIVE ALPHABET is IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: W Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) NEUYEN MENH VAN A21 200 457 (OTHER AGENCY USE) NR INS USE (Office of Origin) SL. Wd hI b 01 AVW OFFICE CODE: TYPE OF CASE: Vicam 3803 DATE: Chaffee SPECIAL FORM G-325A (3) c."
+}

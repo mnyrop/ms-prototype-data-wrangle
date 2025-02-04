@@ -1,0 +1,33 @@
+{
+  "anumber": "A13490102",
+  "id": "A13490102_0008",
+  "page_index": 8,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13490102_0008/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "U.S. DEPARTMENT OF COMMERCE BUREAU OF THE CENSUS, FL12-621"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Russia"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1907,
+        1910,
+        1904,
+        1909,
+        1964
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "jt FL12-621 Formerly FL10-621 (7-16-62) 523-512 U. S. DEPARTMENT OF COMMERCE BUREAU OF THE CENSUS March 3, 1964 WASHINGTON 25, D. C. Re: Jacob I. Melcher 826 S. 52nd St. Omaha, Nebr. OF The following information, including spelling of name, relationship, age, etc. , is an EXACT COPY of the census record as reported by the census taker on the original schedule. Census of 1910 , taken as of April 15 1904 South 4th Street, Omaha County Douglas State Nebraska Name Relationship Age Place of birth Citizenship Melcher, Sam Head Russia *Papers - Cecelia Wife - Jacob Son 10 Russia ** and family *Naturalization papers taken out; year of immigration 1907 **Citizenship not repor ted to the Census Bureau; year of immigration 1909 Ex2 CRICHARD M. SCAMMON DIRECTOR Bureau of the Census The above information is furnished upon application with the understanding that in no case shall the information furnished be used to the detriment of the person or persons to whom the information relates, in accordance with Title 13, United States Code, Section 8. The Bureau of the Census does not issue birth certificates, but this record is often accepted in place of one. U.S. GOVERNMENT PRINTING OFFICE 1962-O-648246"
+}

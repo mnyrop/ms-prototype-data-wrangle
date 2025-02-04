@@ -1,9 +1,9 @@
 {
+  "anumber": "A19240402",
   "id": "A19240402_0055",
   "page_index": 55,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0055/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0055/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -11,10 +11,9 @@
     },
     "form_title": {
       "ms_form_title_llm_v1": "DEPARTAMENTO DE JUSTICIA DE LOS ESTADOS UNIDOS, Exp. 926-907"
-    },
-    "is_g325a": false,
-    "is_cert_naturalization": false
+    }
   },
-  "anumber": "A19240402",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "DEPARTAMENTO DE JUSTICIA DE LOS ESTADOS UNIDOS Servicio de Inmigración y Naturalizacion Expediente Num. Fecha: Tenga la bondad de proporcionar información adicional de identificación con el fin de que podamos dar curso o responder a su comunicacion. Sirvase llenar los espacios indicados y enviar esta forma junto con cualquier otro material a estas oficinas. Su número \"A\" (Registro de Extranjeros) Cualquier otro número de registro, de saberlo Su nombre completo Su dirección actual completa Su dirección en los Estados Unidos en el momento de su llegada Fecha de nacimiento Lugar de nacimiento Fecha de entrada Lugar de entrada Línea aerea y número de vuelo o buque en que llego Tipo de entrada (Visitante Temporal, Estudiante, Visa de Residencia Permanente, Permiso de Reingreso, etc.) Destinación en los Estados Unidos según aparece en el documento de entrada Nombre que usó en el momento de su llegada Otros nombres que haya usado en cualquier momento Sirvase llenar los siguientes espacios si se ha enviado una solicitud a este Servicio, o si ha habido alguna correspondencia en torno a este asunto: Tipo de solicitud: Fecha de la solicitud o correspondencia: Su dirección segun aparece en la solicitud o correspondencia: Dirección de la oficina del Servicio a la cual se envió la solicitud o correspondencia: GPO 926.907"
 }

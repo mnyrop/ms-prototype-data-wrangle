@@ -1,0 +1,30 @@
+{
+  "anumber": "A45105780",
+  "id": "A45105780_0021",
+  "page_index": 21,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A45105780_0021/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Birth Certificate Application Form, 10 RS."
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "India"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1907,
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/15/2023 10 Rs. WG REGISTR 3.0 O and USS POE. 10RS © TEN RUPEES Signing BIRTH AFFIDAVIT I, CHITARAMBHAI VANMALIBHAI PATEL, aged about 87 years, resident of BAJIPURA, TAL : VALOD, DIST: SURAT, GUJARAT STATE, INDIA, do hereby solemnly declare on oath as Under:- We have applied for obtaining the Birth Certificate for GANGABEN D/O NATHUBHAI RANCHHODBHAI PATEL, from Mamlatdar Office, VALOD, DIST: SURAT, INDIA, bu't her birth record is not registered in the Government Record in the year of 1907, recived answer, and hence made this affidavit. GANGABEN D/O NATHUBHAI RANCHHODBHAI PATEL, was born at QC Village BAJIPURA, TAL: VALOD, DIST: SURAT, GUJARAT STATE, INDIA, on 4-9-1907. Her father's name is:- NATHUBHAI RANCHHODBHAI PATEL. Her mother's name is:- BHULIBEN NATHUBHAI PATEL. I am in the same village of the above mention party so I know the above facts very well. What is stated above is true to the best of my knowledge and belief. T I know that to make a false affidavit is a criminal offence. IDENTIFIED BY:- SIGNATURE:- Solemnly affirmed and signed before me by Shri Chitarambhai Vanmalibhai Patel, of Bajipura, Tal: Valod? Dist: Surat, Gujara State, India, who is identified to me by Shri M.N.Vyas, of Bardoli, Dist: Surat? India, whom I know personally to him."
+}

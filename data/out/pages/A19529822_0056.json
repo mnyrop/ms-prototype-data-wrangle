@@ -1,9 +1,9 @@
 {
+  "anumber": "A19529822",
   "id": "A19529822_0056",
   "page_index": 56,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0056/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0056/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "AFFIDAVIT"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "India"
@@ -38,6 +36,7 @@
       ]
     }
   },
-  "anumber": "A19529822",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 7/13/2023 AFFIDAVIT TO WHOM IT MAY CONCERN: lie, DURUPADI JAGATRAI WADHWANI (Maiden name_ ISAR MULRAJ BHAG- WANANI) and JAGATRAI MULRAM WADHWANI solemnly declare that we were married on April 17th., 1926 in KHAIRPUR, WEST PAKISTAN and we have never been separated or divorced. We, further solemnly devlare that the following persons were born to both of us on the dates and at places as shown below: 1. SARASWATI JAGATRAI WADHWAN I_DADV, WEST PAKISTAN 7/5/1932 2. GOBIND JAGATRAI WADHWANI SUKKUR, WEST PARISTAN 4/1/1934 3. KAMALA JAGATRAI WADHWANI SUKKUR, WEST PARISTAN 7/17/1935 4. MOHAN JAGATRAI WADHVANI KARACHI, WEST PAKISTAN 8/1/1937 5. BRAGWAN JAGATRAI WADHWANI__AARACHI, WEST PAKISTAN_ 12/22/1933 6. HARISH JAGATRAI WADHWANI_ KARACHI, WEST PAKISTAN__12/16/1940 7. NARAIN JAGATRAL WADHWANI_ KARACHI, WEST PAKISTAN__K 3/26/1943 8. VISHMO JACATRAI WADHWANI KARACHI, WEST PAKISTAN 7/29/1945 - 9. USHA JAGATRAL WADHWANI BOMBAY, INDIA 6/21/1948 I, Durupadi Jagatrai Wadhwani, further solemnly declare that I was born on NOVEMBER 28th., ,1906 at KARACHI, WEST PAKISTAN, To Mr. MULRAJ BHAGWANANI and Mrs. LACHMI BHAGWANANI. I, JAGAPRAI .ULRAM WADHWANI, further solemnly declare that I was born on NOVEMBER 5th., 1906 at SUKKUR, WEST PAKISTAN, to Mr. MULRAN WADHWANI and Mrs. LACHHMI WADHVANI. 8. S. INSIGRATION NATURALIZATION I have convered this document with the original and certify that it is 31951281215 55,255 a true.cop JUN 12 1972 DURUPADI JAGATRAI WADHWANI DATE IMMIGRANT INSPECTOR (PIT) Swams acculated before me this 5th JAGATRAI MULRAM WADHWANI day of may 972 Jefelin Muleum huddurm WALTER G. GOLEMBIEWSKI, Notary Public Centerville, Washington Co., Pa. My Commission Expires Augs 19, 1974 ahoth motory"
 }

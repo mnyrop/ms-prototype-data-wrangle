@@ -1,0 +1,22 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0118",
+  "page_index": 118,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0118/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1985,
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 Amount of Coverage Two coverage options are provided: High Option coverage and Low Option coverage. The following Age Group/Option table can be used to compute your coverage by selecting your age group, then multiplying the appropriate \"Option\" number by your annual base rate of pay. The example in the table illustrates that an employee 40 years old who has an annual base rate of pay equal to $20,000 is entitled to $50,000 at a monthly cost of $8.33 if he or she elects High Option coverage, or $25,000 at a monthly cost of $4.17 if he or she elects Low Option coverage. The coverage amount will change automatically if the employee's pay changes, or when the employee reaches age 45. High Option Age Group (multiple of employee pay) Under 30 4.0 30-34 3.5 35-39 3.0 40-44 2.5 X $20,000=$50,000 coverage 45-49 2.0 50-69 1.5 Low Option Age Group (multiple of employee pay) Under 30 2.00 30-34 1.75 35-39 1.50 40-44 1.25 X $20,000=$25,000 coverage 45-49 1.00 50-69 .75 You may change from High Option coverage to Low Option coverage at any time. No medical examination is required. However, to change from Low Option coverage to High Option coverage you must submit written proof of your good health, acceptable to the insurance company. PUBLICATION NUMBER 59-7123, JUNE, 1985 3"
+}

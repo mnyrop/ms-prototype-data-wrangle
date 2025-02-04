@@ -1,16 +1,14 @@
 {
+  "anumber": "A19240402",
   "id": "A19240402_0073",
   "page_index": 73,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0073/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0073/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
       "ms_doctype_v1": "form"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "years": {
       "ms_years_nlp_v1": [
         1971,
@@ -18,6 +16,7 @@
       ]
     }
   },
-  "anumber": "A19240402",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "WORKSHEET FOR CONDITIONAL ENTRANT No Show: A14 240 402 Excused: Interviewed at : Date: out16, 1971 Travel Document: none (hot l pp. Asylum granted ( ) pending x denied ( ) not requested ( Entry into country of asylum: Legal X Illegal () Countries traveled through: through austin Legal X Illegal ( ) Number of marriages: one Prior marriage terminated: Divorce () Date Place Death (X) Date 1964 Place Hungany Years of education: 8 Elementary Secondary College University Trade School Now employed: Yes ( ) No (X) Type of employment: Military service: years Rank: Arrests: Yes ( ) No X Reason: son A142404011 Come h Sermony to join son FKG-4 (12-27-67)"
 }

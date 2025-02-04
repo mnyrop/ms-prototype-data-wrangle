@@ -1,0 +1,42 @@
+{
+  "anumber": "A28068003",
+  "id": "A28068003_0016",
+  "page_index": 16,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28068003_0016/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Part 7. Time outside the United States (Including Trips to Canada, Mexico and the Caribbean Islands), NARA, 4/2023"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Saudi Arabia",
+        "Canada",
+        "United States",
+        "Mexico"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2002,
+        1995,
+        1999,
+        1996,
+        2004,
+        1993,
+        2023,
+        1997,
+        2005,
+        1994,
+        2001
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 4/24/2023 Part 7. Time outside the United States. Write your USCIS \"A\"- number here: (Including Trips to Canada, Mexico and the Caribbean Islands) A 28068003 A. How many total days did you spend outside of the United States during the past five years? 197 days B. How many trips of 24 hours or more have you taken outside of the United States during the past five years? 10 trips C. List below all the trips of 24 hours or more that you have taken outside of the United States since becoming a Lawful Permanent Resident. Begin with your most recent trip. If you need more space, use a separate sheet(s) of paper. Date You Left the Date You Returned to Did Trip Last Total Days United States the United States Six Months or Out of the (mm/dd/yyyy) (mm/dd/yyyy) More? Countries to Which You Traveled United States 07/1996 07/1996 Yes No Toronto, Canada 4 6/1993 06/1993 Yes No Toronto, Canada 4 11/1999 12/1999 Yes No Toronto, Canada 21 7/2001 07/2001 Yes No Toronto, Canada 4 6/2002 06/2002 Yes No Toronto, Canada 4 8/24/2004 8/28/2004 Yes No Toronto, Canada 5 7/19/2005 8/19/2005 Yes No Toronto, Canada 30 08/29/1997 09/03/1997 Yes No Ottowa, Canada 5 11/10/1994 01/1995 Yes No Jedda, Saudi Arabia 60 11/14/1996 02/1997 Yes No Jedda, Saudi Arabia 60 Part 8. Information about your marital history. A. How many times have you been married (including annulled marriages)? 1 If you have never been married, go to Part 9. B. If you are now married, give the following information about your spouse: 1. Spouse's Family Name (Last Name) Given Name (First Name) Full Middle Name (If applicable) 2. Date of Birth (mm/dd/yyyy) 3. Date of Marriage (mm/dd/yyyy) 4. Spouse's U.S. Social Security # 5. Home Address - Street Number and Name Apartment Number City State Zip Code Form N-400 (Rev. 10/15/07) Y Page 4 8260"
+}

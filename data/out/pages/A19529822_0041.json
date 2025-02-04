@@ -1,9 +1,9 @@
 {
+  "anumber": "A19529822",
   "id": "A19529822_0041",
   "page_index": 41,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0041/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0041/full/max/0/default.jpg"
   },
   "fields": {
     "sex": {
@@ -15,8 +15,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "Affidavit of Support"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -29,6 +27,7 @@
       ]
     }
   },
-  "anumber": "A19529822",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 7/13/2023 UNITED STATES DEPARTMENT OF JU E Form approved Immigration and Naturalization Servic Budget Bureau No. 43-R423 AFFIDAVIT OF SUPPORT (Fill in with typewriter or print in block letters in ink) I, BHAGWAN WADHWANI Residing at R.D. 1 Box 66A (Name) (Street and number) SMOCK PENNSYLVANIA - 15480 U.S.A (City) (State) (ZIP Code, if in U.S.) (Country) being duly sworn depose and say: 1. I was born on 12-22-38 at KARACHI PAKISTAN Also, answer either a, b or c, as appropriate (Date) (City) (Country) if you are not a native born United States citizen (a) If a United States citizen through naturalization, give number of certificate of naturalization 9694525 (b) If a United States citizen through parent (s) or marriage, give number of own certificate of citizenship . If none obtained, attach statement explaining how citizenship derived. (c) If an alien lawfully admitted to the United States for permanent residence, give 'A' number . 10 2. That I am 33 years of age and have resided in the United States since JUNE 1964 . 3. That this affidavit is executed in behalf of the following person(s) at present residing at 97-11 HORACE HARDING EXPWY Apt. 18k, LAFRAK CITY NY.CITY,N.Y.11368 MARRIED OR RELATIONSHIP TO NAME SEX AGE COUNTRY OF BIRTH SINGLE DEPONENT DURUPADI J F 65 WEST PAK M MOTHER WADHW ANI ISTAN 4. (a) That employed as, engaged I am or in the business of PHYSICIAN with CENTERVILLE (Name of concern) CLINIC FREDERICK ING TOWN PA 15333 at R.D.1 derive a net annual income of $ 38,710: (b) That I have on deposit in savings (Address) banks in this country $ 1 (c) That I have other personal property, the reasonable value of which is $ - (d) That I have stocks and bonds in the amount of $ 13,567 P market value, as indicated on attached list which I certify to be true and correct to the best of my knowledge and belief. (e) That I own real estate at RD1 SMOCK PA valued at $ 33,500 , with mortgages or other encumbrances there- on amounting to $ 23,364 (f) That I have life insurance in the sum of $ cash surrender , value of $ (g) That if self-employed, I attach a copy of my last income tax return or report of com- mercial rating concern which I certify to be true and correct to the best of my knowledge and belief. (See reverse side for nature of evidence of net worth to be submitted) Form I-134 (Rev. 12-9-66)"
 }

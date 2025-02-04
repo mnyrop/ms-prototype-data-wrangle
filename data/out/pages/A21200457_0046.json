@@ -1,0 +1,31 @@
+{
+  "anumber": "A21200457",
+  "id": "A21200457_0046",
+  "page_index": 46,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21200457_0046/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1977,
+        2023,
+        1976
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/17/2023 Information Minh Van Nguyen & Family DOG ends avertied Check IMM. & RECEIV NATZ. 138 Kent Road Upper Darby PA. 19082 1977 NOV 2 25 All 52 November, 22-1977 for PRIL UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service 601 Market Street Philadelphia, PA. 19106 site Dear Sir: We have submited our petition for admission to the United States or adjustment to lawful permanent resident status on April 1976 when we lived at 17 West Hillcrest, Havertown. But now we are moving to a new address as below: Old Address: Minh Van Nguyen & Family *38 17 West Hillcrest Havertown, PA. 19083 New Address: Minh Van Nguyen & Family 138 Kent Road Upper Darby, PA. 19082 From now On, all correspondances vill be sent to our above new address. Please, feel free to accept our hearted thanks. Very truly yours"
+}

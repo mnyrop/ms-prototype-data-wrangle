@@ -1,0 +1,19 @@
+{
+  "anumber": "A44045795",
+  "id": "A44045795_0009",
+  "page_index": 9,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44045795_0009/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "misc"
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/15/2023 DATE: NOV 03, 1992 BIO-DATA INFORMATION PAGE: 109 Case Number: BMB - 928000066 FSC: INDIA INS Ofc/Rec No: EAC 9221851120 Visa Symbol 1: IR5 Priority Date 1: 16JUL92 BENEFICIARY: MISTRY, MANCHHABEN CHHABILDAS SONI FALIA, AT & POST KHARA ABRAMA TA: NAVSARI GUJARAT 396406 INDIA PETITIONER: MISTRY, SHANTILAL CHHABILDAS 105 GREGORY AVENUE APT 3C PASSAIC NJ 07055 Phone: 201 777-3279 Work: Relation to PA: SON (OVER 21) DOB: 14DEC28 US Status: U.S. CITIZEN Id No: FOIA (b) (6) SSN: FOIA (b)(6) Date Current: 26OCT92 Pkt 3A/RP Sent: Pkt 3 Sent: 03NOV92 Packet Destination: PETITIONER Label Language: ENGLISH Record Sent to Post: BENEFICIARIES NAME DOB S M 1. MISTRY, MANCHHABEN CHHABILDAS 28JUL05 F W REL PRINCIPAL APPLICANT POB UNDACH INDIA OCC CROSS REFERENCE CASES Case Number PA's Name FSC 1. FOIA (b)(6)"
+}

@@ -1,9 +1,9 @@
 {
+  "anumber": "A19240402",
   "id": "A19240402_0061",
   "page_index": 61,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0061/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0061/full/max/0/default.jpg"
   },
   "fields": {
     "sex": {
@@ -15,8 +15,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FS-398"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "Germany"
@@ -28,6 +26,7 @@
       ]
     }
   },
-  "anumber": "A19240402",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "PLACE DEPARTMENT OF STATE U.S. Public Health Service FOREIGN SERVICE OF THE UNITED STATES OF AMERICA American Consulate General MEDICAL EXAMINATION OF VISA APPLICANTS DATE OF EXAMINATION OCT - 6 1971 CITY COUNTRY At the request of the American Consul at Frankfurt/Main Germany NAME AGE I certify that on the above date I examined SEX NEMETH, Anna 64 F I examined specifically for evidence of any of the following conditions: CLASS A: DANGEROUS CONTAGIOUS DISEASES: Actinomycosis Granuloma Inguinale Ringworm of scalp Amebiasis Keratoconjunctivitis, infectious Schistosomiasis Blastomycosis Leishmaniasis Syphilis, ,infectious stage Chancroid Leprosy (Hansen's Disease) Trachoma Favus Lymphogranuloma Venereum Trypanosomiasis Filariasis Mycetoma Tuberculosis (pulmonary or extrapulmonary) Gonorrhea Paragonimiasis Yaws MENTAL CONDITIONS: Mental retardation Previous occurrence of one or more Mental defect (mental deficiency) attacks of insanity Narcotic drug addiction Insanity Psychopathic personality Chronic alcoholism Sexual deviation (See proviso, sec. 34.7, USPHS Regs.) CLASS B: Physical Defect, Disease, or Disability Serious in Degree or Permanent in Nature Amounting to a Substantial Departure from Normal Physical Well-Being. CLASS C: Minor Conditions. (CHECK NUMBER (1) BELOW OR COMPLETE NUMBER (2)) My examination, including the X-ray and other reports below, revealed: (1) No defect, disease, or disability. (2) Defect, disease, or disability, or previous occurrence of one or more attacks of insanity, as follows (give class - A, B, or C - diagnosis, and pertinent details*): Diabetes CLASS \"B\" Varicose veins bil. Aortic sclerosis Chest X-ray report 70 mm x-ray Qualified Aortic sclerosis from Dr. U.S. Public Health Service Negative Blood serological report from Dr. Approved Laboratory Other special report(s) (when needed) RAIMUND GRATENAU, M.D. from Dr. SIGNATURE OF MEDICAL TECHNICAL ADVISOR TITLE Medical Officer in Sharge DATE OF FINAL REPORT USPHS, Frankfurt/M., Germany OCT 6 1971 Continue on reverse side if necessary. C43-10-77593-1 FORM FS-398 10-65 For Medical Officer in Charge"
 }

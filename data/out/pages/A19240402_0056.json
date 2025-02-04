@@ -1,9 +1,9 @@
 {
+  "anumber": "A19240402",
   "id": "A19240402_0056",
   "page_index": 56,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0056/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0056/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet, G-228 filed by:"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -25,6 +23,7 @@
       ]
     }
   },
-  "anumber": "A19240402",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet G-28 filed by: Application or I't ition Form No. File No. SYMBOL (STAT.) PRIORITY DATE: Officer's Date Document or Action Required Requested Received Initials (Check) (Check) 17/19/4 PP ( ) I-94 ( ) Photos ( ) Fingerprints ( 4 17 1974 G-325A (I) (2) (5) I-484s ( ) I -508A ( ) I-88 ( JUN 17 10/44 callup I-181 to State Dept. G-325A (4) to: Budgest ) Hungay 7-31.74 Form G-151 ( ) Birth record ( ) Financial evidence ( ) Medical examination on: 245 interview on: Remarks: Interviewed: Nothing adverse disclosed Signature of Officer Date DECISION: (Approved) (Denied) (Date) This form may be overprinted or stamped to show instructions, items requested, items received, or other pertinent data which may facilitate processing. Keep this sheet on top of all material in file until initial decision is made Form I-468 (Rev. 11-1-70)"
 }

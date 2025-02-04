@@ -1,9 +1,9 @@
 {
+  "anumber": "A19529822",
   "id": "A19529822_0044",
   "page_index": 44,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0044/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0044/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "CENTERVILLE MEDICAL GROUP, R.D. NO. 1"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "years": {
       "ms_years_nlp_v1": [
         1970,
@@ -22,6 +20,7 @@
       ]
     }
   },
-  "anumber": "A19529822",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 7/13/2023 CEN ERVILLE MEDICAL GR JP R.D. NO. I FREDERICKTOWN, PENNSYLVANIA 15333 PHONE 757-6801 September 14, 1972 TO WHOM IT MAY CONCERN: This is to certify that B.J. Wadhwani, M.D. is associated with the Centerville Medical Group earning $38,710 per year and has been with the group since October 12, 1970. Very truly yours, annil ? Rexted Daniel E. Lester, M.D. Medical Director DEL:md"
 }

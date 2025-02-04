@@ -1,0 +1,25 @@
+{
+  "anumber": "A28754751",
+  "id": "A28754751_0032",
+  "page_index": 32,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28754751_0032/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Screened by NARA, 5/5/2023, NARA Form Number: 1988-004"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1988,
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 5/5/2023 It appears that either or both the Executive Office for Immigration Review and/or the Immigration and Naturalization Service have implemented new procedures to oppose the change of venue of cases to Los Angeles without consideration of the above, well established criteria for determining such changes. This change has been apparently applied to this respondent without considering the factors for the change of venue in the respondent's case. Change of venue should be immediately granted so as to avoid further prejudice and expense to the respondent in having to attend and arrange for respresentation in future hearings. Respectfully Submitted, Brune Bowman Bruce Bowman, Attorney for Respondent Los Angeles, California March 14, 1988"
+}

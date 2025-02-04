@@ -1,0 +1,24 @@
+{
+  "anumber": "A20177550",
+  "id": "A20177550_0010",
+  "page_index": 10,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20177550_0010/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "RADIOLOGY EXCLUSIVELY, A-20-177-550"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1977
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "RAUL A. PEREIRAS, M.D., F.A.A.P. GREATER MIAMI RADIOLOGICAL SOCIETY THE RADIOLOGICAL SOCIETY OF NORTH AMERICA - PEDIATRIC RADIOLOGY RADIOLOGY EXCLUSIVELY TELEPHONES: OFFICE: OFFICE: 643-2536 789 N.W. 27TH AVENUE, SUITE NO. 2 649-5771 MIAMI, FLORIDA 33125 HOME: 221-4284 October 14, 1977 Rolando Pozo, M.D. PATIENT: Silvano J. Brito Varela 789 N.W. 27th Avenue REMARKS: Priv. Miami, Florida IMMIGRATION AND NATURALIZATION SERVICES FILE No. A-20-177-550 Dear doctor Pozo: X-ray examination performed on the above named showed the following results: CHEST.- The lungs are clear. There is no evidence of T.B. lesions. The cardio-aorta silhouette revealed predominacy of the left ventricle. Sincerely, Raul A. Pereiras, M.D."
+}

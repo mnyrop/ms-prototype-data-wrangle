@@ -1,0 +1,31 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0058",
+  "page_index": 58,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0058/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "U.S. Immigration and Naturalization Service, A2 875947"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1985,
+        2023,
+        1986
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 U.S. tment of Justice Immigration and Naturalization Service John Fitzgerald Kennedy Federal Building Government Center Boston, Massachusetts 02203 PLEASE REFER TO THIS FILE NUMBER Mrs. Rosegarcon Idora Petit A26 875947 48 Fuller Street, 3rd/fl. Dorchester, MA. 02124 APR 15 1986 Dear Mrs. Petit: On December 3, 1985 you filed this Motion to Reconsider your application for adjustment of status to permanent resident (Form I-485) which was denied on November 8, 1985. Within your submission you sent Form I-601 \"Application for Waiver of Grounds of Excludability\" on account of visa fraud pursuant to Section 212 (a) (19) of the Immigration and Nationality Act. Your waiver application will be rejected and processed for a refund as you are not \"otherwise admissible\" as required by Section 212 (i) of the Act. Your application for permanent resident on reconsideration is, however, denied again under Section 212 (a) (15) of the Act due to the likelihood of becoming a public charge in the United States. Your original application for permanent residence was denied pursuant to Section 212 (a) (15) and (19). In your instant Motion you have sought to address the issue of public charge by submitting a new affidavit of support (Form I-134) from your daughter showing her annual income to be $9,776.00 in addition to the income previously shown on your son-in-law's Form I-134 of $14,200. The total available income of only approximately $24,000. must support in addition to yourself the affiants' three minor children. In addition you have submitted a letter from the \"Prudential Insurance Company\" confirming issuance of a supplementary Group Hospital Insurance Plan. In view of your advanced age a comprehensive medical insurance plan is paramount. The plan you have purchased is designed to supplement with small, fixed, daily dollar benefits any underlying basic medical expenses of even a modest hospitalization and provides no benefits at all for non-hospital medical costs. In view of the modest income and large number of dependents of your sponsors, it is unlikely that they could meet your expected medical expenses from their own resources. Moreover, you have not presented evidence of withdrawal of the application you made on 08/07/85 to the Massachusetts Department of Public Welfare for Federal Medicaid benefits to cover medical needs. Accordingly, we again conclude pursuant to Section 212 (a) (15) of the Act that you are likely to become a public charge in the United States and, thus are statutorily ineligible for adjustment of status to permanent resident. Sincerely, Charla Cobl Charles T. Cobb District Director"
+}

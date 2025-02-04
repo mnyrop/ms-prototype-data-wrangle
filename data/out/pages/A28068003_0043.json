@@ -1,0 +1,34 @@
+{
+  "anumber": "A28068003",
+  "id": "A28068003_0043",
+  "page_index": 43,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28068003_0043/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Application for Permanent Residence"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Somalia"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1915,
+        2023,
+        1987
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 4/24/2023 U.S. Department of Justice OMB # 1115-0053 Immigration and Naturalization Service (INS) Application for Permanent Residence DO NOT WRITE IN THIS BLOCK Case ID# Action Stamp Fee Stamp APPROVED A# INJS DISTRICT DIRECTOR G-28 or Volag# MAR 02 1988 Section of Law Eligibility Under Sec. 245 Sec. 209(b), INA incommended days Approved Visa Petition Sec. 214(d), INA WAS 1057 Dependent of Principal Alien Sec. 13, Act of 9/11/57 Special Immigrant Sec. 245, INA Other Sec. 249, INA Country Chargeable Preference A. Reason for this application I am applying for lawful permanent residence for the following reason: (check the box that applies) 1. An immigrant visa number is immediately available to me because A visa petition has already been approved for me (approval notice is attached) A visa petition is being filed with this application 2. I entered as the fiance(e) of a U.S. citizen and married within 90 days (approval notice and marriage certificate are attached) 3. I am an asylee eligible for adjustment 4. Other: B. Information about you 1. Name (Family name in CAPS) (First) (Middle) 11. On what date did you last enter the U.S.? HERS HAWA NOV. 29, 1987 2. Address (Number and Street) (Apartment Number) 12. Where did you last enter the U.S.? (City and State) 1102 WEST BRADDOCK ROAD NEW YORK CITY, N.Y. (Town or City) (State/Country) (ZIP/Postal Code) 13. What means of travel did you use? (Plane, car, etc.) ALEXANDRIA VA 22302 PLANE 3. Place of Birth (Town or City) (State/Country) 14. Were you inspected by a U.S. immigration officer? MOGADISHUO, SOMALIA Yes No 4. Date of Birth 5. Sex 6. Marital Status 15. In what status did you last enter the U.S.? (Mo/Day/Yr) 01/01/1915 Male Married Single (Visitor, student, exchange alien, crewman, temporary worker, without inspection, etc.) Female Widowed Divorced VISITOR VISA 7. Social Security Number 8. Alien Registration Number (if any) 16. Give your name EXACTLY as it appears on your Arrival/Departure N/A N/A Record (Form I-94). 9. Country of Citizenship HAWA HIRSE SOMALIA 17. Arrival/Departure Record (1-94) Number 18. Visa Number 10. Have you ever applied for permanent resident status in the U.S.? Yes No 265-38223309 001042 (If Yes, give the date and place of filing and final disposition) 19. At what Consulate was your nonimmigrant visa issued? Date MOGADISHUO, SOMALIA 9/23/97 (Mo/Day/YYT) 20. Have you ever been married before? Yes No If Yes, (Names of prior husbands/wives) (Country of citizenship) (Date marriage ended) HAGI DIRIE SOMALIA HUSBANDIED 21. Has your husband/wife ever been married before? Yes No If Yes, (Names of prior husbands/wives) (Country of citizenship) (Date marriage ended) HAWA HOSH SOMALIA HUSBAND 1130/A76 INITIAL RECEIPT RESUBMITTED RELOCATED COMPLETED Rec'd Sent Approved Denied Returned FORM I-485 (REV. 2-27-87)N"
+}

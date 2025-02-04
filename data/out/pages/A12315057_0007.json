@@ -1,0 +1,19 @@
+{
+  "anumber": "A12315057",
+  "id": "A12315057_0007",
+  "page_index": 7,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12315057_0007/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "STATUS N-600 APPLICATION, N-601 ( (Rev. 6-28-60)"
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Create AFile 2201 STATUS N-600 APPLICATION Name Miller, Eva Received: 6/22/61 File No. Ready: 7/17/6 Citizenship claimed at (after) birth thru father mother both parents husband Notified: (Check all items for a complete case) Requested Received or in File Post-exam action required Exam held: Je 2361 Fee Je 236. Requested Completed Photos V/N father, mother, husband: N=25 G-347 7/17/61 File(s) V/A: N-600(1-423) File(s) to NY Proof physical presence residence B/C mother father husband applicant M/C parents u ten second applicant 977.67 DC or DD father mother husband prior spouse(s) Military record Other processing action: Bring F Certificate mailed: Denial notice: Return receipt received: Appeal filed: Form N-601 (Rev. 6-28-60) GPO 895857"
+}

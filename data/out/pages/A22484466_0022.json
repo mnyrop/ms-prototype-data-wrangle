@@ -1,17 +1,16 @@
 {
+  "anumber": "A22484466",
   "id": "A22484466_0022",
   "page_index": 22,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0022/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0022/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
       "ms_doctype_v1": "misc"
-    },
-    "is_g325a": false,
-    "is_cert_naturalization": false
+    }
   },
-  "anumber": "A22484466",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "A22 484 466 TRAN LIEN TH / ALIEN NUMBER LAST NAME FIRST NAME MIDDLE NAME IN CARE OF 26981 AYAMONTE ADDRESS NUMBER/STREET CITY Mission Urejo Ca. 92675 STATE ZIP CODE LUA KY SAIGON, VIETNAM MOTHER'S FIRST NAME FATHER'S FIRST NAME CITY / VILLAGE OF BIRTH Mission Viefo Mission Viejo Los Angeles CITY OF PRESENT RESIDENCE CITY OF FIRST U.S. RESIDENCE INS ADJUSTING OFFICE 1896 LOS DATE OF BIRTH POE CLASS ADJ. DATE COB OFFICER'S DESIGNATOR DO NOT FILL IN THIS PAGE. CONTINUE ON PAGE 5. (Page 3)"
 }

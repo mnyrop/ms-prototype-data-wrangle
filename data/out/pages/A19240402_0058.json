@@ -1,17 +1,16 @@
 {
+  "anumber": "A19240402",
   "id": "A19240402_0058",
   "page_index": 58,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0058/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0058/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
       "ms_doctype_v1": "misc"
-    },
-    "is_g325a": false,
-    "is_cert_naturalization": false
+    }
   },
-  "anumber": "A19240402",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "JOHN D. NEMETH 3000 carriage way Drive # 310 Company Chocolates ROLLING MEADOWS, ILL. 60008. AICAG oede Coparations. 1974 606 UNITED STATES DEPT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE 20 W. BRODWAY NEW YORK N.Y. 10007."
 }

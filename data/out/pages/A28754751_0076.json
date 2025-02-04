@@ -1,0 +1,30 @@
+{
+  "anumber": "A28754751",
+  "id": "A28754751_0076",
+  "page_index": 76,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28754751_0076/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "NOTICE OF RIGHTS TO EL SALVADORANS, Exhibit B"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States",
+        "El Salvador"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 5/5/2023 NOTICE OF RIGHTS TO EL SALVADORANS The Immigration and Naturalization Service is required to provide you with this Notice describing your rights. You must sign below to show that you have received a copy of this Notice. Do not sign anything else until you have read this Notice and understand your rights. 1. RIGHT TO BE REPRESENTED BY AN ATTORNEY. You have the right to be represented by an attorney of your choice at your own expense. If you wish legal advice and cannot afford a lawyer, you may contact one of the lawyers listed on the attached sheet who provide free legal services. 2. RIGHT TO A DEPORTATION HEARING You have the right to a deportation hearing to determine whether you are illegally in the United States before you can be deported. If you request a deportation hearing, you may be represented at the hearing by an attorney at your own expense. You may be eligible to be released on bail until the time of the deportation hearing. 3. RIGHT TO APPLY FOR POLITICAL ASYLUM You may be eligible for political asylum if you have reason to believe that you would be persecuted because of your race, religion, nationality, membership in a particular social group or political opinions if you were returned to El Salvador. If you wish to apply for political asylum, you should so inform the INS agent who gave you this Notice. 4. RIGHT TO REQUEST VOLUNTARY DEPARTURE If you want to return immediately to El Salvador, you may ask to be allowed to voluntarily depart. By agreeing to voluntarily depart, you give up your right to a deportation hearing and your right to apply for political asylum. I PCKNOWLEDGE THAT I HAVE RECEIVED A COPY OF THE ABOVE NOTICE. DATE: SIGNATURE: Exhibit B"
+}

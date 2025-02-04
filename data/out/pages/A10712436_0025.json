@@ -1,16 +1,14 @@
 {
+  "anumber": "A10712436",
   "id": "A10712436_0025",
   "page_index": 25,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0025/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0025/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
       "ms_doctype_v1": "form"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States",
@@ -24,6 +22,7 @@
       ]
     }
   },
-  "anumber": "A10712436",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "ALIEN REGISTRATION,NO.: 9291 IA HE UNITED STATES AS: (Check one) (Copy letter and number from registration receipt OR PERMANENT RESIDENT or other alien certification document) STUDENT OTHER (Specify) MY NATIONALITY IS EL SALVADOR Set 1 WAS BORN ON 28,7EB. 1917 (Date) MY NAME IS RENDEROS ROSA AMIN TA (Last) (First) (Middle) MY PRESENT ADDRESS IS: 3207 SANBORN AVE LYNWOOD SALIF (Street address or rural route) (City or post office) (State) (IF ABOVE ADDRESS IS TEMPORARY) I EXPECT TO REMAIN THERE YRS. MOS. MY LAST ADDRESS CALLE WAS: CHILE #6 Bo. CANDELARIA SAN SALVADOR, EL SAL. C.A. 5 (Street address or rural route) (City or post office) (State) I WORK FOR OR ATTEND SCHOOL AT St. FRANCIS HOSPITAL (Employer's name or name of school) 3630 IMPERIAL/HIGHUMYL YNWOOD, CALIF. (Street address) (City or post office) (State) I ENTERED THE UNITED STATES AT LOS ANGELES AIRPORT - ON JAN & 10 1957 (Port of entry into United States) (Date of entry) (IF NOT A PERMANENT RESIDENT) I WAS ADMITTED TO THE U. S. A. UNTIL OR RECEIVED AN EXTENSION OF STAY UNTIL (Date) DATE MAR 22,1957 (SIGNATURE) Roca aminta Renderso"
 }

@@ -1,9 +1,9 @@
 {
+  "anumber": "A19240402",
   "id": "A19240402_0017",
   "page_index": 17,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0017/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0017/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "The Naturalization Application, N-4"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -25,6 +23,7 @@
       ]
     }
   },
-  "anumber": "A19240402",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "2 (6) The law provides that you may not be regarded as qualified for naturalization under certain conditions, if you knowingly committed certain offenses or crimes, even though you may not have been arrested therefor. Have you ever, in or outside the United States: (a) knowingly committed any crime for which you have not been arrested? Yes No (b) been arrested, cited, charged, indicted, convicted, fined or imprisoned for breaking or violating any law or ordinance, including traffic regulations? Yes No If you answer \"Yes\" to (a) or (b), give the following information as to each incident. WHEN WHERE (City) (State) (Country) NATURE OF OFFENSE OUTCOME OF CASE, IF ANY (a) (b) (c) (d) (e) (7) List your present and past membership in or affiliation with every organization, association, fund, foundation, party, club, society or similar group in the United States or in any other country or place, and your foreign military service. (If none, write \"None.\") (a) HUNGARIAN REFORMED CHURCH FEDERATION IN AMERICA 1973 to 19 (b) 19 to 19 (c) 19 to 19 (d) 19 to 19 (e) 19 to 19 (f) 19 to 19 (g) 19 to 19 (8) (a) Are you now, or have you ever, in the United States or in any other place, been a member of, or in any other way con- nected or associated with the Communist Party? (If \"Yes\", attach full explanation) Yes No (b) Have you ever knowingly aided or supported the Communist Party directly, or indirectly through another organization, group or person? (If \"Yes\", attach full explanation) Yes No (c) Do you now or have you ever advocated, taught, believed in, or knowingly supported or furthered the interests of Communism? (If \"Yes\", attach full explanation) Yes No (9) Have you borne any hereditary title or have you been of any order of nobility in any foreign state? Yes No (10) Have you ever been a patient in an institution or been treated anywhere else for a mental or nervous illness or disorder? Yes No (11) Are deportation proceedings pending against you, or have you ever been deported or ordered deported, or have you ever applied for suspension of deportation or for preexamination? Yes No (12) (a) My last Federal income tax return was filed NEVER (year) Do you owe any Federal taxes? Yes No (b) Since becoming a resident of the United States, have you: (If \"Yes\", attach full explanation) -filed an income tax return as a nonresident? Yes No -failed to file an income tax return because you regarded yourself as a nonresident? Yes No (13) Have you ever claimed in writing, or in any other way, to be a United States citizen? Yes No (14) (a) Have you ever deserted from the military, air, or naval forces of the United States? Yes No (b) If male, have you ever left the United States to avoid being drafted into the Armed Forces of the United States? Yes No (15) The law provides that you may not be regarded as qualified for naturalization if, at any time during the period for which you are required to prove good moral character, you believed in polygamy or have been a polygamist; received income mostly from illegal gambling; committed adultery; have been a prostitute or procured anyone for prostitution; or have knowingly for gain encour- aged or helped an alien to enter the United States illegally; or have been an illicit trafficker in drugs or marijuana; or have been a habitual drunkard. Have you ever, anywhere, been such a person or committed any of these acts? (If \"Yes\", attach full explanation) Yes No (16) Do you believe in the U.S. Constitution and form of government of the United States? Yes No (17) Are you willing to take the full oath of allegiance to the United States? (See Instructions) Yes No (18) If the law requires it, are you willing: (a) to bear arms on behalf of the United States? (If \"No\", attach full explanation) Yes No (b) to perform noncombatant services in the Armed Forces of the United States? (If \"No\", attach full explanation) Yes No (c) to perform work of national importance under civilian direction? (If \"No\", attach full explanation) Yes No (19) (a) If male, did you ever register under United States Selective Service laws or draft laws? Yes No If \"Yes\" give date ; Selective Service No. ; Local Board No. ; Present classification (b) Were you ever exempted from service because of conscientious objections, alienage, or other reasons? Yes No If \"Yes,\" state reasons (20) If serving or ever served in the Armed Forces of the United States, give branch ; from 19 to 19 and from , 19 to , 19 inducted or enlisted at ; Service No. type of discharge ; rank at discharge (Honorable, Dishonorable, etc.) reason for discharge (alienage, conscientious objector. other) Reserve or National Guard from to"
 }

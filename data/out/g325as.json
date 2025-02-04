@@ -1,10 +1,10 @@
 [
   {
+    "anumber": "A10712436",
     "id": "A10712436_0021",
     "page_index": 21,
     "resources": {
-      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0021/full/max/0/default.jpg",
-      "ocr_txt": true
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0021/full/max/0/default.jpg"
     },
     "fields": {
       "sex": {
@@ -16,8 +16,6 @@
       "form_title": {
         "ms_form_title_llm_v1": "Title: BIOGRAPHIC INFORMATION\\nForm Number: OMB No. 1115-0066"
       },
-      "is_g325a": true,
-      "is_cert_naturalization": false,
       "countries": {
         "ms_countries_nlp_v1": [
           "United States"
@@ -35,15 +33,16 @@
         }
       }
     },
-    "anumber": "A10712436",
+    "is_g325a": true,
+    "is_cert_naturalization": false,
     "full_text": "U.S. Department of Justice OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER Renderos Rosa Aminta FEMALE 2-28-13 SALVADOREAN 10 712 436 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. SAME NAHUIZALED EL SALVADOR C.A. 566-54-1023 (If. any) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE. DominGuez RomuLo sonsonate, EL S a LV2DOR C.A. FATHER MOTHER(Maiden name) JuLiA CeLSA Renderos, same HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife. give maiden name) WIFE none FORMER HUSBANDS OR WIVES (if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 11536 E. ImpERIaL Norwark CA. 12 79 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 13 C. OTe. 2-2 sonsonate EL SaLVaDor C 11 77 12 79 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR none PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION OTHER (SPECIFY): STATUS AS PERMANENT RESIDENT Rosal Aminta Renderos 4-18-88 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALFNABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) Form G-325 (Rev. 10-1-82) Y (1) Ident."
   },
   {
-    "id": "A10712436_0021",
+    "anumber": "A20177550",
+    "id": "A20177550_0021",
     "page_index": 21,
     "resources": {
-      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0021/full/max/0/default.jpg",
-      "ocr_txt": true
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20177550_0021/full/max/0/default.jpg"
     },
     "fields": {
       "sex": {
@@ -53,13 +52,497 @@
         "ms_doctype_v1": "form"
       },
       "form_title": {
-        "ms_form_title_llm_v1": "Title: BIOGRAPHIC INFORMATION\\nForm Number: OMB No. 1115-0066"
+        "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, G-325A"
       },
-      "is_g325a": true,
-      "is_cert_naturalization": false,
       "countries": {
         "ms_countries_nlp_v1": [
+          "Cuba",
           "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1946
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['helper', ' none']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Cuban"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "INSTRUCTIONS: USE TYPEWRITER BE SURE ALL COPIES ARE LEGIBLE. Failure to answer fully all questions delays action. Do Not Remove Carbons: If typewriter is not avd 1e, print heavily in block letters with ball-point pen. U. S. GOVERNMENT PRINTING OFFICE 1975-574-025 FORM G-325A (REV. 10-1-74) Y Form Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 BIOGRAPHIC Immigration and Naturalization Service INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. BRITO VARELA, Silvano Jose FEMALE 8/30/07 (A20)177-550 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. Hav Cuba (267)-45-5030 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (If known) CITY AND COUNTRY OF RESIDENCE. FATHER BRITO Modesto Hav Cuba deceased MOTHER (Maiden name) VARELA Angela I HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE OR PLACE OF MARRIAGE WIFE (For wife, give maiden name) Rad-Cliff Hortencia 10/7/9 Tampa Fla Jan, 1946 Hav Cuba FORMER HUSBANDS OR WIVES(if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 1350 N.W. 5 St Apt 6 Miami Fla USA KetDDec 76 PRESENT TIME 1327 N.W. 5 St IT 4 Feb 76 Dec 76 1261 N.W. 5 St Dec 75 Feb 76 1117 N.W. 32 Ave Dec 72 Dec 75 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Calle Sanguily 82 Hav Cuba 54 Dec 72 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, SO STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR none PRESENT TIME 303 E Flagler Miami Fla helper Jan 74 Dec 76 Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE 10/10/77 NATURALIZATION ADJUSTMENT OF STATUS OTHER (SPECIFY): Sihamo Brito IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: FORM G-325A (2) Rec. Br."
+  },
+  {
+    "anumber": "A20177550",
+    "id": "A20177550_0025",
+    "page_index": 25,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20177550_0025/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "Title: United States Department of Justice, Immigration and Naturalization Service\\nForm Number: G-325A ( (Rev. 8-72-71N)"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Cuba",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1946
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['helper']"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Cuban"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "INSTRUCTIONS: USE TYPEWRITER. BE SURE ALL COPIES ARE LEGIBLE. Failure to answer fully all questions delays action. D4312 Do Not Remove Carbons: If typewriter is vailable, print heavily in block letters with ball-point GOVERNMENT PRINTING OFFICE: 972 25649 FORM G-325A (REV. 8-27-72)N rm Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. BRITO-VAREIA, Silvano XXPEMALK 8/30/07 Cuban (A(20)177-550 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. Hab Cuba 2607445-5030 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE FATHER Brito Modesto Hab Cuba deceased Varela Angela 1 1 1 MOTHER (Maiden name) HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE Rad-Cliff Hortencia Oct 7 /09 Tampa USA Jan ,1946 Hab Cuba FORMER HUSBANDS OR WIVES( if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 720 N.W. 27 Ct Apt 1 Miami Fla USA Dec 73 PRESENT TIME 1117 N.W. 32 Ave Dec 72 Dec 73 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Calle Sanguily # 82 Hab Hab 54 Dec 72 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, SO STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR 303 E Flagler helper Oct 73 PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE NATURALIZATION ADJUSTMENT OF STATUS 12/23/74 OTHER (SPECIFY): Bihano Brits IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. (OTHER AGENCY USE) INS USE (Office of Origin) FORM G-325A (2) Rec. Br."
+  },
+  {
+    "anumber": "A28754751",
+    "id": "A28754751_0039",
+    "page_index": 39,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28754751_0039/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States",
+          "El Salvador"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1952,
+          2023
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['unemployed']"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Salvadoran"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "U.S. Department of Justice FORM G-325A Screened by NARA, 5/5/2023 OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION Approval expires 4-30-85 (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER De Leon-Torres, Prudencio FEMALE 4-28-15 Salvadorar A28 754 751 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. NONE (If any) Soyapango, S.S. El Salvador none FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE. FATHER De Leon, Juan, unknown, Soyapango, El Salvador, deceased. MOTHER(Maiden name) Torres, Cornelia, unknown, Soyapango, El Salvador, deceased. HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE FORMER HUSBANDS OR WIVES(if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE XXXXX Carbajal Lucia unknown 1952, We separated approximately El Salvador 22 years ago. APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 420 N. Benton Way L.A. CA U.S.A. 09 87 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Colonia Suyapan, Soyapango San Salvador El Salv. 76 08 87 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME Unemployed Show below last occupation abroad if not shown above. (Include all information requested above.) Institute of Urbing Housing El Salvador Gardener XX 63 08 85 THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): 589 XDruderciodesor 3-8-88 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE Are all copies legible? Yes N/A PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) DE LEON-TORRES, Prudencio A28 754 751 Form G-325 A (Rev. 10-1-82) (1) IDENT."
+  },
+  {
+    "anumber": "A28754751",
+    "id": "A28754751_0040",
+    "page_index": 40,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28754751_0040/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "BIOGRAPHIC INFORMATION, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States",
+          "El Salvador"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1952,
+          2023
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['unemployed']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Salvadoran"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "For sale the Documents. U.S. Government Printing D.C. 20402 (Per 100 Screened by NARA. 5/5/2023 U.S. Department of Justice FORM G-325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION Approval expires 4-30-85 (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER De Leon-Torres, Prudencio FEMALE 4-28-15 Salvadoran 428 754 751 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. NONE Soyapango, S.S. El Salvador (If any) none FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE. FATHER De Leon, Juan, unknown, Soyapango, El Salvador, deceased. MOTHER (Maiden name) Torres, Cornelia, unknown, Soyapango, El Salvador, deceased. HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE FORMER HUSBANDS OR WIVES(if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE kusia Carbajal Lucia unknown 1952, We separated approximately El Salvador 22 years ago, APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 420 N. Bengon Way L.A. CA U.S.A. 09 87 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Colonia Suyapan, Soyapango San Salvador El Salva 76 08 87 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION SPECIFY MONTH YEAR MONTH YEAR PRESENT TIME Unemployed Show below last occupation abroad if not shown above. (Include all information requested above.) Institute of Urbina Housing , El Salvador Gardener 68 63 08 85 THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE INATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): I-589 3-8-88 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE Are all copies legible? Yes N/A PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) DE LEON-TORRES, Prudencio A28 754 751 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 A (Rev. 10-1-82) (2) Rec Br."
+  },
+  {
+    "anumber": "A28754751",
+    "id": "A28754751_0041",
+    "page_index": 41,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28754751_0041/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "Title: U.S. Department of Justice\\nForm Number: G-325A ( (Rev. 10-1-82)"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States",
+          "El Salvador"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1952,
+          2023
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['unemployed']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Salvadoran"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "U.S. Department of Justice Screener G-325A 5/5/2023 OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION Approval expires 4-30-85 (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER De Leon-Torres, Prudencio FEMALE 4-28-15 Salvadoran 428 754 751 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. NONE (If any) Soyapango, S.S. El Salvador none FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE. FATHER De Leon, Juan, unknown, Soyapango, El Salvador, deceased. MOTHER(Maiden name) Torres, Cornelia, unknown, Soyapango, El Salvador, deceased. HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE FORMER HUSBANDS OR WIVES(if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE kucia Carbajal Lucia unknown 1952, We separated approximately El Salvador 22 years ago. APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 420 N. Bengon Way L.A. CA U.S.A. 09 87 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Colonia Suyapan, Soyapango San Salvador El Salva 76 08 87 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION SPECIFY MONTH YEAR MONTH YEAR PRESENT TIME Unemployed Show below last occupation abroad if not shown above. (Include all information requested above.) Institute of Urbina Housino El Salvador Gardener 63 63 08 85 THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): I-589 3-8-88 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE Are all copies legible? Yes N/A PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) DE LEON-TORRES, Prudencio A28 754 751 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 A (Rev. 10-1-82) (3) c."
+  },
+  {
+    "anumber": "A28754751",
+    "id": "A28754751_0042",
+    "page_index": 42,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28754751_0042/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "BIOGRAPHIC INFORMATION, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States",
+          "El Salvador"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1952,
+          2023
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['unemployed']"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Salvadoran"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "U.S. Department of Justice Screened by NARA, 5/5/2023 FORM 325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION Approval expires 4-30-85 (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER De Leon-Torres, Prudencio FEMALE 4-28-15 Salvadoran 428 754 751 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIALSECURITY NO. NONE (If any) Soyapango, S.S. El Salvador none FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE FATHER De Leon, Juan, unknown, Soyapango, El Salvador, deceased. MOTHER (Maiden name) Torres, Cornelia, unknown, Soyapango, El Salvador, deceased. HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE FORMER HUSBANDS OR WIVES(if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE Carbajal Lucia unknown 1952, We separated appreximately El Salvador 22 years ago. APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 420 N. Bengon Way L.A. CA U.S.A. 09 87 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Colonia Suyapan, Soyapango San Salvador El Salva 76 08 87 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION SPECIFY MONTH YEAR MONTH YEAR PRESENT TIME Unemployed Show below last occupation abroad if not shown above. (Include all information requested above.) Institute of El Salvador Urbing Housine , Gardener 63 08 85 THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): I-589 Predencio desire 3-8-88 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE Are all copies legible? Yes N/A PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) DE LEON-TORRES, Prudencio A28 754 751 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 A (Rev. 10-1-82) (4) CONSUL"
+  },
+  {
+    "anumber": "A28871610",
+    "id": "A28871610_0002",
+    "page_index": 2,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28871610_0002/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Guatemala",
+          "Nicaragua"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1988,
+          2023,
+          1932
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "[' retired', 'political asylum']"
+        },
+        "reason": {
+          "reason_llm_v1": "POLITICAL ASYLUM"
+        },
+        "nationality": {
+          "nationality_llm_v1": "NICARAGUA"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 6/8/2023 U.S. GPO 1988-199-536 For sale by the Superintendent of Documents, U.S. Government Printing Office Washington, D.C. 20402 (Per 100) FORM G-325A U.S. Department of Justice OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER HERNANDEZ LUIS FELIPE FEMALE 12-20-14 NICARAGUAN A CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. ALL OTHER NAMES USED (Including names by previous marriages) (If any) LUIS FELIPE HERNANDEZ PALACIOS JINOTEGA, NICARAGUA FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE HERNANDEZ, PRUDENCIO (DECEASED) FATHER MOTHER(Maiden name) PALACIOS, FELIPA (DECEASED) HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRiAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE JINOTEGA, JINOTEGA PICADO, CLEMENCIA 11-23-16 NICARAGUA 05-14-1932 NICARAGUA FORMER HUSBANDS OR WIVES(if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE N/A FROM TO APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR STREET AND NUMBER CITY FLORIDA U. S.A. 02 87 PRESENT TIME 1770 N. W. 21nd TERRACE MIAMI 8 CALLE B-3260, ZONA 7. COL.C.AMERICA GUATEMALA GUATEMALA GUATEMALA 10 84 10 87 DE LA TEXACO 3 C. AL NORTE MANAGUA MANAGUA NICARAGUA 10 82 10 84 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR CITY 8 CALLE B-3260, ZONA 7, COL C.AMERICA GUATEMALA GUATEMALA GUATEMALA 10 86 10 87 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO OCCUPATIONISPECIFY) MONTH YEAR MONTH YEAR FULL NAME AND ADDRESS OF EMPLOYER IN NICARAGUA I WORKED BY MYSELF WITH A GARAGE FOR CARS AND A SUPPLY PRESENT TIME OF PROVISIONS. IN GUATEMALA I WORKED BY MYSELF Show below last occupation abroad if not shown above. (Include all information requested above.) I WORKED BY MYSELF WITH MY OWN KIND OF BUSINESS AS MERCHANT DATE THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): POLITICAL ASYLUM Tijuk JUNE 30, 1988. IF YOUR NATIVE-ALPHANE 16 IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN TOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) HERNANDEZ LUIS FELIPE"
+  },
+  {
+    "anumber": "A29372667",
+    "id": "A29372667_0033",
+    "page_index": 33,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A29372667_0033/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "BIOGRAPHIC INFORMATION, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Haiti",
+          "United States",
+          "Italy"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1941,
+          2023
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['grocery store owner']"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Italian"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 7/31/2023 U.S. Department of Justice FORM G-325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr. NATIONALITY FILE NUMBER MARRA Elvira Philomena FEMALE 10-16-07 Italian A ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. N/A (If any) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE SCHETTINI Antonio Serrino ITALY ITALY FATHER MOTHER(Maiden name) CIANCIULLI Giulia Volturara ITALY ITALY HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (Forwite,give meiden-nome) WIFE MARRA Alfonso 4-23-03 Volturera 5-3-30 cap Haitien ITALY HAITI FORMER HUSBANDS OR WIVES(if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE N/A APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 1941 Washington St Hollywood FLA U.S.A. Aug 82 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR NE349 Bd J-J Dessalines P-an-P HAITI Fund 42 Aug g2 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME None Show below last occupation abroad if not shown above. (Include all information requested above.) Grocery Store Owner THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): eq. Elvira reforra 12-26-90 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) Form G-325 A (Rev. 10-1-82) (1) Ident."
+  },
+  {
+    "anumber": "A29372667",
+    "id": "A29372667_0034",
+    "page_index": 34,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A29372667_0034/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice, Immigration and Naturalization Service, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Haiti",
+          "United States",
+          "Italy"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          2023
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['grocery store owner']"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Italian"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA 7/31/2023 U.S. Department of Justice FORM G-325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER MARRA Elvira Philomena FEMALE 10-16-07 Italian A. ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. N/A (If any) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE SCHETTINI Antonio FATHER Serrino ITALY ITALY MOTHER (Maiden name) CIANCIULLI Giulia Volturara ITALY ITALY HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (Forwite,givemaiden-name) WIFE- Alfonso Volturera 4-23-03 5-3-30 cap Haitien MARRA ITALY HAiTI FORMER HUSBANDS OR WIVES(if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE N/A APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 1941 Washington St Hollywood FLA U.S.A. Aug 82 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR N2349 3d T-J Dessalines P-an-P HAiTI Fund 42 Aug 82 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME None Show below last occupation abroad if not shown above. (Include all information requested above.) Grocery Store Owner THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): equ Elvina eeforra 12 26-90 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 A (Rev. 10-1-82) (2) Rec Br."
+  },
+  {
+    "anumber": "A29372667",
+    "id": "A29372667_0035",
+    "page_index": 35,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A29372667_0035/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Haiti",
+          "United States",
+          "Italy"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          2023
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['grocery store owner']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Italian"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 7/31/2023 U.S. Department of Justice FORM G-325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr NATIONALITY FILE NUMBER MARRA Elvira Philomena FEMALE 10-16-07 Italian A ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. N/A (If any) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(I known) CITY AND COUNTRY OF RESIDENCE SCHETTINI Antonio Serrino ITALY ITALY FATHER MOTHER(Maiden name) CIANCIULLI Giulia Volturara ITALY ITALY HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE Alfonso 4-23-03 Volturera 5-3-30 Cap Haitien MARRA ITALY HAITI FORMER HUSBANDS OR WIVES(if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE N/A APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 1941 Washington St Hollywood/ FLA U.S.A Aug 82 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR N=349 But J-J Dessalines P-au-P HATTI June 24 Aug 92 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME None Show below last occupation abroad if not shown above. (Include all information requested above.) Grocery Store Owner THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): form 26-90 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 A (Rev. 10-1-82) (3) C."
+  },
+  {
+    "anumber": "A29372667",
+    "id": "A29372667_0036",
+    "page_index": 36,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A29372667_0036/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "Biographic Information, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Haiti",
+          "United States",
+          "Italy"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          2023
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['n.a']"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Italian"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 7/31/2023 U.S. Department of Justice FORM G-325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER MARRA Elvira Philomena FEMALE 10-16-07 Italian A. ALL OTHER NAMES USED (Including nomes by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. N/A (If any) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE SCHETTINI Antonio Serrido ITALY ITALY FATHER MOTHER (Maiden name) CIANCIULLY Giulia Volturara ITALY CTALY HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR WIFE (For wife, give maiden name) MARRA Alfonso 4-23-03 Volturara 5-3-30 tap Hai freq ITALY HAITI FORMER HUSBANDS OR WIVES(if none, 50 state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE V/A APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 1941 Washington st Hollywood FLA U.S.A. lug BR PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 1234 BAJ- Descriptions HAITI Jusic 42 Aug 82 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME None Show below last occupation abroad if not shown above. (Include all information requested above.) Grocery Store Owner THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): IF YOUR NATIVE ALPHABET is IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 A (Rev. 10-1-82) (4) Consul"
+  },
+  {
+    "anumber": "A26875947",
+    "id": "A26875947_0154",
+    "page_index": 154,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0154/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Haiti",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1905,
+          2023,
+          1938,
+          1913
         ]
       },
       "g325a": {
@@ -70,19 +553,192 @@
           "reason_llm_v1": "NATURALIZATION"
         },
         "nationality": {
-          "nationality_llm_v1": "Salvadoran"
+          "nationality_llm_v1": "haiti"
         }
       }
     },
-    "anumber": "A10712436",
-    "full_text": "U.S. Department of Justice OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER Renderos Rosa Aminta FEMALE 2-28-13 SALVADOREAN 10 712 436 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. SAME NAHUIZALED EL SALVADOR C.A. 566-54-1023 (If. any) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE. DominGuez RomuLo sonsonate, EL S a LV2DOR C.A. FATHER MOTHER(Maiden name) JuLiA CeLSA Renderos, same HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife. give maiden name) WIFE none FORMER HUSBANDS OR WIVES (if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 11536 E. ImpERIaL Norwark CA. 12 79 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 13 C. OTe. 2-2 sonsonate EL SaLVaDor C 11 77 12 79 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR none PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION OTHER (SPECIFY): STATUS AS PERMANENT RESIDENT Rosal Aminta Renderos 4-18-88 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALFNABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) Form G-325 (Rev. 10-1-82) Y (1) Ident."
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA. 8/11/2023 U.S. Department of Justice FORM G-325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION Approval expires 4-30-85 (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER PETIT ROSEGARCON FEMALE 12-01-1905 HAiti A26 875 947 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. QUARTIEN MOVIN HAITI (If any) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE Artn PIERRE PAUL The JEESIUS PERCE HAITI FATHER <<<<< MOTHER (Maiden name) PIECRE JEANCILIA 1) HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE 1913 PEtiT GrandJEAN 03-05- CAP- HAITI 07-30-1938 QUArtiEr MOSIN FORMER HUSBANDS OR WIVES(if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Run BEE CALIFORNIA Histor PRESENT TIME 48 FULLEY st. Drch. MA USA 12 84 Rue 18K CAP HAitian HAITI OVER 5year. APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE. so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): Rose Jascon THAN ROMAN LETTERS. Lett WRITE 5-15-85 IF YOUR NATIVE ALPHABET IS IN OTHER YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) PEtit OSEGARCON FILE A26-875-947 Form G-325 A (Rev. 10-1-82) (1) Ident."
   },
   {
+    "anumber": "A26875947",
+    "id": "A26875947_0212",
+    "page_index": 212,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0212/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, FORM G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Haiti",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1993,
+          1905
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['retired']"
+        },
+        "reason": {
+          "reason_llm_v1": "OTHER"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Haiti"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "INSTRUCTIONS: USE TMPEWRITER. BE SURE ALL COPIES ARE LEGIBLE Failure answer fully all questions delays action Do Not Re: 10 Carbons: If typewr mg is print block letters with be point pen. U.S. GPO 1988-199-536 For sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402 (Per 100) U.S. Department of Justice FORM G-325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER PETIT Rose Garcon FEMALE 12-01-1905 Haiti A. 26 875 947 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. None Cape Haitian, Haiti (If any) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE FATHER PIERRE PAUL, Artis Unk Haiti Deceased MOTHER (Maiden name) PIERRE PAUL, Francilia Unk Haiti Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE None FORMER HUSBANDS OR WIVES(if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE PETIT.. Granjean Unk Unk Haiti Died on 6-17-91 in Miami, FL APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 9425 NW 2nd. Place Miami FL 33150 USA 12 87 PRESENT TIME 20 Mercier Ave. Dorchester MA 02124 USA 12 83 12 87 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Rue 20 No. 70 Cape Haitian HAITI Birth 12 83 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR Retired Retired 12 83 PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) Retired Retired 12 79 12 83 THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): X Rose Deliv 01-11-93 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) PETIT Rose Garcon A#26875947 MIA T.C. I-485 FEB 10 1993 Form G-325 A (Rev. 10-1-82) (1) Ident."
+  },
+  {
+    "anumber": "A26875947",
+    "id": "A26875947_0213",
+    "page_index": 213,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0213/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Haiti",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1905
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['retired']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "haiti"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "FORM G-325A U.S. Department of Justice OMB. No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER PETIT Rose Garcon XXXEMALE 12-01-1905 Haiti A. 26 875 947 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. Cape Haitian, Haiti (If any) None FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE. PIERRE PAUL, Artis Unk Haiti Deceased FATHER PIERRE PAUL, Francilia Unk Haiti Deceased MOTHER(Maiden name) HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE None FORMER HUSBANDS OR WIVES(if none,sa state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE PETITI Granjean Unk Unk Haiti Died on 6-17-92 in Miami, FL APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 9425 NW 2nd. Place Miami FL 33150 USA 12 87 PRESENT TIME 20 Merceer Ave. Dorchester MA 02124 USA 12 83 12 87 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Rue 20 No. 70 Cape Haatian HAITI Birth 12 83 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR Retired Retired 12 83 PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) Retired Retired 12 79 12 83 THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT Rose Dear 01-11-93 OTHER (SPECIFY): IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) PETIT Rose Garcon A#26875947 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 A (Rev. 10-1-82) (2) Rec Br."
+  },
+  {
+    "anumber": "A26875947",
+    "id": "A26875947_0214",
+    "page_index": 214,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0214/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, FORM G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Haiti",
+          "United States"
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['retired']"
+        },
+        "reason": {
+          "reason_llm_v1": "OTHER"
+        },
+        "nationality": {
+          "nationality_llm_v1": "haiti"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "U.S. Department of Justice FORM G-325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER PETIT Rose Garcon EMALE 12-01-1905 Haiti A. 26 875 947 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. Cape Haitian, Haiti (If any) None FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE FATHER PIERRE PAUL, Artis Unk Haiti Deceased MOTHER (Maiden name) PIERRE PAUL, Francilia Unk Haiti Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE None FORMER HUSBANDS OR WIVES(if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE PETITi Granjean Unk Unk Haiti Died on 6-17-92 in Miami,FL APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 9425 NW 2nd. Place Miami FL 33150 USA 12 87 PRESENT TIME 20 Mercéer Ave. Dorchester MA 02124 USA 12 83 12 87 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Rue 20 No. 70 Cape Háátian HAITI Birth 12 83 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR Retired Retired 12 83 PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) Retired Retired 12 79 12 83 THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT 01-11-93 OTHER (SPECIFY): IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) PETIT Rose Garcon A#26875947 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 A (Rev. 10-1-82) (3) C."
+  },
+  {
+    "anumber": "A26875947",
+    "id": "A26875947_0215",
+    "page_index": 215,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0215/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Haiti",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1905
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['retired']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "haiti"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "U.S. Department of Justice FORM G-325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER PETIT Rose Garcon FEMALE 12-01-1905 Haiti A. 26 875 947 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. (If any) None Cape Haitian, Haiti FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE. FATHER PIERRE PAUL, Artis Unk Haiti Deceased MOTHER (Maiden name) PIERRE PAUL, Francilia Unk Haiti Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE None FORMER HUSBANDS OR WIVES(i none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE PETITI Granjean Unk Unk Haiti Died in 6-17-92 in Miami.FL APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 9425 NW 2nd. Place Miami FL 33150 USA 12 87 PRESENT TIME 20 Mercéer Ave. Dorchester MA 02124 USA 12 83 12 87 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Rue 20 No. 70 Cape Háátian HAITI Birth 12 83 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATIONISPECIFYI MONTH YEAR MONTH YEAR Retired Retired 12 83 PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) Retired Retired 12 79 12 83 THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT Pare Dear 01-11-93 OTHER (SPECIFY): IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) PETIT Rose Garcon A#26875 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 A (Rev. 10-1-82) (4) Consul"
+  },
+  {
+    "anumber": "A19529822",
     "id": "A19529822_0050",
     "page_index": 50,
     "resources": {
-      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0050/full/max/0/default.jpg",
-      "ocr_txt": true
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0050/full/max/0/default.jpg"
     },
     "fields": {
       "sex": {
@@ -94,8 +750,6 @@
       "form_title": {
         "ms_form_title_llm_v1": "Biographic Information, FORM G-325A ( (REV. 4-1-71)"
       },
-      "is_g325a": true,
-      "is_cert_naturalization": false,
       "countries": {
         "ms_countries_nlp_v1": [
           "Peru",
@@ -122,15 +776,451 @@
         }
       }
     },
-    "anumber": "A19529822",
+    "is_g325a": true,
+    "is_cert_naturalization": false,
     "full_text": "Screened by NARA, 7/13/2023 code 0300 - NYO FORM G-325A (REV. 4-1-71) office Form-Approved UNITED STATES DEPARTMENT OF JUSTICE Budget Bureay No.143-R436 BIOGRAPHIC Immigration and Naturalization Service 245 e 0830 Sec. INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE (Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. WADHWANI DURYPADI JAGAT FEMALE 11/28/1906 INDIAN H19529824 (If any ALL OTHER NAMES USED -RAI CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. BHAGWANANI ISAR KARACHI, WEST PAKISTAN (If any) - FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (If known) CITY AND COUNTRY OF RESIDENCE FATHER BHAGWANANI MULRAJ - WEST \" PAKISTAN} \" DECEASE D MOTHER (Maiden name) BHAMBHANI GAYA - HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE JAGAT SUKKUR WADHWANI -RAI 11/5/1906 WEST PAKISTAN 4/17/1926 KHAIRPUR WEST PAK FORMER HUSBANDS OR WIVES (if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE NONE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR . 18K PERU, 97/11 HORACE LAFRAK N.Y. U.S.A. July 1972 PRESENT TIME HARDING EXPWY N.Y.CITY 2 203 SKYLINE DRIVE CALIFORNIA PA. U.S.A APRIL 1972 JUNE 1972 3 RAJAWADI ROAD GHATKOPAR MAHARASH INDIA NOV. 1962 APRIL 1972 A-19/76 BOMBAY -TRA Show below last foreign residence of more than one year if not shown above. (Include all information requested above.) - APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, SO STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR NONE PRESENT TIME my House - Wife 4 all been life Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE Z NATURALIZATION ADJUSTMENT OF STATUS OTHER (SPECIFY): 43 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT."
   },
   {
+    "anumber": "A19055851",
+    "id": "A19055851_0049",
+    "page_index": 49,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19055851_0049/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "BIOGRAPHIC INFORMATION, FORM G-325 A ( (REV. 9-1-69)"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Germany",
+          "Pakistan",
+          "United States",
+          "Canada"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1949,
+          1884,
+          1934,
+          1976,
+          1883
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "[' butler', 'counselor', ' salesman']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "So. Africa"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "LOS FORM G-325 A (REV. 9-1-69) Form Approved CTT - 400 Budget Bureau No. 43-R436 BIOGRAPHIC UNITED STATES DEPARTMENT OF JUSTICE INFORMATION Immigration and Naturalization Service APR 19 1976 (Family name) (First name) (Middle name) BIRTHDATE (Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. MALE (If any) WOLFSON, George FEMALE 12-9-09 So. Africa A19 055 851 ALL OTHER NAMES USED CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. (If any) Karachi, Pakistan 571-88-2864 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (If known) CITY AND COUNTRY OF RESIDENCE WOLFSON, Tleselrazar 4-5-1883 Rumania Deceased FATHER SVAMUUR, Sarah 4-21-1884 Br. India Deceased MOTHER (Maiden name) SPOUSE (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE (For wife, give maiden name) Hedwig Osterode, Las Vegas, DZIOMBA Heldegard 4-8-20 Germany 11-2-69 Nevada FORMER SPOUSES (If none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE JAMES Rebecca 1907 Jan. 1934, Toronto, June 22, 1949, Florida Canada APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 10717 Wilshire Blvd Los Angeles CA USA 8 73 PRESENT TIME 1510 Bevery Hills Bev. Hills CA USA 6 70 8 73 312 No. Faring Rd Los Angeles CA USA 7 68 6 70 Show below last foreign residence of more than one year if not shown above. (Include all information requested above.) Sutoton Hotel Apts. Bay ST. Toronto CANADA 8 67 5 68 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR Renee of Beverly Domestic Agency; Beverly Hills Counselor APR 75 PRESENT TIME Bernard Greeff; Santa Barbara Butler JAN 75 MAR 75 Telecredit Corp/1800 Ave of the Stars/L.A., CA Salesman NOVE 74 DEC 74 Beverly Linclon Mercury & Ford/Berverly Hills/L.A/CA safesman OCT 72 NOV 73 Mr. Nutten/718 Creseent Dr. /Beverly Hills Butler MAR 72 SEPT 72 Show below last occupation abroad if not shown above. (Include all information requested above.) Coffee Bean, Toronto, Canada John Manager JAN 67 MAR 67 THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE NATURALIZATION ADJUSTMENT OF STATUS OTHER (SPECIFY): 5-23-75 PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS, WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR B.D. Kelgs / Rancho Santa Fé / Madre Selva, CA Butler JULY 71 MAR 72 J. P. Langley / 635 Park Ave / New York, N.Y. Butler JUNE 71 JULY 71 Barbara Weinburg / Drur Lane / L.A., CA Butler FEB 71 MAR 71 J. Moss / 312 Faring Road / Los Angeles, CA Butler JULY 69 OCT 70"
+  },
+  {
+    "anumber": "A19055851",
+    "id": "A19055851_0055",
+    "page_index": 55,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19055851_0055/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Canada",
+          "United States",
+          "Australia",
+          "Pakistan",
+          "Germany"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1949,
+          1969,
+          1909,
+          1934
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['butler', ' manager']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "So. African"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "FORM G-325 A REV. 4-1-67 FORM APPROVED LOS BUDGET BUREAU NO. 43-R436 BIOGRAPHIC UNITED STATES DEPARTMENT OF JUSTICE TC/245 INFORMATION Immigration and Naturalization Service 3/18/70 (FAMILY NAME) (FIRST NAME) (MIDDLE NAME) MALE BIRTHDATE (MO-DAY-YR.) NATIONALITY ALIEN REGISTRATION NO. (IF ANY) WOLFSON GEORGE FEMALE Dec. 11, 1909 So. African A19 055 851 ALL OTHER NAMES USED CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. Karachi, Pakistan 571-88-2864 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (IF KNOWN) CITY AND COUNTRY OF RESIDENCE WOLFSON TLESELRAZAR - Deceased FATHER SVAMUUR SARAH a Deceased MOTHER (MAIDEN NAME) SPOUSE (IF NONE, so STATE) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE (FOR WIFE, GIVE MAIDEN NAME) Halp Osterode, Las Vegas DZIOMBA HEDWIG 4-8-20 Germany Nov. 2, 1969Nevada, USA FORMER SPOUSES (IF NONE, so STATE) FAMILY NAME (FOR WIFE, GIVE MAIDEN NAME) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE JAPES Rebecca 1907 Jan. 1934,Toronto, June 22, 1949, Florida, Canada USA APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 312 No. Faring Rd. L.A. California USA July 68 PRESENT TIME Angelo Drive L.A. California USA May 68 July 68 1107 So. Speed, Sta. Maria California USA March 68 May 68 Sutton Hotel Apts. Bay St. Toronto Candda Aug. 67 March 68 Taft Hotel & Commodore Hotel New York New York USA April 67 July 67 11 Yorkville Toronto Canada Jan. 67 April 67 21 Drumalbyn Rd. Sydney Australia Feb. 49 Jan. 67 LAST FOREIGN RESIDENCE OF MORE THAN ONE YEAR IF NOT SHOWN ABOVE. (INCLUDE ALL INFORMATION REQUESTED ABOVE.) APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION MONTH YEAR MONTH YEAR 312 No. Faring Road, Los Angles, California Butler July 68 PRESENT TIME Jack Warner, Angelo Drive, Beverly Hills, Calif. Butler May 68 July 68 Coffee Bean,Toronto, Canada Manager Jan 67 March 67 67 Nov. 67 Judy Bond & Associates, Oxford St., Bondi Junction, Manager April 55 Jan. 67 Sydney, Australia LAST OCCUPATION ABROAD IF NOT SHOWN ABOVE. (INCLUDE ALL INFORMATION REQUESTED ABOVE.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS, WRITE YOUR NAME IN NATURALIZATION ADJUSTMENT OF STATUS YOUR NATIVE ALPHABET IN THIS SPACE: OTHER (SPECIFY): Permanent Residence PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW Dec. 29, 1969 FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. DATE (SIGNATURE OF APPLICANT OR PETITIONER) COMPLETE THIS BOX (FAMILY NAME) (GIVEN NAME) (MIDDLE NAME) (ALIEN REGISTRATION NUMBER) WOLFSON GEORGE A19 055 (OTHER AGENCY USE) (INS USE) (4) Consul FORM G-325A"
+  },
+  {
+    "anumber": "A19055851",
+    "id": "A19055851_0056",
+    "page_index": 56,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19055851_0056/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, G-325 A REV. 4-1-67"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Canada",
+          "United States",
+          "Australia",
+          "Pakistan",
+          "Germany"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1949,
+          1969,
+          1909,
+          1934
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "[' butler', 'manager']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "So. African"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "FORM G-325 A REV. 4-1-67 FORM APPROVED LOS BUDGET BUREAU NO. 43-R436 BIOGRAPHIC UNITED STATES DEPARTMENT OF JUSTICE TC/245 INFORMATION Immigration and Naturalization Service 3/18/70 (FAMILY NAME) (FIRST NAME) (MIDDLE NAME) MALE BIRTHDATE (MO-DAY-YR.) NATIONALITY ALIEN REGISTRATION NO. (IF ANY) WOLFSON GEORGE FEMALE Dec. 11, 1909 So. African A19 055 851 ALL OTHER NAMES USED CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. Karachi, Pakistan 571-88-2864 HFANY) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (IF KNOWN) CITY AND COUNTRY OF RESIDENCE WOLFSON TLESELRAZAR - Deceased FATHER SVAMUUR SARAH - Deceased MOTHER (MAIDEN NAME) SPOUSE (IF NONE, so STATE) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE (FOR WIFE, GIVE MAIDEN NAME) Hedg Osterode, Las Vegas DZIOMBA HEDWIG 4-8-20 Germany Nov. 2, 196pNevada, USA FORMER SPOUSES (IF NONE, so STATE) FAMILY NAME (FOR WIFE, GIVE MAIDEN NAME) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE JAMES Rebecca 1907 Jan. 1934, Toronto, June 22, 1949, Florida, Canada USA APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 312 No. Faring Rd. L.A. California USA July 68 PRESENT TIME Angelo Drive L.A. California USA May 68 July 68 1107 So. Speed, Sta. Maria California USA March 68 May 68 Sutton Hotel Apts. Bay St. Toronto Canada Aug. 67 March 68 Taft Hotel & Commodore Hotel New York New York USA April 67 July 67 11 Yorkville Toronto Canada Jan. 67 April 67 21 Drumalbyn Rd. Sydney Australia Feb. 49 Jan. 67 LAST FOREIGN RESIDENCE OF MORE THAN ONE YEAR IF NOT SHOWN ABOVE. (INCLUDE ALL INFORMATION REQUESTED ABOVE.) APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION MONTH YEAR MONTH YEAR 312 No. Faring Road, Los Angles, California Butler July 68 PRESENT TIME Jack Warner, Angelo Drive, Beverly Hills, Calif. Butler May 68 July 68 Coffee Bean, Toronto, Canada Manager Jan 67 March 67 TT TT IT 11 XXXAug, 67 Nov. 67 Judy Bond & Associates, Oxford St., Bondi Junction, Manager April 55 Jan. 67 Sydney, Australia LAST OCCUPATION ABROAD IF NOT SHOWN ABOVE. (INCLUDE ALL INFORMATION REQUESTED ABOVE.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN NATURALIZATION ADJUSTMENT OF STATUS YOUR NATIVE ALPHABET IN THIS SPACE: OTHER (SPECIFY): Permanent Residence PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW Dec. 29, 1969 FOR KNOWINGLY AND WILLFULLY FALSIFYING 45 OR CONCEALING A MATERIAL FACT. DATE (SIGNATURE OF APPLICANT OR PETITIONER)"
+  },
+  {
+    "anumber": "A21200457",
+    "id": "A21200457_0002",
+    "page_index": 2,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21200457_0002/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, G-325 ( (Rev. 10-1-82) Y"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Vietnam",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1975,
+          1958,
+          1986,
+          2023,
+          1933,
+          1913,
+          1991,
+          1915
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['retired senior citizen']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Stateless"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 8/17/2023 U.S. Department of Justice OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE (Mo.-Day-Yr.) NATIONALITY FILE NUMBER Nguyen Minh Van FEMALE Jul. 14,1915 Stateless A 21-200-457 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. None Hung Yen, Viet Nam 586-40-9958 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (If known) CITY AND COUNTRY OF RESIDENCE. FATHER Nguyen Chinh Unk. Hung Yen, Viet Nam Deceased MOTHER (Maiden name) Quach Kinh Unk. Hung Yen, Viet Nam Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE Aug. 22 Hung Yen, Hung Yen, Pham Vac 1913 Viet Nam 1933 Viet Nam FORMER HUSBANDS OR WIVES (if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE None APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 1718 S. King St. Santa Ana CA USA June 1986 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 48 Tran Quoc Toan Sai Gon Viet Nam Jan. 1958 Apr. 1975 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR Retired Senior Citizen PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) Directorate General of Dudgets and Foreign Aids Sai Gon, Viet Name Auditor THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION OTHER (SPECIFY): STATUS AS PERMANENT RESIDENT /mark van Nguyen Jun. 08, 1991 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS, WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Allen registration number) Nguyen Minh Van A21-200-457 LOS CITIZENSHIP N-400 AUG 1991 Form G-325 (Rev. 10-1-82) Y (date) (1) Ident."
+  },
+  {
+    "anumber": "A21200457",
+    "id": "A21200457_0003",
+    "page_index": 3,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21200457_0003/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, G-325 ( (Rev. 10-1-82) Y"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Vietnam",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1975,
+          1958,
+          1986,
+          2023,
+          1933,
+          1913,
+          1991,
+          1915
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['retired senior citizen']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "Stateless"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 8/17/2023 U.S. Department of Justice OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE (Mo.-Day-Yr.) NATIONALITY FILE NUMBER Nguyen Minh Van FEMALE Jul.14,1915 Stateless A 21-200-457 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. None Hung Yen, Viet Nam (If any) 506-40-9958 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (If known) CITY AND COUNTRY OF RESIDENCE. FATHER Nguyen Chinh Unk. Hung Yen, Viet Nam Deceased MOTHER (Maiden name) Quach Kinh Unk. Hung Yen, Viet Nam Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE Aug . 22 Hung Yen, Hung Yen, Pham Vac 1913 Viet Nam 1933 Viet Nam FORMER HUSBANDS OR WIVES (if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE None APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 1718 S. King St. Santa Ana CA USA June 1986 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 48 Tran Quoc Toan Sai Gon Viet Nam Jan. 1958 Apr. 1975 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR Retired Senior Citizen PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) Directorate General of Dudgets and Foreign Aids Sai Gon, Viet Nam: Auditor THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION OTHER (SPECIFY): STATUS AS PERMANENT RESIDENT Jun. 08, 1991 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS, WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Allen registration number) Nguyen Minh Van A21-200-457 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 (Rev. 10-1-82) Y (2) Rec. BR."
+  },
+  {
+    "anumber": "A21200457",
+    "id": "A21200457_0025",
+    "page_index": 25,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21200457_0025/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74) Y"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Vietnam",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1975,
+          1974,
+          1955,
+          1913,
+          1933,
+          1977,
+          1978,
+          1965
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "[' budget', ' examinator', 'government']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "VIETNAM"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "creened by NARA, 8/17/202 FORM G-325A (REV. 10-1-74) Y Form Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 Immigration and Naturalization Service BIOGRAPHIC APR 1 6 1978 INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. NGVYEN MiNH VAN FEMALE 7/14/15 VIET NAM (If any) 521-200-457 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. DANTRANG ANTHI HUNGYEN vietNAm (If any) 1586-40-9958 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE NGUYEN CHINH DRUTRANG HUNGYEN DANTRANG AN THE HUNGYEN Viet Man FATHER - id - MOTHER (Maiden name) QUACH KINH HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE VAC 8/22/1913 NHAT TAO ANTH 1/31/1933 NHATTAO PHAM HUNGYEN VIRTNAM AUNOYEN vietnam FORMER HUSBANDS OR WIVES(if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE NONE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 17 West HiLLCREST HAVERTOWN PENNSYLVANIA AmERicA PRESENT TIME 5 1975 4 1977 163 48 Street SAiGOU VIET NAM VIET NAM 5 1955 5 1975 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 163 48 Street SAIGON SAIGON VIET NAM 5 1955 5 1975 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME GOURNMENT VIET NAM EXAMINATOR 6 1965 7 1974 BUDGET Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE NATURALIZATION ADJUSTMENT OF STATUS 4/4/77 OTHER (SPECIFY): IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT."
+  },
+  {
+    "anumber": "A21200457",
+    "id": "A21200457_0053",
+    "page_index": 53,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21200457_0053/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "Naturalization Information, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          2023,
+          1933,
+          1915,
+          1913
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "[' retired', 'examinates']"
+        },
+        "reason": {
+          "reason_llm_v1": "OTHER"
+        },
+        "nationality": {
+          "nationality_llm_v1": "UN"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 8/17/2023 FORM G-325A (REV. 10-1-74) Y Form Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 Immigration an : Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. NGUYEN MINH VAN FEMALE 1915 UN (If A21200457 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. None DATE, CITY AND COUNTRY Hung OF BIRTH (If Yen known) NVN CITY AND (If any) FAMILY NAME FIRST NAME COUNTRY OF RESIDENCE. FATHER Unknown MOTHER (Maiden name) Unknown HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE PHAM THI VAC 1913 Hury yen NUM 1933 Hury you FORMER HUSBANDS OR WIVES(if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 163-48 Street cholon Saijon UN 65 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR 1420 Hong that Tu Budget of foreign Aid offere Examinater 73 PRESENT TIME (Retired) H Examinater 65 73 Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER NATURALIZATION ADJUSTMENT OF STATUS OTHER (SPECIFY): REFUBEE The DATE 5/8/75 IF YOUR NATIVE ALPHABET Is IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT."
+  },
+  {
+    "anumber": "A21200457",
+    "id": "A21200457_0054",
+    "page_index": 54,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21200457_0054/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, G-325A ( (REV. 10-1-74)"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          2023,
+          1933,
+          1915,
+          1913
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "[' retired', 'examinators']"
+        },
+        "nationality": {
+          "nationality_llm_v1": "VN"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 8/17/2023 FORM G-325A (REV. 10-1-74) Y Form Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. NEUYEN MINH VAN FEMALE 1915 UN (If A21200457 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. None FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY Hung OF BIRTH (If Yein known) NVN CITY AND (If any) COUNTRY OF RESIDENCE. FATHER Unknown MOTHER(Maiden name) Unknown HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE PHAM THI VAC 1913 Hury you NUM 1933 Hiny yen FORMER HUSBANDS OR WIVES(if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 163- 48 Street cholon Saijon UN 65 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATIONISPECIFYL MONTH YEAR MONTH YEAR Budget of foreign Ad office Examinates 73 PRESENT TIME 1420 Hong that Tee Saijon (Retired) \" Examinater 65 A21 73 Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE PETITIONER NATURALIZATION ADJUSTMENT OF STATUS OTHER (SPECIFY): REFUGEE IF YOUR LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: the NATIVE ALPHABET OF APPLICANT IN OTHER OR THAN ROMAN DATE 5/8/75 Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) NEUVEN MENH VAN A21 200 457 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: (2) Rec. Br. FORM G-325A"
+  },
+  {
+    "anumber": "A21200457",
+    "id": "A21200457_0055",
+    "page_index": 55,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21200457_0055/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "BIOGRAPHIC INFORMATION, G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          2023,
+          1933,
+          1915,
+          1913
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['budget i foreign aid office', ' examiner (retired)']"
+        },
+        "nationality": {
+          "nationality_llm_v1": "UN"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 8/17/2023 FORM G-325A (REV. 10-1-74) Y Form Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE IRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. ALLUYEN AII NH VAN FEMALE 1915 UN (If A21200457 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. None History OF BIRTH(If yes known) NVN CITY AND (If any) APP FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY COUNTRY OF RESIDENCE. REB FATHER Unknown MOTHER (Maiden name) Unlanory HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF 12 May MARRIAGE 3 OR WIFE (For wife, give maiden name) PHAM THI VAC 1913 Hury 1933 Hiny you FORMER HUSBANDS OR WIVES(if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 163 48 Street cholon Sayon UN 65 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATIONISPECIFY) MONTH YEAR MONTH YEAR Budget & foreign in office Examinates 73 PRESENT TIME 1424 Hong that Itt Saijon (Retired) 11 Examinates 65 73 Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE NATURALIZATION ADJUSTMENT OF STATUS OTHER (SPECIFY): REFUGEE 5/8/75 IF YOUR NATIVE ALPHABET is IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: W Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) NEUYEN MENH VAN A21 200 457 (OTHER AGENCY USE) NR INS USE (Office of Origin) SL. Wd hI b 01 AVW OFFICE CODE: TYPE OF CASE: Vicam 3803 DATE: Chaffee SPECIAL FORM G-325A (3) c."
+  },
+  {
+    "anumber": "A21203456",
     "id": "A21203456_0009",
     "page_index": 9,
     "resources": {
-      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0009/full/max/0/default.jpg",
-      "ocr_txt": true
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0009/full/max/0/default.jpg"
     },
     "fields": {
       "sex": {
@@ -142,8 +1232,6 @@
       "form_title": {
         "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, G-325A ( (REV. 10-1-74)"
       },
-      "is_g325a": true,
-      "is_cert_naturalization": false,
       "countries": {
         "ms_countries_nlp_v1": [
           "Vietnam",
@@ -162,15 +1250,16 @@
         }
       }
     },
-    "anumber": "A21203456",
+    "is_g325a": true,
+    "is_cert_naturalization": false,
     "full_text": "Carbons: If ty FORM G-325A (REV. 10-1-74) Y Form Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. TA VIEN THI FEMALE 12/01/85 VIETNAM (If any) A 21 - 203456 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. one FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) SON TAY , VIETNAM (If any) 586-328421 CITY AND COUNTRY OF RESIDENCE FATHER TA VAN HONG MOTHER (Maiden name) NGUYEN THE LAO VIETN NAM HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE PHAN Huy LIEU LIEU unk Vietnan Vulnant Deceased FORMER HUSBANDS OR WIVES( (if none;so state) FAMILY NAME (Fo wife, give maiden name) m/ FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 927 centennial STF4 LOSANGELES C.A U.S.A 10 82 PRESENT TIME 1212 WATERLOO ST 10 81 10 82 827NBeAuDRy CA 10 77 10 81 25000 S. NORMAN DiE HARboRCiTy CA 10 75 10 77 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, SO STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR ReTiRED PRESENT TIME Too OCD Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE NATURALIZATION ADJUSTMENT OF STATUS X 7-8-33 OTHER (SPECIFY): IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) TA VIEN THI A-21-203-456 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: FORM G-325A (1) Ident."
   },
   {
+    "anumber": "A21203456",
     "id": "A21203456_0014",
     "page_index": 14,
     "resources": {
-      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0014/full/max/0/default.jpg",
-      "ocr_txt": true
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0014/full/max/0/default.jpg"
     },
     "fields": {
       "sex": {
@@ -182,8 +1271,6 @@
       "form_title": {
         "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, FORM G-325A ( (REV. 8-27-72N)"
       },
-      "is_g325a": true,
-      "is_cert_naturalization": false,
       "countries": {
         "ms_countries_nlp_v1": [
           "Vietnam",
@@ -208,15 +1295,16 @@
         }
       }
     },
-    "anumber": "A21203456",
+    "is_g325a": true,
+    "is_cert_naturalization": false,
     "full_text": "FORM G-325A (REV. 8-27-72)N Form Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr. NATIONALITY ALIEN REGISTRATION NO. TA THI FEMALE 1385 VN (421) 203 456 (If any) ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. SON TAY NVN (If any) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE FATHER TA VAN HONG NUN Deceased MOTHER (Maiden name) NAMEN THE NEU NVN Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE FORMER HUSBANDS OR WIVES none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 4631715 VAN ANYET PRESENT TIME street CAIGON SUN Jan 1970 Apr 1975 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, SO STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE NATURALIZATION ADJUSTMENT OF STATUS Refugee user 3 MAY (975 OTHER (SPECIFY): IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) TA VIEN THE (223) 203 456 (OTHER AGENCY USE) INS USE (Office of Origin) VIETNAM REFUGEE Not SL. & 8 low CP PENOLETON, CA FORM G-325A (3) C. 5-1-75"
   },
   {
+    "anumber": "A21203456",
     "id": "A21203456_0016",
     "page_index": 16,
     "resources": {
-      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0016/full/max/0/default.jpg",
-      "ocr_txt": true
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0016/full/max/0/default.jpg"
     },
     "fields": {
       "sex": {
@@ -228,8 +1316,6 @@
       "form_title": {
         "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service Form G-325A ( (REV. 8-27-72N)"
       },
-      "is_g325a": true,
-      "is_cert_naturalization": false,
       "countries": {
         "ms_countries_nlp_v1": [
           "United States"
@@ -254,15 +1340,16 @@
         }
       }
     },
-    "anumber": "A21203456",
+    "is_g325a": true,
+    "is_cert_naturalization": false,
     "full_text": "FORM G-325A (REV. 8-27-72)N Form Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 BIOGRAPHIC Immigration and Naturalization Service INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. TA VIEW THI FEMALE 1885 VN (427) 203 456 (If ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. SON TAY NVN (If any) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE FATHER TA VAN HONG NVN Deceased MOTHER (Maiden name) NGUYEN THE NEU NVN Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH OR DATE OF MARRIAGE PLACE OF MARRIAGE WIFE (For wife, give maiden name) FORMER HUSBANDS OR WIVES (if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 46217 LE VAN DUYET PRESENT TIME Street SAIGON SVN Tan 1970 Apr 1975 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, SO STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE INATURALIZATION ADJUSTMENT OF STATUS OTHER (SPECIFY): Refugee men 3 MAY 1975 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT."
   },
   {
+    "anumber": "A22484466",
     "id": "A22484466_0024",
     "page_index": 24,
     "resources": {
-      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0024/full/max/0/default.jpg",
-      "ocr_txt": true
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0024/full/max/0/default.jpg"
     },
     "fields": {
       "sex": {
@@ -274,8 +1361,6 @@
       "form_title": {
         "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, G-325A"
       },
-      "is_g325a": true,
-      "is_cert_naturalization": false,
       "countries": {
         "ms_countries_nlp_v1": [
           "Thailand",
@@ -300,15 +1385,16 @@
         }
       }
     },
-    "anumber": "A22484466",
+    "is_g325a": true,
+    "is_cert_naturalization": false,
     "full_text": "INSTRUCTIONS: USE TYPEWRITER. BE SURE ALL COPIES ARE LEGIBLE. Failure to answer fully all questions delays action. C C. -Ct C C C Do Not Remove Carbons: If typewriter is not available, print heavily in block letters with ball-point pen. U.S GOVERNMENT PRINTING OFFICE: 1977-237-015 FORM G-325A (REV. 10-1-74) Y Form Approved UNITED STATES DEPARTMENT OF JUSTICE LOS OMB No. 43-R436 Immigration and Naturalization Service BIOGRAPHIC T/C I INFORMATION SEP 23 1978 (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. FEMALE (If any) -TRAN, LIEN THI 1896 Vietnamese A 22 484 466 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. none Saigon, Vietnam -56-7200 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE FATHER Tran, Ky ? China Deceased MOTHER(Maiden name) Duong, Lua ? Vietnam Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE none FORMER HUSBANDS OR WIVES(if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE Huynh, Phan Phan 1884 1912-Saigon, Vietnam Deceased 1935 APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 26981 Ayamonte Mission Viejo Ca USA 08 76 PRESENT TIME Thailand (Camp) 06 76 07 76 513 Hong Bang Saigon Vietnam 34 06 76 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 513 Hong Bang Saigon Vietnam 34 06 76 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, SO STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER none OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) none THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE INATURALIZATION ADJUSTMENT OF STATUS t 9 / 23 / 78 OTHER (SPECIFY): IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) TRAN, LIEN HI A 22 484 466 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: (3) C. FORM G-325A"
   },
   {
+    "anumber": "A22484466",
     "id": "A22484466_0025",
     "page_index": 25,
     "resources": {
-      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0025/full/max/0/default.jpg",
-      "ocr_txt": true
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0025/full/max/0/default.jpg"
     },
     "fields": {
       "sex": {
@@ -320,8 +1406,6 @@
       "form_title": {
         "ms_form_title_llm_v1": "BIOGRAPHIC INFORMATION, G-325A"
       },
-      "is_g325a": true,
-      "is_cert_naturalization": false,
       "countries": {
         "ms_countries_nlp_v1": [
           "Thailand",
@@ -346,15 +1430,16 @@
         }
       }
     },
-    "anumber": "A22484466",
+    "is_g325a": true,
+    "is_cert_naturalization": false,
     "full_text": "Form Approved OMB No. 43-R436 BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. (If any) -TRAN, LIEN THI FEMALE 1896 Vietnamese A 122 484 466 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. Saigon, Vietnam (580)56-7200 none FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE FATHER Tran, Ky ? China Deceased MOTHER(Maiden name) Duong, Lua ? Vietnam Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE none FORMER HUSBANDS OR WIVES(if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE Huynh, Phan Phan 1884 1912-Saigon, Vietnam Deceased 1935 APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 08 76 PRESENT TIME 26981 Ayamonte Mission Viejo Ca USA Thailand (Camp) 06 76 07 76 513 Hong Bang Saigon Vietnam 34 06 76 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 513 Hong Bang Saigon Vietnam 34 06 76 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, SO STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER YEAR MONTH none OCCUPATION (SPECIFY) MONTH YEAR PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) none THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE NATURALIZATION ADJUSTMENT OF STATUS OTHER (SPECIFY): IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) TRAN, LIEN HI A 22 484 466 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: (3) C. FORM G-325A"
   },
   {
+    "anumber": "A22484466",
     "id": "A22484466_0026",
     "page_index": 26,
     "resources": {
-      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0026/full/max/0/default.jpg",
-      "ocr_txt": true
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0026/full/max/0/default.jpg"
     },
     "fields": {
       "sex": {
@@ -366,8 +1451,6 @@
       "form_title": {
         "ms_form_title_llm_v1": "Information for Naturalization and Adjustment of Status Application, G-325A"
       },
-      "is_g325a": true,
-      "is_cert_naturalization": false,
       "countries": {
         "ms_countries_nlp_v1": [
           "Thailand",
@@ -392,15 +1475,120 @@
         }
       }
     },
-    "anumber": "A22484466",
+    "is_g325a": true,
+    "is_cert_naturalization": false,
     "full_text": "Form Approved PARTMENT OF JUSTICE OMB No. 43-R436 Immigration and Naturalization Service INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. -TRAN, LIEN THI FEMALE 1896 Vietnamese (If any) 22 484 466 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. none Saigon, Vietnam (580-56-7200 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE FATHER Tran, Ky ? China Deceased MOTHER (Maiden name) Duong, Lua ? Vietnam Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE none FORMER HUSBANDS OR WIVES( (if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE Huynh, Phan Phan 1884 1912-Saigon, Vietnam Deceased 1935 APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 26981 Ayamonte Mission Viejo Ca USA 08 76 PRESENT TIME Thailand (Camp) 06 76 07 76 513 Hong Bang Saigon Vietnam 34 06 76 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 513 Hong Bang Saigon Vietnam 34 06 76 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, SO STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER none OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) none THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE NATURALIZATION ADJUSTMENT OF STATUS + OTHER (SPECIFY): IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) TRAN, LIEN WHI A 22 484 466 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: (4) Consul FORM G-325A"
   },
   {
+    "anumber": "A34190657",
+    "id": "A34190657_0012",
+    "page_index": 12,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34190657_0012/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "BIOGRAPHIC INFORMATION, G-325 ( (Rev. 10-1-82) Y"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Taiwan",
+          "China",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1988,
+          1876,
+          1960,
+          1981,
+          1986,
+          1973,
+          1980,
+          2023,
+          1878
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "[' accountant', 'retired', ' partner']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "China"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 9/25/2023 U.S. Department of Justice OMB No. 1115-0066 Immigration, and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE (Mo.-Day-Yr.) NATIONALITY FILE NUMBER CHIANG Shu Tung FEMALE 8/17/11 China A 34-190-657 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. S. T. Chiang Soochow City, China (If any) 563-31-4696 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (If known) CITY AND COUNTRY OF RESIDENCE CHIANG Li FATHER 10/2/1878 Soochow, China Deceased MOTHER (Maiden name) Koo Chin 5/20/1876 \" 11 \" AUSBAND (I none, so stafe) FAMILY NAME FIRST NAME BIRTHDATE CITY& COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wile, give maiden name) WIFE Lo Kwei 8/23/15 Kweilin, China 12/24/37 Shanghai FORMER (if none, so state) None FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 3910 Via Verde Thousand Oaks, CA. U.S.A. 7 1986 PRESENT TIME 3931 Via Verde \" \" \" \" 5 1980 7 1986 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 37 Jen Ai Rd. Section 4 Taipei Taiwan China 3 1973 6 1988 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR Retired Accountant 9 1981 PRESENT TIME Chiang, Lai, Lin & Co. Partner 6 1960 6 1988 106 Kuang Fu S. Road, Taipei, Taiwan Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF NATURALIZATION OTHER (SPECIFY): APPLICANT Liming IS IN OTHER THAN ROMAN Change LETTERS, WHITE YOUR DATE 1/25/91 STATUS AS PERMANENT RESIDENT IF YOUR NATIVE ALPHABET NAME IN YOUR NATIVE ALPHABET IN THIS SPACE Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Allen registration number) CHIANG Shu Tung A34-190-657 LOS CITIZENSHIP N-400 MAR 0 4 1991 (date) Form G-325 (Rev. 10-1-82) Y (1) Ident."
+  },
+  {
+    "anumber": "A34190657",
+    "id": "A34190657_0013",
+    "page_index": 13,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34190657_0013/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325 ( (Rev. 10-1-82) Y"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "China",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1876,
+          1960,
+          1981,
+          1986,
+          1973,
+          1980,
+          2023,
+          1878
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['retired']"
+        },
+        "reason": {
+          "reason_llm_v1": "NATURALIZATION"
+        },
+        "nationality": {
+          "nationality_llm_v1": "China"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 9/25/2023 U.S. Department of Justice OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION UILL (Family name) (First name) (Middle name) MALE BIRTHDATE (Mo.-Day-Yr.) NATIONALITY FILE NUMBER 60.00 CHIANG Shu Tung FEMALE 8/17/11 China A 34-190-657 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. S. T. Chiang Soochow City, China (If any) 563-31-4696 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (If known) CITY AND COUNTRY OF RESIDENCE. CHIANG Li FATHER 10/2/1878 Soochow, China Deceased MOTHER (Maiden name) Koo Chin 5/20/1876 11 \" 11 HUSBAND (Ifrione, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE Lo Kwei 8/23/15 Kweilin, China 12/24/37 Shanghai FORMER HUSBANDS OR WIVES (if none, so state) None FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 3910 Via Verde Thousand Oaks, CA. U.S.A. 7 1986 PRESENT TIME 3931 Via Verde 11 11 11 ⑉ 5 1980 7 986 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 37 Jen Ai Rd., Section 4 Taipei Taiwan China 3 1973 6 988 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR Retired Accountant 9 1981 PRESENT TIME Chiang, Lai, Lin & Co. Partner 6 1960 6 988 106 Kuang Fu S. Road, Taipei, Taiwan Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF DATE NATURALIZATION OTHER (SPECIFY): STATUS AS PERMANENT RESIDENT APPLICANT Shirthing 1/25/91 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS, WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Allen registration number) CHIANG Shu Tung A34-190-657 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 (Rev. 10-1-82) Y (2) Rec. BR."
+  },
+  {
+    "anumber": "A19240402",
     "id": "A19240402_0074",
     "page_index": 74,
     "resources": {
-      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0074/full/max/0/default.jpg",
-      "ocr_txt": true
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0074/full/max/0/default.jpg"
     },
     "fields": {
       "sex": {
@@ -412,8 +1600,6 @@
       "form_title": {
         "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, G-325A ( (REV. 8-27-72)N"
       },
-      "is_g325a": true,
-      "is_cert_naturalization": false,
       "countries": {
         "ms_countries_nlp_v1": [
           "United States"
@@ -440,7 +1626,92 @@
         }
       }
     },
-    "anumber": "A19240402",
+    "is_g325a": true,
+    "is_cert_naturalization": false,
     "full_text": "FORM G-325A (REV. 8-27-72)N Form Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. NEMETH ANNA Gabriella FEMALE 3-16-1907 Huggground (If any) 419-240-402 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH BudAPEst- Hungory SOCIAL SECURITY NO. 326-54-4043 FAMILY NAME FATHER KARDOS. Dezso. 1872 Veszprem Hungery- Deceased FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE MOTHER(Maiden name) Csipes. Julienna. 1886 MEZOTUR. Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE n/A FORMER HUSBANDS OR WIVES(i none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE Nemeth Gabor 1903 / 929 Minor 1966 Hungery by Death APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. Hangary FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 3172 N.Shendan Chicogo Illinois U.S.A Jan. 1972 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 6735Malkenner Schlorssth APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST. 2/23 Gemmy- FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR Housewife PRESENT TIME Housewife FORM IS SUBMITTED IN CONNECTION WITH Show below last occupation abroad if not shown above. (Include all information requested above.) THIS APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER NATURALIZATION times Neweth 3/8/74 DATE ADJUSTMENT OF STATUS OTHER (SPECIFY): IF YOUR NATIVE ALPHABET is IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT."
+  },
+  {
+    "anumber": "A28068003",
+    "id": "A28068003_0054",
+    "page_index": 54,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28068003_0054/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Department of Justice, Immigration and Naturalization Service, FORM G-325A"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States",
+          "Somalia"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1987,
+          2023,
+          1933,
+          1915,
+          1900
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['n/a']"
+        },
+        "nationality": {
+          "nationality_llm_v1": "somali"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA 4/24/2023 U.S. Department of Justice FORM G-325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION Approval expires 4-30-85 (Family name) (First name) (Middle name) MALE BIRTHDATE(M).DDY-Yr.) NATIONALITY FILE NUMBER HERSI HAWA FEMALE 01/01/1915 SOMAL, 128068003 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. HAWA HERSI NUR MOGADISHUO, SOMALIA (If any) N/A FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE. FATHER NUR HERSI MOTHER (Maiden name) ELMi MAKA HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE DIRIE HAGI 1900 MOGADISHUO 1933 MOGADISHIO SOMALIA SOMALIA FORMER HUSBANDS OR WIVES(if none,so state) NONE FAMILY NAME (For wife, give moiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE -NONE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR P.O. Box 121 MOGADISHUO SOMALIA 1915 PRESENT MOGTADISHUC 11 87 PRESENT 1102 WEST BRADDOCK RD ALEXANDRIA, VA 22302 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR NONE - APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR N/A PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) HOUSE-WIFE THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT OTHER (SPECIFY): 12/22/1987 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) HERSI HAWA A28068003 WAS 245 12/22/87 Tep Form G-325 A (Rev. 10-1-82) (1) Ident."
+  },
+  {
+    "anumber": "A28068003",
+    "id": "A28068003_0081",
+    "page_index": 81,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28068003_0081/full/max/0/default.jpg"
+    },
+    "fields": {
+      "doctype": {
+        "ms_doctype_v1": "form"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "APPLICATION & DOCUMENTATION REVIEW"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          2006,
+          2009,
+          2023
+        ]
+      },
+      "g325a": {
+        "occupation": {
+          "occupation_llm_v1": "['n.a']"
+        },
+        "nationality": {
+          "nationality_llm_v1": "US"
+        }
+      }
+    },
+    "is_g325a": true,
+    "is_cert_naturalization": false,
+    "full_text": "Screened by NARA, 4/24/2023 APPLICATION & DOCUMENTATION REVIEW YES NO F. Basis for Eligibility Yes No 1. Is Part 2A marked? Goto H01 Goto F02 2. Is Part 2B marked? Goto G01 Goto F03 3. Is Part 2C marked? STOP HERE! Goto F04 **NOTE: CPAU to also determine if case is an \"Expeditious Request\" Route to and if there are travel orders of the U.S. citizen (which include the name of the alien CPAU spouse) that establish the overseas assignment will end no less than 12 months beyond the date of the naturalization interview. 4. Is Part 2D marked? Goto H01 Goto F01 H. Disability Yes No 1. Is Part 3H marked \"Yes\"? Goto H02 Goto 101 2. Is an original completed N-648 attached? Goto 101 Goto 101 N14(H02) I. Time Outside the United States Yes No 1. Is Part 7C marked \"Yes\" that any trip taken outside of the United States since Goto 102 Goto J01 becoming a Lawful Permanent Resident lasted 6 months or more. 2. Based on eligibility, is there sufficient evidence provided that the applicant did not Goto 103 Goto 103 abandon residence or terminate employment in the United States nor abandon U.S. N14(102) abode? Examples would be documents establishing continuous residence such as in IRS return transcript or federal tax returns, rent or mortgage payments, utility bills, etc. 3. Is original IRS 1722 letter provided listing tax information for the past 5 years (or Goto J01 Goto J01 for the past 3 years if applying on the basis of marriage to a U.S. citizen)? N14(103) J. Dependent Information Yes No 1. Does Part 9A show zero (0) sons/daughters? Goto K01 Goto J02 2. Based on the DOBs listed in Part 9B, are any dependent children minors (under age Goto J03 Goto K01 18)? 3. Based on the Current Address listed in Part 9B, are any minor dependent children at Goto J04 Goto J05 an address different than the applicant? N14(J03) 4. Are there certified copies of birth certificates for all minor children born in the Goto K01 Goto K01 United States? N14(J04) K. Delinquent Taxes Yes No 1. Is Part 10A, question 5 marked \"Yes\"? Goto L01 Goto L01 N14(K01) L. Criminal Records Yes No 1. In Part 10D, are any of questions 16-21 marked \"Yes\"? Goto M01 Goto M01 N14(L01) M. Military Service Yes No 1. Does Part 6B include military service? Goto M02 Goto M02 2. Is Part 10F, question 29 marked \"Yes\"? Goto M03 Goto N01 3. Is there an original Form N-426, Request for Certification of Military or Naval Goto M04 Goto M04 Service: N14(M03) 4. Is there an original Form G-325B, Biographic Information? Goto N01 Goto N01 N14(M04) Send to Shelf. NBC November 13, 2006 ammille3 3/3/2009 6:47:42 PM Revision 9"
   }
 ]

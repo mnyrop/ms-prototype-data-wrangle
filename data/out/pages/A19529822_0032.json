@@ -1,9 +1,9 @@
 {
+  "anumber": "A19529822",
   "id": "A19529822_0032",
   "page_index": 32,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0032/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0032/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "Screeneded by NARA, 7/13/2023, I-590A Application for Adjustment of Status to Lawful Permanent Resident"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -25,6 +23,7 @@
       ]
     }
   },
-  "anumber": "A19529822",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 7/13/2023 9. I list below all organizations, societies, clubs, and associations, past or present, in which I have held membership in the United States or a foreign country, and the periods and places of such membership. (If you have never been a member of any organization, state \"None.\") NONE 10. APPLICANTS FOR STATUS AS PERMANENT RESIDENTS MUST ESTABLISH THAT THEY ARE ADMISSIBLE TO THE UNITED STATES. EXCEPT AS OTHERWISE PROVIDED BY LAW, ALIENS WITHIN ANY OF THE FOLLOWING CLASSES ARE NOT ADMISSIBLE TO THE UNITED STATES AND ARE THEREFORE INELIGIBLE FOR STATUS AS PERMANENT RESIDENTS: Aliens who have committed or who have been convicted of a crime involving moral turpitude (does not include minor traffic violations); aliens who have been engaged in or who intend to engage in any commercialized sexual activity; aliens who are or at any time have been anar- chists, or members of or affiliated with any Communist or other totalitarian party, including any subdivision or affiliate thereof; aliens who have advocated or taught, either by personal utterance, or by means of any written or printed matter, or through affiliation with an organiza- tion, (i) opposition to organized government, (ii) the overthrow of government by force and violence, (iii) the assaulting or killing o govern- ment officials because of their official character, (iv) the unlawful destruction of property, (v) sabotage, or (vi) the doctrines of world com- munism, or the establishment of a totalitarian dictatorship in the United States; aliens who intend to engage in prejudicial activities or unlawful activities of a subversive nature; aliens who have been convicted of violation of any law or regulation relating to narcotic drugs or marihuana, or who have been illicit traffickers in narcotic drugs or marihuana; aliens who have been involved in assisting any other aliens to enter the United States in violation of law; aliens who have applied for exemption or discharge from training or service in the Armed Forces of the United States on the ground of alienage and who have been relieved or discharged from such training or service. is Do any of the forgoing classes apply to you? Yes No (If answer is Yes, explain) 11. (COMPLETE THIS BLOCK ONLY IF YOU CHECKED BOX \"A\", \"B\", \"C\" or \"D\" OF BLOCK 1) APPLICANTS WHO CHECKED BOX \"A\" \"B\" \"C\" OR \"D\" OF BLOCK 1 (INCLUDING REFUGEES) IN ADDITION TO ESTABLISHING THAT THEY ARE NOT MEMBERS OF ANY OF THE INADMISSIBLE CLASSES DESCRIBED IN BLOCK 10 ABOVE MUST, EXCEPT AS OTHERWISE PROVIDED BY LAW, ALSO ESTABLISH THAT THEY ARE NOT WITHIN ANY OF THE FOLLOWING INADMISSIBLE CLASSES: Aliens who are mentally retarded, insane, or have suffered one or more attacks of insanity; aliens afflicted with psychopathic personality, sexual deviation, mental defect, narcotic drug addiction, chronic alcoholism or any dangerous contagious disease; aliens who have a physi- cal defect, disease or disability affecting their ability to earn a living; aliens who are paupers, professional beggers or vagrants; aliens who are polygamists or advocate polygamy; aliens who intend to perform skilled or unskilled labor and who have not been certified by the Secre- tary of Labor (see Instruction 10); aliens likely to become a public charge; aliens who have been excluded from the United States within the past year, or who at any time have been deported from the United States, or who at any time have been removed from the United States at Government expense; aliens who have procured or have attempted to procure a visa by fraud or misrepresentation; aliens who have departed from or remained outside the United States to avoid military service in time of war or national emergency; aliens who are former exchange visitors who are subject to but have not complied with the two year foreign residence requirement. Do any of the foregoing classes apply to you? Yes No (If answer is Yes, explain) 12. I do do not intend to seek gainful employment in the United States. If you intend to seek gainful employment in the United States, state the occupation you intend to follow. 13. (Complete this block only if you checked box A or D of block 1) a. I have a priority on the consular waiting list at the American Consulate at as of (City) (Date) b. A visa petition according me immediate relative preference status was approved by the district director at LITTSBURGH PA on JUNE (City and State) (Date) C. A visa petition has not been approved in my behalf but I claim eligibility for preference status because my spouse my parent is the beneficiary of a visa petition approved by the district director at on (City and State) (Date) d. I am claiming preference status as a refugee under the proviso to Section 203(a)(7) of the Act who has been continuously physi- cally present in the United States for at least the past two years. (If you check this item, you must execute and attach Form 1-590A to this application.) e. Other (explain) (Page 2)"
 }

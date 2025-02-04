@@ -1,0 +1,30 @@
+{
+  "anumber": "A71718847",
+  "id": "A71718847_0032",
+  "page_index": 32,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71718847_0032/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Screened by NARA, 5/12/2023, NARA"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Kenya"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023,
+        1996
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 5/12/2023 BRUCE HOUSE DR. C.S. SHETH STANDARD STREET P.O. BOX 40384 TEL. SURGERY 221741 RESIDENCE 740254 NAIROBI KENYA. 17th May 1996 Dr. Aggarwal Coast X-ray Centre 6th Floor BIMA TOWER DIEGO ROAD MOMBASA Dear Dr. Aggarwal, Re :- ZAHRA BASHU RASHID With reference to my letter dated 16th May 1996, above named is for X-ray Chest. Thanking You. Yours Sincerely, P DR. C. S. SHETH"
+}

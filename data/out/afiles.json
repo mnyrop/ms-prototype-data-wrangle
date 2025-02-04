@@ -1,5 +1,352 @@
 [
   {
+    "id": "A19055851",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "CORRECTED INDEX CARD, G-361 ( (REV.-AVP.11-1-66)",
+          "CORRECTED INDEX CARD, G-361 ( (REV. AVP-11-1-66)",
+          "REPORT of Action—Nonimmigrant, A 19 855 857",
+          "ROUTE SLIP, Form G-25",
+          "Alien Registration Form, A19 055 851",
+          "United States Department of Justice Immigration and Naturalization Service, Form N-4-70N",
+          "United States Department of Justice Immigration and Naturalization Service, I-100",
+          "Petition for Naturalization, 3732205",
+          "RESULTS OF EXAMINATION",
+          "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-4 ( 5-1-73)N",
+          "Naturalization Application",
+          "STATEMENT OF FACTSS FOR PREPARATION OF PETITION, 316A",
+          "Immigration and Naturalization Service Application",
+          "APPLICATION FOR A SEARCH OF THE RECORDS OF THE IMMIGRATION AND NATURALIZATION SERVICE",
+          "INFORMATION AND INSTRUCTIONS, N–585.",
+          "Title: MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, Form Number: I-151",
+          "APPLICATION FOR STATUS AS PERMANENT RESIDENT, Form Approved Budget Bureau No. 4-R400-5",
+          "Application for Adjustment of Status,, I-452A",
+          "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28",
+          "Letter of Employment Reference for Mr. and Mrs. George Wolfson",
+          "Marriage Certificate",
+          "Popkin and Shamir, A19 055 851",
+          "IN THE CIRCUIT COURT OF THE ELEVENTH JUDICIAL CIRCUIT IN AND FOR DADE COUNTY, FLORIDA. IN CHANCERY. NO. 125468-C",
+          "Book 909 Page 448, Circuit Judge Order",
+          "STATE OF FLORIDA",
+          "IMMIGRATION AND NATURALIZATION SERVICE, FORM I-4 468 A",
+          "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM I-4 468 A",
+          "REPORT of Radiologist, 44217",
+          "United States Department of Justice Immigration and Naturalization Service, FORM I-4",
+          "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, Form I-72 ( (Rev. 8-15-69)",
+          "Title of the image, The title is not clearly visible due to the low resolution and angle of the photograph. It can be inferred that it might relate to a the content or subject matter discussed in the document., Form number only in double quotes, RECEIVED MAR 20 1970",
+          "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, Form I-130",
+          "Information About Alien Beneficiary, A19-055-851",
+          "Application to File Petition for Naturalization",
+          "INDEX CARD, G-361",
+          "REFERENCE REQUEST—FEDERAL RECORDS REQUEST FORM, N-400",
+          "REFERENCE REQUEST—FEDERAL RECORDS REQUEST FORM, 85-0018",
+          "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, Form G-28",
+          "BIOGRAPHIC INFORMATION, FORM G-325 A ( (REV. 9-1-69)",
+          "United States Department of Justice Immigration and Naturalization Service, Form N-4",
+          "ALWAYS GIVE YOUR ALIEN REGISTRATION NUMBER WHEN COMMUNICATING WITH THIS SERVICE., GPO 880-170",
+          "United States Department of Justice Immigration and Naturalization Service, I-485",
+          "United States Department of Justice Immigration and Naturalization Service, G-325A",
+          "United States Department of Justice Immigration and Naturalization Service, G-325 A REV. 4-1-67",
+          "Title: UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service NEW YORK DISTRICT Officer's Review and Action Sheet, Form Number: I-130",
+          "DEportation Authorization Form, I-161 ( (Rev. 7-69)",
+          "NOTICE OF APPROVAL OR REVALIDATION OF IMMIGRANT VISA PETITION, A19 055 851",
+          "Petition to Classify Status of Alien Relative, I-130",
+          "United States Department of Justice Immigration and Naturalization Service, Form N-14 (Rev. 8/2/65",
+          "Naturalization Application, N-4"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Germany",
+          "Australia",
+          "Greece",
+          "Italy",
+          "Pakistan",
+          "Vietnam",
+          "Canada",
+          "India",
+          "South Africa",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "WOLFSON"
+      },
+      "first_name": {
+        "nara": "GEORGE"
+      },
+      "dob": {
+        "nara": "1909"
+      },
+      "doe": {
+        "nara": "1970"
+      },
+      "poe": {
+        "nara": "LOS"
+      },
+      "cob": {
+        "nara": "PAKIS"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1976"
+      },
+      "natz_date": {
+        "nara": "1976"
+      },
+      "natz_location": {
+        "nara": "LOS"
+      }
+    },
+    "page_count": 64
+  },
+  {
+    "id": "A21200457",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "Naturalization Certificate, N-550 REV. 6-91",
+          "U.S. Department of Justice Immigration and Naturalization Service, 21 200 4457",
+          "U.S. Department of Justice Immigration and Naturalization Service, G-325 ( (Rev. 10-1-82) Y",
+          "Petition for Naturalization, N-400",
+          "Screened by NARA, 8/17/2023",
+          "Screened by NARA, 8/17/2023, Form N-4 ( (12/05/86) N",
+          "Naturalization Application,",
+          "Application to File Petition for Naturalization",
+          "Notice of Naturalization Oath Ceremony, N-445A (Rev. 1/8/92)",
+          "Naturalization Oath Ceremony Questionnaire, N-4",
+          "Interfile Request – Federal Records Centers, Form G-1022 ( (03/13/00)",
+          "INTERFILE TRANSMITTAL SLIP",
+          "Notice of Preliminary Naturalization Hearing, N-430A",
+          "Naturalization Application Form, N-4",
+          "Screened by NARA, 8/17/2023, G-360 A (Rev. 1-1-81)N",
+          "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A2 1 200 457",
+          "INSTRUCTIONS, I-325",
+          "APPLICATION BY INDOCHINESE REFUGEE FOR PERMANENT RESIDENCE",
+          "Screeneded by NARA, 8/17/2023",
+          "BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74) Y",
+          "HAVERford Township Bureau of Police, NARA, 8/17/202",
+          "APPLICATION FOR-STATUS AS PERMANENT RESIDENT, O.M.B. No. 43—R040",
+          "Alien Certification Application for Naturalization and Citizenship, N-4-1026",
+          "Application for Adjustment of Status to Lawful Permanent Resident,, I-452.",
+          "Screened by NARA, 8/17/2023, G-361 (Rev. 4-1-76) N",
+          "Screened by NARA, 8/17/2023, FORM I-94 (Rev. 9-1-73)N",
+          "Certificate of Naturalization, N-550",
+          "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service",
+          "United States Department of Justice Immigration and Naturalization Service, TC/I-485-C",
+          "DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FORM FS-398",
+          "INTERNATIONAL RESCUE COMMITTEE, INC., No. 767/IRG/75",
+          "Sworn Statement of Refugee Applying for Parole into the United States, 0-646(5.12-75)",
+          "APPLICANT, FORM G-325A",
+          "Naturalization Information, G-325A",
+          "United States Department of Justice Immigration and Naturalization Service, G-325A ( (REV. 10-1-74)",
+          "BIOGRAPHIC INFORMATION, G-325A",
+          "DCII REQUEST / REPLY CARD, NECC/HP-23079"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Cambodia",
+          "Laos",
+          "United States",
+          "Vietnam"
+        ]
+      },
+      "last_name": {
+        "nara": "NGUYEN"
+      },
+      "first_name": {
+        "nara": "MINH"
+      },
+      "dob": {
+        "nara": "1915"
+      },
+      "doe": {
+        "nara": "1975"
+      },
+      "poe": {
+        "nara": "PHI"
+      },
+      "cob": {
+        "nara": "VIETN"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1975"
+      },
+      "natz_date": {
+        "nara": "1992"
+      },
+      "natz_location": {
+        "nara": "LOS"
+      }
+    },
+    "page_count": 59
+  },
+  {
+    "id": "A28068003",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "U.S. Postal Service Certified Mail Receipt, PS Form 3800",
+          "Certified Mail Provides:, PS Form 3800, August 2006 ( Reverse PSN 7530-02-000-90447",
+          "Decision on Application for Naturalization",
+          "Title 8, Code of Federal Regulations, §312.2, Form N-644 for Agency consideration (Medical Certification for Disability Exceptions)",
+          "Screeneded by NARA, 4/24023, Form N-335 ( (Rev 10/2006)",
+          "Screeneded by NARA, 4/24023",
+          "RECORD OF INTERPRETERER’S OATH, FOIA ( (b)(6)",
+          "Notice of Action, I-797CC",
+          "Screeneded by NARA, 4/24023, Form I-458, Application to Register Permanent Residence or Adjust Status.",
+          "Naturalization Application",
+          "Part 3. Information about you., NARA, 4/24023",
+          "Part 5. Information for criminal records search., Form N-400 (Rev. 10/15/07) Y Page 3",
+          "Part 7. Time outside the United States (Including Trips to Canada, Mexico and the Caribbean Islands), NARA, 4/2023",
+          "Information about your marital history., N-4 000",
+          "Part 10. Additional questions. ( (Continued.), Form N-4 (00 ( (Rev. 10/15/07) Y Page 7",
+          "Title: Part 10. Additional questions. ( (Continued.), Form number: Form N-4 (",
+          "Title: Additional questions. ( (Continued.), Form number: NARA, 4/24023",
+          "Naturalization Application,",
+          "Form N-648, Medical Certification for Disability Exceptions, Department of Homeland Security U.S. Citizenship and Immigration Services",
+          "Medical Information Form, Form N-648 ( (Rev. 07/01/09) Y Page 2",
+          "Screened by NARA, 4/24023",
+          "Professional Certified Opinion",
+          "Department of Homeland Security, U.S. Citizenship and Immigration Services",
+          "Form N-648 ( (Rev. 01/13/06)Y Page 3, Form N-648",
+          "Department of Homeland Security U.S. Citizenship and Immigration Services",
+          "Screeneded by NARA, 4/2022",
+          "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, A28-068-003",
+          "Application for Permanent Residence",
+          "FOIA ( (b)(6), 2023/4425",
+          "Biographic Information Form G-325A, GPO: 1987 - 177-4424",
+          "Medical Examination of Aliens Seeking Adjustment of Status, INS A-File",
+          "Medical Clearance Requirements for Aliens Seeking Adjustment of Status",
+          "Medical Examination of Aliens Seeking Adjustment of Status",
+          "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+          "U.S. Department of Justice, Immigration and Naturalization Service, FORM G-325A",
+          "Affidavit of Support",
+          "Title: FOIA ( (b)(6), Form Number: FOIA ((b)(6)",
+          "Petition for Alien Relative, 1115-0054",
+          "Information about your alien relative, FOIA ( (b)(6)",
+          "QUNSULIYADDA GUUD EE JAMHUURIYADDA DIMOQRAADIGA SOOMAALIYA, W/C-5/234/87",
+          "Caddeynta Warqaddha Dhalashada, FOIA ( (b)(6)",
+          "Translation of the attached document states:, Document Number: FOIA(b)(6)",
+          "Embassy of the Somali Democratic Republic Washington, D.C., SEW/300/12/87",
+          "WASHINGTON DISTRICT OFFICE - EXTERNAL OUTING SHEET",
+          "Screened by NARA, 4/24023, PS Form 3811",
+          "N-4 Adjudication Processing Worksheet, N-4",
+          "Record Of IBIS Query ( (ROIQ), NBC*00004499",
+          "APPLICATION & DOCUMENTATION REVIEW",
+          "Notice of Action, I-797",
+          "Re-Schedule, 31737",
+          "U.S. Citizenship & Immigration Service Request, A2068003",
+          "Screened by NARA, 4/24023, 28068005",
+          "RECORD OF INTERPRETERS’ OATH, USCIS-1023A"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Germany",
+          "Italy",
+          "Kenya",
+          "Somalia",
+          "Panama",
+          "Thailand",
+          "Saudi Arabia",
+          "Mexico",
+          "Canada",
+          "India",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "HERSI"
+      },
+      "first_name": {
+        "nara": "HAWA"
+      },
+      "dob": {
+        "nara": "1915"
+      },
+      "doe": {
+        "nara": "1958"
+      },
+      "poe": {
+        "nara": "WAS"
+      },
+      "cob": {
+        "nara": "SOMAL"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1988"
+      }
+    },
+    "page_count": 102
+  },
+  {
+    "id": "A28871610",
+    "fields": {
+      "sex": {
+        "nara": "M"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "REQUEST FOR ASYLUM IN THE UNITED STATES, Form 1-589",
+          "Screened by NARA, 6/8/2023",
+          "U.S. Department of Justice Immigration and Naturalization Service, G-325A"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Nicaragua",
+          "United States",
+          "Guatemala"
+        ]
+      },
+      "last_name": {
+        "nara": "HERNANDEZ"
+      },
+      "first_name": {
+        "nara": "LUIS"
+      },
+      "dob": {
+        "nara": "1914"
+      },
+      "doe": {
+        "nara": "1987"
+      },
+      "poe": {
+        "nara": "MIA"
+      },
+      "cob": {
+        "nara": "NICAR"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1989"
+      }
+    },
+    "page_count": 3
+  },
+  {
     "id": "A21203456",
     "fields": {
       "sex": {
@@ -22,6 +369,12 @@
           "Sworn Statement of Refugee Applying for Parole into the United States, G-64(5.12.75)",
           "LỘI KHAI HƯU CÀNG THÀNH TINH NĂM XIN NHẬP CÁNH HÒA KÝ, 10",
           "Chu ky va Chuc Vu ca Vien Chuc"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States",
+          "Vietnam"
         ]
       },
       "last_name": {
@@ -55,7 +408,7 @@
     "id": "A22484466",
     "fields": {
       "sex": {
-        "ms_sex_llm_v1": "male"
+        "ms_sex_llm_v1": "female"
       },
       "form_titles": {
         "ms_form_titles_llm_v1": [
@@ -74,6 +427,16 @@
           "BIOGRAPHIC INFORMATION, G-325A",
           "Information for Naturalization and Adjustment of Status Application, G-325A",
           "United States Department of Justice Immigration and Naturalization Service Processing Sheet, I-485-c"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Laos",
+          "China",
+          "Thailand",
+          "Cambodia",
+          "Vietnam",
+          "United States"
         ]
       },
       "last_name": {
@@ -155,6 +518,13 @@
           "United States Department of Justice Immigration and Naturalization Service, G-325A ( (REV. 8-27-72)N"
         ]
       },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Germany",
+          "United States",
+          "Hungary"
+        ]
+      },
       "last_name": {
         "nara": "NEMETH"
       },
@@ -183,10 +553,139 @@
     "page_count": 75
   },
   {
-    "id": "A10712436",
+    "id": "A34190657",
     "fields": {
       "sex": {
         "ms_sex_llm_v1": "male"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "U.S. Naturalization Certificate, FORM N-550 ( (REV. 11-1-87)Y",
+          "Notice of Final Naturalization Hearing, N-445A",
+          "Naturalization Petition,, N-455",
+          "Naturalization Application Form, N-4 (form number not fully visible)",
+          "Notice of Preliminary Naturalization Hearing, N-430A",
+          "Naturalization Application",
+          "Title: NARA Screening Form, Date: 9/25/2023, Form Number: N-4-000-00000-N",
+          "Means used to return to the United States",
+          "Screened by NARA, 9/25/2023, N-4 - 10/26/89",
+          "Petition for Naturalization",
+          "RESULT OF EXAMINATION",
+          "BIOGRAPHIC INFORMATION, G-325 ( (Rev. 10-1-82) Y",
+          "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325 ( (Rev. 10-1-82) Y",
+          "The Alien Registration Receipt Card, NARA-8250323",
+          "INTERFILE TRANSMITTAL SLIP",
+          "APPLICATION FOR ISSUANCE OR EXTENSION OF PERMIT TO REENTER THE UNITED STATES",
+          "Alien Registration Receipt Card Application Form I-94 for issuance of Alien Registration Receipt Card, I-90",
+          "TO BE COMPLETED BY APPLICANT REQUESTING EXTENSION OF REENTRY PERMIT, HKC-223",
+          "COVER SHEET RECORD OF PROCEEDING, M-175 ( (Rev. 10-20-69)",
+          "APPLICATION FOR ISSUANCE OR EXTENSION OF PERMIT TO REENTER THE UNITED STATES, Form No. 43-R0052",
+          "Alien Registration Receipt Card",
+          "APPLICATION FOR ISSUANCE OR EXTENSION OF PERMIT TO REENTER THE UNITED STATES, OMB No 43-R0052",
+          "Application for Alien Registration Receipt Card, I-151",
+          "APPLICATION FOR ISSUANCE OR EXTENSION OF PERMIT TO REENTER THE UNITED STATES, 4m 4 0052",
+          "Application for Alien Registration Receipt Card; Form I-90, Application for Alien Registration Receipt Card; Form I-90",
+          "Alien Registration Receipt Card Application Form I-90, I-90",
+          "Screened by NARA, 9/25/2023, G-94",
+          "Alien Registration Receipt Card Application Form I-94, I-90",
+          "United States Department of Justice Immigration and Naturalization Service",
+          "Naturalization Application Form N-4-142,, NARA, 9/25/2023",
+          "Naturalization Application Instructions",
+          "PERMIT TO REENTER THE UNITED STATES, 1974 EDITION",
+          "PERMIT TO REENTER THE UNITED STATES, I-1294",
+          "Registration Certificate, A 34 190 657",
+          "ADMISSION STAMPS, 4",
+          "Visas, 0667224",
+          "Visas, 8, 9",
+          "Visas, 10 06672244",
+          "Screened by NARA, 9/2/2023, NOTES",
+          "Entry Certificates and Visas for the United Kingdom, I.D. 240",
+          "Screened by NARA, 9/25/2023, 香港人民入境事務處處長",
+          "Visas, 1446079",
+          "Machtiging D.V.Z. Hr v/d Made, No. NE-77-V-5954",
+          "Visas, 0667224 14",
+          "Effect of Claim to Nonresident Alien Status for Federal Income Tax Purposes: An alien who has actually established residence in the United States after having been admitted as an",
+          "Screeneded by NARA, 9/25/2023, Form I-1331",
+          "Screened by NARA, 9/25/2023, FORM G-94",
+          "APPLICATION FOR ISSUANCE OR EXTENSION OF PERMIT TO REENTER THE UNITED STATES, CMB No. 43-R0052",
+          "Application for Alien Registration Receipt Card ( I-94, I-90",
+          "PERMIT TO REENTER THE UNITED STATES, 1972 Edition",
+          "PERMIT TO REENTER THE UNITED STATES",
+          "Screened by NARA, 9/25/2023, A34 190 657",
+          "Visas, 042217440 15",
+          "Application to Preserve Residence for Naturalization Purposes, Form N-470",
+          "Application for Extension of Permit to Reenter the United States, and must be accompanied by the permit and by the fee specified in the instructions on Form I-143.",
+          "Screened by NARA, 9/25/2023, G-360 D ( (Rev. 1-1-78)N TICKLER",
+          "ROUTE SLIP, G-360 B (Rev. 1-1-78)N",
+          "Immigrant Visa and Alien Registration, FS-511",
+          "DEPARTMENT OF STATE APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, Form FS-510 ( (Chin-English)",
+          "Form FS-510 ( (English) ( (2–68), Personal financial resources",
+          "Form FS-510 ( (English) ( (268)",
+          "Form FS-510 ( (English) ( (2-68)",
+          "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, Form 1-130",
+          "Application for Adjustment of Status,, I-441.",
+          "Screened by NARA, 9/25/2023",
+          "TAIPEI MUNICIPAL POLICE HEADQUARTERS, 110195",
+          "Bechtel Power Corporation Engineers – Constructors, FOIA(b)(6)",
+          "DEPARTMENT OF STATE MEDICAL EXAMINATION OF VISA APPLICANTS, NARA-398"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Italy",
+          "China",
+          "France",
+          "Philippines",
+          "Australia",
+          "Denmark",
+          "Cuba",
+          "Switzerland",
+          "Mexico",
+          "Canada",
+          "Vietnam",
+          "Taiwan",
+          "United States",
+          "United Kingdom"
+        ]
+      },
+      "last_name": {
+        "nara": "CHIANG"
+      },
+      "first_name": {
+        "nara": "SHU"
+      },
+      "dob": {
+        "nara": "1911"
+      },
+      "doe": {
+        "nara": "1973"
+      },
+      "poe": {
+        "nara": "HHW"
+      },
+      "cob": {
+        "nara": "CHINA"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1973"
+      },
+      "natz_date": {
+        "nara": "1991"
+      },
+      "natz_location": {
+        "nara": "LOS"
+      }
+    },
+    "page_count": 112
+  },
+  {
+    "id": "A10712436",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
       },
       "form_titles": {
         "ms_form_titles_llm_v1": [
@@ -221,6 +720,14 @@
           "REPUBLICa de El Salvador - Corte de Cuentasas, 253875, T.R. 253199",
           "MEMORANDUM DE CASA GOLDTREE, La Idea 2-54",
           "Certification of Employment and Good Moral Character for Rosa Aminta Renderos Dominquez"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Canada",
+          "El Salvador",
+          "United States",
+          "Mexico"
         ]
       },
       "last_name": {
@@ -267,6 +774,11 @@
           "Screened by NARA, 5/9/2023, ARQUIVO GENERAL DEL ESTADO"
         ]
       },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States"
+        ]
+      },
       "last_name": {
         "nara": "RUIZ RAMIREZ"
       },
@@ -295,10 +807,194 @@
     "page_count": 8
   },
   {
+    "id": "A28754751",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male",
+        "nara": "M"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "NOTICE-IMMIGRATION BOND C  A L C S T E D, Form -139 ( (Rev. 2-14-75)",
+          "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, A28 754 751",
+          "INMIGRATION BOND FOR MAINTENANCE OF STATUS AND DEPARTURE OF NONIMMIGRANT ALIEN, FOIA ((b)(6)",
+          "Immigration and Naturalization Service Bond, A2 754 751",
+          "U.S. DEPARTMENT OF JUSTICE, IMMIGRATION AND NATURALIZATION SERVICE, A28 754 751",
+          "RECEIPT OF IMMIGRATION OFFICER — UNITED STATES BONDS OR NOTES, OR CASH, ACCEPTED AS SECURITY ON IMMIGRATION BOND",
+          "INSTRUCTIONS",
+          "ORDER OF THE IMMIGRATION JUDGE",
+          "MEMORANDUM OF MASTER CALENDAR APPEARANCE, A28 754 751",
+          "MEMORANDUM OF MASTER CALENDAR APPEARANCE, 128 764 751",
+          "ORDER TO SHOW CAUSE, NOTICE OF HEARING, AND WARRANT FOR ARREST OF ALIEN",
+          "NOTICE TO RESPONDENT, I-618",
+          "DEportation Case Check Sheet, 170",
+          "In the Matter of, File A 2-754-751",
+          "Embassy of the United States of America, 28-754-751",
+          "NOTIFICATION OF DEPARTURE-BOND CASE, Form I-392 ( (Rev. 3-17-70)",
+          "DEportation Case Check Sheet,  Form 1-70",
+          "Screeneded by NARA, 5/5/2023, Screeneded by NARA, 5/5/2023",
+          "Screened by NARA, 5/5/2023, NARA Form Number: 14-2023",
+          "EXECUTIVE OFFICE FOR IMMIGRATION REVIEW",
+          "Screeneded by NARA, 5/5/2023, CASE NO. A287544751",
+          "List of Prospective Witness,, FOIA ( (b)(6)",
+          "Executive Office for Immigration Review, A28 754 751",
+          "IN THE MATTER OF, A28 754 751",
+          "Screeneded by NARA, 5/5/2023, IV. CUSTOMARY GRANTING OF CHANGE OF VENUE, V. CHANGES OF PROCEDURES:",
+          "Screeneded by NARA, 5/5/2023, VI. CONCLUSION:",
+          "Screened by NARA, 5/5/2023, NARA Form Number: 1988-004",
+          "REQUEST FOR ASYLUM IN THE UNITED STATES, Form 1-589",
+          "Screened by NARA, 5/5/2023, FOIA ( (b)(6)",
+          "Screeneded by NARA, 5/5/2023, Screening Form for Asylum Applicants",
+          "Refugee Determination Application,, NARA-1024.",
+          "DECLARATION OF PRUDENCIO DE LEON-TORRES, NARA, 5/5/2023",
+          "Prudencia de Leon-Torres",
+          "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A",
+          "BIOGRAPHIC INFORMATION, G-325A",
+          "Title: U.S. Department of Justice\\nForm Number: G-325A ( (Rev. 10-1-82)",
+          "Country Reports on Human Rights Practices for 1985, Joint Committee Print",
+          "EL SALVADOR",
+          "EL SALVADOR, 516",
+          "RESPECT FOR HUMAN RIGHTS, 517 EL SALVADOR",
+          "EL SALVADOR, 518",
+          "EL SALVADOR, 519",
+          "EL SALVADOR, 520",
+          "EL SALVADOR, 522",
+          "523, EL SALVADOR",
+          "EL SALVADOR, 524",
+          "EL SALVADOR, 526",
+          "Freedom of Religion, 527",
+          "EL SALVADOR, 528",
+          "EL SALVADOR, 529",
+          "EL SALVADOR, 530",
+          "531 EL SALVADOR, NARA, 5/5/2023",
+          "EL SALVADOR, 532",
+          "UNITED NATIONS HIGH COMMISSIONER FOR REFUGEES, NARA-502341",
+          "United Nations High Commissioner for Refugees, CH-1211 Geneva 10",
+          "Screened by NARA, 5/5/2023, - 2 -",
+          "United Nations High Commissioner for Refugees, 8",
+          "PROOF OF SERVICE BY MAIL,, NARA-5/2023",
+          "Immigration and Naturalization Service",
+          "Screened by NARA, 5/5/2023, CIMNFA IMMIGRATION AND NATURALIZATION SERVICE CENTRAL INDEX SYSTEM - NEW FILE ADD (NF",
+          "RECORD OF DEPORTABLE ALIEN",
+          "U.S. Department of Justice Immigration and Naturalization Service Aviso y Petición de Disposición",
+          "Notice and Request for Disposition",
+          "AVISO DE DERECHOS A EL SALVADORENOS, 8-2587",
+          "NOTICE OF RIGHTS TO EL SALVADORANS, Exhibit B",
+          "INFORMATION FOR OR'ING DETAINES, NARA 5/2023",
+          "NOTICE TO BE GIVEN ORALLY IN SPANISH OR ENGLISH OR ANY OTHER LANGUAGE UNDERSTOOD BY THE DETAINEE., Exhibit A",
+          "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( (REV. 12-29-82)"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Honduras",
+          "Cuba",
+          "Nicaragua",
+          "Mexico",
+          "Canada",
+          "El Salvador",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "DE LEON TORRES"
+      },
+      "first_name": {
+        "nara": "PRUDENCIO"
+      },
+      "dob": {
+        "nara": "1915"
+      },
+      "doe": {
+        "nara": "1987"
+      },
+      "poe": {
+        "nara": "SYS"
+      },
+      "cob": {
+        "nara": "ELSAL"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1987"
+      }
+    },
+    "page_count": 82
+  },
+  {
+    "id": "A12284895",
+    "fields": {
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "ALIEN REGISTRATION FINGERPRINT CHART, Form AR-4",
+          "Office Memorandum, STANDARD FORM NO. 64",
+          "THE BLOOD GROUPING LABORATORY, REGENT 4-6000",
+          "THE BLOOD GROUPING LABORATORY, 332 LONGWOOD AVENUE • BOSTON 15 • MASSACHUSETTS",
+          "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, Form G-342 (",
+          "APPLICATION FOR INFORMATION FROM OR COPIES OF IMMIGRATION AND NATURALIZATION RECORDS,, A-12 284 895",
+          "INFORMATION AND INSTRUCTIONS, 585",
+          "NOTICE OF APPROVAL OF VISA PETITION, I-171",
+          "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Boston 7 Massachusetts., File: A 12 284 895 May 16, 1961",
+          "Processing Instructions, I-467",
+          "Law Offices of Marvin M. Neuman, Form I-130",
+          "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28",
+          "Immigrant Visa and Alien Registration, FS-511",
+          "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, FS-510 ( (English)",
+          "Form FS-510 ( (English) ( (8–17–59)",
+          "U.S. Immigration Eligibility Questionnaire for Naturalization,, Form N-4",
+          "Form FS-510 ( (English) ( (8-17-59)",
+          "CLASS C MEDICAL CERTIFICATE, PHS-124 REV. 8-49",
+          "Petition to Classify Status of Alien for Issuance of Immigrant Visa, A12 0004421",
+          "Block II—Information Pertaining to Alien Beneficiary, 2",
+          "AMERICAN CONSULATE GENERAL HONG KONG, B.C.C., Statement to be Executed by Visa Applicants at the American Consulate General, Hong Kong",
+          "在香港美國總領事署申請簽證者須具此書, 17",
+          "PROVÍNCIA DE MACAU, 330",
+          "STATE OF MASSACHUSETTS COUNTY OF Suffolk"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Japan",
+          "China",
+          "Mexico",
+          "Canada",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "CHAN CHIN"
+      },
+      "first_name": {
+        "nara": "TAK"
+      },
+      "dob": {
+        "nara": "1896"
+      },
+      "doe": {
+        "nara": "1961"
+      },
+      "poe": {
+        "nara": "ANC"
+      },
+      "cob": {
+        "nara": "CHINA"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1961"
+      }
+    },
+    "page_count": 39
+  },
+  {
     "id": "A10775863",
     "fields": {
       "sex": {
-        "ms_sex_llm_v1": "male"
+        "ms_sex_llm_v1": "female"
       },
       "form_titles": {
         "ms_form_titles_llm_v1": [
@@ -324,6 +1020,12 @@
           "United States Naturalization Certificate",
           "United States of America Naturalization Certificate, 345016",
           "Naturalization Petition,, N-4-1025"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Jamaica",
+          "United States"
         ]
       },
       "last_name": {
@@ -360,10 +1062,796 @@
     "page_count": 31
   },
   {
-    "id": "A19529822",
+    "id": "A12315057",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "CERTIFICATE OF CITIZENSHIP",
+          "Oath of Allegiance, N-4-102",
+          "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, N-600 ( (Rev. 10-20-59)",
+          "Naturalization Certificate Application,, N-4-120.",
+          "Naturalization Application for Citizenship ( Form N-4, N-4",
+          "Affidavit, 1023",
+          "STATUS N-600 APPLICATION, N-601 ( (Rev. 6-28-60)",
+          "Form I-404-A, United States Department of Justice Immigration and Naturalization Service",
+          "U.S. DEPARTMENT OF COMMERCE BUREAU OF THE CENSUS, FL10-621",
+          "PASSaic Public Schools, 7-5300"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Canada",
+          "Russia",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "MILLER"
+      },
+      "first_name": {
+        "nara": "EVA"
+      },
+      "dob": {
+        "nara": "1906"
+      },
+      "doe": {
+        "nara": "1911"
+      },
+      "poe": {
+        "nara": "NYC"
+      },
+      "cob": {
+        "nara": "USSR"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1961"
+      }
+    },
+    "page_count": 12
+  },
+  {
+    "id": "A29372667",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female",
+        "nara": "F"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, FORM I-181",
+          "Application for Permanent Residence, 1115-0053",
+          "Screeneded by NARA, 7/31/2023, NARA Form Number: 850-046",
+          "Biographic Information Form, G-28 ID Number",
+          "Affidavit of Support",
+          "Oath or Affirmation of Deponent, I-139",
+          "Medical Examination of Aliens Seeking Adjustment of Status",
+          "Medical Clearance Requirements for Aliens Seeking Adjustment of Status",
+          "Screened by NARA, 7/31/29023, Report Date: 10/11/90",
+          "Screeneded by NARA, 7/31/2023, Contract No. 21121 Customer No. H0007",
+          "Petition for Alien Relative, 1115-0054",
+          "Continued Information about your alien relative",
+          "NOTICE TO PERSONS FOR SPOUSES FILING MARRIED LESS THAN TWO YEARS, I-751, Joint Petition to Remove Conditional Basis of Alien’s Permanent Resident Status",
+          "LIBERTÉ, 4 150",
+          "VU : un anement pour la légalisation de la signature de M.Jenn Wilfrid ENTRAND, directeur général des Archives Nationales., N°65232 H.H.",
+          "Excerpt of the Registry of Birth Certificates for the commune of Cap-Haien",
+          "Translation Certification by Notary Public, Form Number: NARA-012346",
+          "Acte de naissance de Philomène Elvira Schettini, 4 104e de l'Indépendance",
+          "Certificat de légalisation de la signature, 65232",
+          "Certificat d'Identité, 89441",
+          "Birth Certificate of Aldo Henry Pierre",
+          "Translation Certification by Notary Public, NARA Form 10-234",
+          "Certificat de Legallisation de la Signature de M. Hérubin Ogéan Delbrouck, Recepsisse No. 6523-14",
+          "Il Ministro per gli Affari Esteri rilascia il presente passaporto a, A04469",
+          "WORK SHEET, A12-372-607 MIA",
+          "BIOGRAPHIC INFORMATION, G-325A",
+          "U.S. Department of Justice, Immigration and Naturalization Service, G-325A",
+          "U.S. Department of Justice Immigration and Naturalization Service, G-325A",
+          "Biographic Information, G-325A",
+          "United States Department of Justice Immigration and Naturalization Service, A29372667"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Germany",
+          "Italy",
+          "Haiti",
+          "Canada",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "MARRA"
+      },
+      "first_name": {
+        "nara": "ELVIRA"
+      },
+      "dob": {
+        "nara": "1907"
+      },
+      "doe": {
+        "nara": "1990"
+      },
+      "poe": {
+        "nara": "MIA"
+      },
+      "cob": {
+        "nara": "HAITI"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1990"
+      }
+    },
+    "page_count": 39
+  },
+  {
+    "id": "A26875947",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female",
+        "nara": "F"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "NOTICE OF APPROVAL OF RELATIVE IMMIGRANT VISA PETITION, I-171",
+          "Naturalization Certificate, N-550 REV. 6-91",
+          "Notice of Naturalization Oath Ceremony, Form N-4",
+          "Application for Naturalization, N-4 (Rev. 07/19/91)N",
+          "Information about your residences and employment., NARA (8/11/2023",
+          "Part 7. Additional eligibility factors., Form N-400 ( Rev (07/17/91)N",
+          "Memberships and organizations., NARA, 8/11/2023",
+          "Certificate Preparation Sheet And Oath Declaration, Form N-649 ( (Rev. 1/1/98)",
+          "RECORD OF SWORN STATEMENT ( (FINGERPRINTS)",
+          "Title: N-648, Form Number: N-648",
+          "Medical Certification For Disability Expections",
+          "Screeneded by NARA, 8/11/2023",
+          "Application for Permana, Residence, I-485 ( (Rev. 4/11/91)",
+          "Title of the image, Screened by NARA, 8/11/2023, Form number, NARA-8112023",
+          "Biographic Information Form, G-325A",
+          "U.S. Government Printing Office, 1991 — 282-065/44254",
+          "Affidavit of Support",
+          "Freedom of Information Act ((b)(6), FOIA ( (b)(6)",
+          "Medical Examination of Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+          "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N.",
+          "Medical Examination of Aliens Seeking Adjustment of Status",
+          "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+          "FOIA ( (b)(6), OATH OR AFFIRMATION OF DEPONENT",
+          "Shawmut Verification of Employment and Salary, NARA, 8/11/2023",
+          "Shawmut Bank Letter, NARA, 8/11/2023",
+          "Home and Building Control, Honeywell",
+          "Screened by NARA, 8/11/293, The Boston Five Cents Savings Bank FSB",
+          "FOIA ( (b)(6), Title: OATH OR AFFIRMATION OF DEPONENT",
+          "Shawmut Verification of Employment and Salary,, Screened by NARA, 8/11/2023",
+          "Screeneded by NARA, 8/11/2023, 242T(7/89)",
+          "NOTICE OF APPROVAL OF RELATIVE IMMIGRANT VISA PETITION, 201(b)",
+          "Screeneded by NARA, 8/11/2023, A26 875 9447",
+          "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-29",
+          "Screened by NARA, 8/11/2923, Form Number: 027-002-00215-1",
+          "GREATER BOSTON LEGAL SERVICES",
+          "Application For Waiver Of Grounds of Excludability, NARA-2023-0145",
+          "Greater Boston Legal Services, 617-357-5757",
+          "U.S. Immigration and Naturalization Service, A2 875947",
+          "Executive Office of Human Services Department of Public Welfare",
+          "Screened by NARA, 8/11/293",
+          "Affidavit of Support, OMB No. 4-423",
+          "FOIA ( (b)(6), Screened by NARA, 8/11/2023",
+          "FOIA ( (b)(6), FOIA",
+          "Screeneded by NARA, 8/11/2023, Honeywell",
+          "Shawmut Bank, Screened by NARA, 8/11/2023",
+          "Certification of Account Information",
+          "1st American Bank, 572 Columbia Road, Boston, Massachusetts 02125",
+          "1st American Bank, 20160584",
+          "Major Medical Certificate, EBC 80NG (1/1/80",
+          "Introduction, NARA, 8/11/2933",
+          "Part 1 Definitions, NARA, 8/11/2023",
+          "Definitions ( (continued), NARA, 8/11/2023",
+          "ROOM AND BOARD, Part 2 Extended Benefits",
+          "Screeneded by NARA, 8/11/2023, BENEFIT SUMMARY CHART",
+          "Extended Benefits, 0",
+          "Part 3 Limitations and Exclusions, NARA, 8/11/2023",
+          "Limitations and Exclusions, NARA Form 10-2345",
+          "Part 4 Other Contract Provisions Page 12",
+          "Other Contract Provisions, NARA, 8/11/2023",
+          "Screened by NARA, 8/11/22023, Page 14",
+          "Screeneded by NARA, 8/11/2023, Page 16",
+          "Other Contract Provisions",
+          "Screeneded by NARA, 8/11/2023, Page 18",
+          "Part 5 Filing a Claim, Form Number: 19",
+          "Part 6 Index, Screened by NARA, 8/11/2023",
+          "Customer Service Offices, Part #020280",
+          "COVER SHEET RECORD OF PROCEEDING, M-175 ( (Rev. 10-20-69)",
+          "Screened by NARA, 8/11/2933, A26-0759447",
+          "DECISION ON APPLICATION FOR STATUS AS PERMANENT RESIDENT, I-291",
+          "DECISION",
+          "Screened by NARA, 8/11/2023",
+          "Screeneded by NARA, 8/11/2023, Attachment to Form I-291 A26 875 947",
+          "Screened by NARA, 8/11/2023, FILE # 26 875 974",
+          "1st American Bank, 5",
+          "Dependent Life Insurance Plan, 59-7130",
+          "YOUR DEPENDENT LIFE INSURANCE PLAN, 59-7130",
+          "Screeneded by NARA, 8/11/2023, PUBLICATION NUMBER SR-7130, AUGUST, 1983",
+          "Screened by NARA, 8/11/2023, PUBLICATION NUMBER 59-7130, AUGUST, 1983",
+          "FILING A CLAIM, 59-7130",
+          "CONVERSION PRIVILEGE, 59-7130",
+          "Supplemental Life Insurance Plan, 59-7123",
+          "YOUR SUPPLEMENTAL LIFE INSURANCE PLAN, PUBLICATION NUMBER 59-7123, JUNE, 1985",
+          "Supplemental Life Insurance Plan, NARA, 8/11/2023",
+          "RETIREE LIFE INSURANCE",
+          "Supplemental Life Insurance, PUBLICATION NUMBER 59-7123",
+          "Screened by NARA, 8/11/2023, FILING A CLAIM",
+          "CONVERSION PRIVILEGE",
+          "Screened by NARA, 8/11/2023, I-455",
+          "Screened by NARA, 8/11/2023, NARA",
+          "FOIA ( (b)(6), Freedom of Information Act Request Form",
+          "1st American Bank",
+          "DECISION ON APPLICATION FOR STATUS AS PERMANENT RESIDENT",
+          "DECISION, I-485",
+          "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service Memorandum of Creation of Record of Lawful Permanent Residence, I-181 ( Rev.(3-1-83) N",
+          "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service Memorandum of Creation of Record Lawful Permanent Residence, I-181 ( Rev.3-1-83) N",
+          "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, A26 875 947",
+          "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service Memorandum of Creation of Record of Lawful Permanent Residence, A26 875 947",
+          "Your application for status as a permanent resident has been retained for processing., A26 875 947",
+          "United States Department of Justice Immigration and Naturalization Service, A26 875 947",
+          "APPLICATION FOR STATUS AS PERMANENT RESIDENT, I-485 ( (Rev. 5-5-83) N",
+          "Screeneded by NARA, 8/11/2023, Form Number: 15-19",
+          "Screeneded by NARA, 8/11/2023, GPO: 1984 O - 4-32-105",
+          "U.S. Department of Justice Immigration and Naturalization Service, G-325A",
+          "Memorandum, 10",
+          "DEgreement de Travail, 156 ( (Rev. 6/82)",
+          "Screeneded by NARA, 8/11/2023, DEportation screening form",
+          "Medicaid Verification Checklist, 1985",
+          "Screening Form, Screening Unit",
+          "Acte de Naissance, N° 4298",
+          "Acte d'inscription de mariage religieux, N° 1701 E",
+          "CERTIFICATE OF RELIGIOUS MARRIAGE, #1701 E",
+          "CHAMA, 44 45383",
+          "CHAMA, 35413-WW",
+          "Acte de Notoriété de, 4 4 5383",
+          "VU : uniquement pour la légalisation de la signature de Mr Raoul St Cyr Juge, de Paix de la Section Est de Port-au-Prince., Récupissé au No 35413 WW",
+          "FOIA ( (b)(6), FOIA ( (b)(6) Form",
+          "Screened by NARA, 8/11/293, EDS",
+          "MEDICAL Examination and Immigration Interview",
+          "FOREIGN SERVICE MEDICAL EXAMINATION OF VISA APPLICANTS, FORM FS-308",
+          "Routing and Transmittal Slip, 5041-102",
+          "Routing and Transm AL Slip, 5041-102",
+          "NOTICE OF APPROVAL OF RELATIVE IMMIGRANT VISA PETITION, Form 1-71",
+          "CHOCTAW Management Services Enterprise Records Service Contract Site, Transmittal Slip",
+          "Screened by NARA, 8/11/2023, A-92",
+          "Immigration Unit, NARA-281/2023",
+          "Immigration Unit, MFS",
+          "Screeneded by NARA, 8/11/2023, CERTIFIED MAIL",
+          "U. S. Department of Justice Immigration and Naturalization Service N-4 Adjudication Processing Worksheet, N-650B ( (Rev. 11/1/98)",
+          "N-4 Processing Worksheet, N-650 ( (6/25/97) Page 1",
+          "Screened by NARA, 8/11/2023, N-650(6/25/97)",
+          "Notice of Action",
+          "General Information Notice for Petition Approval,, I-458, Application to Register Permanent Residence or Adjust Status.",
+          "U.S. Department of Justice Immigration and Naturalization Service, Form N-14 (Rev. 9/16/97",
+          "ATTACHMENT TO FORM N-14",
+          "Immigration and Naturalization Service",
+          "United States Department of Justice Immigration and Naturalization Service Adjustment of Status,, A26875947",
+          "US IMMIGRATION AND NATURALIZATION SERVICE, IR-4",
+          "U.S. Department of Justice Immigration and Naturalization Service, FORM G-325A",
+          "Memorandum, G-2",
+          "U.S. Department of Justice Immigration and Naturalization Service, FORM I-72",
+          "United States Department of Justice Immigration and Naturalization Service, Form 1-607",
+          "APPLICATION FOR WAIVER OF GROUNDS OF EXCLUSIBILITY, I-601",
+          "TO BE COMPLETED FOR APPLICANTS WITH ACTIVE TUBERCULOSIS OR SUSPECTED TUBERCULOSIS, 2-41",
+          "Screeneded by NARA, 8/11/2023, Form No. /43-RO39(1)",
+          "U.S. IMMIGRATION, I-94",
+          "Avis Important",
+          "United States Department of Justice, Immigration and Naturalization Service, I-485 ( (245)",
+          "REFund of immigration and naturalization fees, G-266",
+          "Notice of Arrival of Alien with Tuberculosis Waiver",
+          "Processing Sheet, I 181 INFORMATION SHEET",
+          "Screeneded by NARA, 8/11/2023, I-551 OR I-586 CARD DATA COLLECTION FORM"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Haiti",
+          "Germany",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "PETIT"
+      },
+      "first_name": {
+        "nara": "ROSE"
+      },
+      "dob": {
+        "nara": "1905"
+      },
+      "doe": {
+        "nara": "1993"
+      },
+      "poe": {
+        "nara": "MIA"
+      },
+      "cob": {
+        "nara": "HAITI"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1985"
+      },
+      "natz_date": {
+        "nara": "2001"
+      },
+      "natz_location": {
+        "nara": "MIA"
+      }
+    },
+    "page_count": 240
+  },
+  {
+    "id": "A20177550",
     "fields": {
       "sex": {
         "ms_sex_llm_v1": "male"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "Immigration & Naturalization Service, M-180 ( (Rev. 7-1-71)",
+          "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A20177550",
+          "Form I-551, I-551",
+          "APPLICATION BY CUBAN REFUGEE FOR PERMANENT RESIDENCE SOLICITUD PARA RESIDENCIA PERMANENTE DE REFUGIADO CUBANO, C-14282",
+          "Form I-4-102, Alien Registration Application for Permanent Resident Status; Title: Alien Registration Application for Permanent Resident Status.",
+          "Form 2-104, F-1065",
+          "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE",
+          "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM 1—468 A ( (REV.10-11-76Y)",
+          "Central Medical Laboratory, Inc., 01860",
+          "RADIOLOGY EXCLUSIVELY, A-20-177-550",
+          "Fingerprints and Biographical Information Form, GPO: 1970 Q-378-071",
+          "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, 20537",
+          "CORRECTED INDEX CARD, G-361 ( (Rev. 4-76) N",
+          "APPLICANT, FORM G-325A",
+          "Immigration & Naturalization Service, M-180 (Rev. 7-71)",
+          "United States Department of Justice Immigration and Naturalization Service, G-325A",
+          "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM 1—486",
+          "INSTRUCCIONES PARA EL RECOGNICIMIENTO MÉDICO",
+          "Title: United States Department of Justice, Immigration and Naturalization Service\\nForm Number: G-325A ( (Rev. 8-72-71N)",
+          "Passport Application, DS-11",
+          "Naturalization Certificate, FEB 1953",
+          "Immigration Form, SE-180",
+          "United States Department of Justice Immigration and Naturalization Service, A20177530",
+          "AVISO, SE-261 8-30-66 ( (10)",
+          "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, AM-1241-02",
+          "REvalidation",
+          "A Nonimmigrant Alien Who Accepts Unauthorized Employment Is Subject to Deportation, I-94",
+          "IMPORTANT NOTICE, FORM 1-94 ( (REV. 9-1-71)Y",
+          "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM I-160 ( (Rev. 6-1-70) Y"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Switzerland",
+          "Cuba",
+          "United States",
+          "Mexico"
+        ]
+      },
+      "last_name": {
+        "nara": "BRITO VARELA"
+      },
+      "first_name": {
+        "nara": "SILVANO"
+      },
+      "dob": {
+        "nara": "1907"
+      },
+      "doe": {
+        "nara": "1972"
+      },
+      "poe": {
+        "nara": "MIA"
+      },
+      "cob": {
+        "nara": "CUBA"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1977"
+      }
+    },
+    "page_count": 36
+  },
+  {
+    "id": "A12468555",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "INSTRUCTIONS TO DELIVERING EMPLOYEE, C55-16-71548-4",
+          "Certificate of Citizenship, Form N-560 ( (REV. 10-1-56)",
+          "Oath of Allegiance, N-4-1203",
+          "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, N-600 ( (Rev. 10–20–59)",
+          "Application for Naturalization,, N-4-1025.",
+          "Title: Application for Naturalization; Form Number: 10.",
+          "AFFIDAVIT",
+          "STATUS-600 APPLICATION, N-601 ( (Rev. 6-28-60)",
+          "STANDARD CERTIFICATE OF DEATH, 5421",
+          "Verification of Record of Naturalization, Form N-25",
+          "United States Department of Justice, Immigration and Naturalization Service, A12 468 555"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Canada",
+          "Italy",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "PIACENTINI"
+      },
+      "first_name": {
+        "nara": "MARGARET"
+      },
+      "dob": {
+        "nara": "1904"
+      },
+      "cob": {
+        "nara": "CANAD"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1961"
+      }
+    },
+    "page_count": 18
+  },
+  {
+    "id": "A44045795",
+    "fields": {
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "RECORD OF INFORMATION DISCLASSURE (PRIVACY ACT), G-658",
+          "INSTRUCTIONS",
+          "Immigrant Visa and Alien Registration, IV-44045795",
+          "Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003",
+          "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 230 I ( (ENGLISH)",
+          "NOT APPLICABLE, FOIA (b)(6)",
+          "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 230 II ( (English)",
+          "Title of the image, Screened by NARA, 8/15/2023, Form number, TARIFF ITEM NO.20",
+          "Petition for Alien Relative, I-130 ( (Rev. 4/91) Y",
+          "Immigration and Naturalization Service Alien Relative Form G-28, G-28 ID Number",
+          "Important Document Information, ER 750",
+          "U.S. Immigration & Naturalization Service, ER 721",
+          "AFFIDAVIT OF BIRTH",
+          "Birth Date Not Registered Affidavit",
+          "CERTIFICATE OF DEATH, 10",
+          "Affidavit",
+          "Declaration by Immigrant’s Sponsor Under the Social Security Act, BMB-28",
+          "Affidavit of Support",
+          "Oath or Affirmation of Deponent, FOIA ( (b)(6)",
+          "Affidavit of Support, I-134 ( (Rev. 12-1-84) Y",
+          "Arrow Fastener Company, Inc., F-10A(b)(6)",
+          "Valley National Bank",
+          "To obtain the Birth Certificate from the Record of Vill Abram, No. ADM/Copying Reg. No. 714/92",
+          "MEDICAL Examination of Applicants for United States Visas, NSN 7540-00-139-0058",
+          "X-ray dated 2/93, MISTRY MANCHHABEN CHHABILDAS M 096107",
+          "Breach Candy Hospital & Research Centre, 8954",
+          "BREACH CAN Y HOSPITAL & RESEARCH CENTRE, 82555",
+          "BREACH CAN. / HOSPITAL & RESEARCH CENTRE, 82556",
+          "BREACH CAIY HOSPITAL & RESEARCH CENTRE"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "India",
+          "Germany",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "MISTRY"
+      },
+      "first_name": {
+        "nara": "MANCHHABEN"
+      },
+      "dob": {
+        "nara": "1905"
+      },
+      "doe": {
+        "nara": "1993"
+      },
+      "poe": {
+        "nara": "NYC"
+      },
+      "cob": {
+        "nara": "INDIA"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1993"
+      }
+    },
+    "page_count": 37
+  },
+  {
+    "id": "A45105780",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "Immigrant Visa and Alien Registration, IV-45105780",
+          "Additional Questions to be completed by All Applicants for Permanent Residence in the United States, 9003",
+          "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, OMB APPROVAL NO. 1405-0016",
+          "Freedom of Information Act ( Request for Records,, FOIA(b)(6)",
+          "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 230A",
+          "U.S. Visa Application Form, TANIFM ITEM NO.20",
+          "Petition for Alien Relative, I-130",
+          "C. ( (continued) Information about your relative, G-28",
+          "Birth Certificate",
+          "Birth and Death Register of Mouje Pardi-Pata Taluka, VILLAGE FORM NO.14",
+          "AFFIDAVIT",
+          "Affidavit, 20 Rs.",
+          "Screened by NARA, 8/15/2023, -/2/-",
+          "RELATIONSHIP AFFIDAVIT",
+          "Screened by NARA, 8/15/2023",
+          "Special Deputy Oath",
+          "Royal Inn Motel, I-130 for Gangaben Jerambhai Patel",
+          "Screened by NARA, 8/15/2023, NARA-2417-91-98-40-C3",
+          "Screened by NARA, 8/15/2023, NO. A.D.D.M./Reg.No.259",
+          "Birth Certificate Application Form, 10 RS.",
+          "READ OVER AND EXPLAINED IN GUJARATI. PLACE:-BARDOLI. DATE:- 17.10.1983, NARA-8/15/2023",
+          "Affidavit of Support",
+          "FOIA ( (b)(6)",
+          "BlankenBecler and Stenger Certified Public Accountants",
+          "Oath or Affirmation of Deponent, FOIA ( (b)(6)",
+          "Marriage Affidavit, 10 RS.",
+          "Screened by NARA, 8/15/2023, 3",
+          "DEATH CERTIFICATE, 10",
+          "Title: MEDICAL EXAMINATION OF APPLICANTS FOR UNITED STATES VISAS, Form Number: NSN 7540-00-139-0058",
+          "BREACH CANDY HOSPITAL AND RESEARCH CENTRE, Screened by NARA, 8/15/2023",
+          "Breach Candy Hospital and Research Centre, NARA Form 508473"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "India",
+          "Germany",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "PATEL"
+      },
+      "first_name": {
+        "nara": "GANGABEN"
+      },
+      "dob": {
+        "nara": "1907"
+      },
+      "doe": {
+        "nara": "1996"
+      },
+      "poe": {
+        "nara": "ATL"
+      },
+      "cob": {
+        "nara": "INDIA"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1996"
+      }
+    },
+    "page_count": 45
+  },
+  {
+    "id": "A71666262",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female",
+        "nara": "M"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "Sworn Statement of Refugee Applying for Entry into the United States",
+          "INTERNATIONAL RESCUE COMMITTEE, INC.",
+          "NARA Form 102",
+          "AFFIDAVIT OF RELATIONSHIP, FOIA ( (b)(6)",
+          "REGISTRATION FOR CLASSIFICATION AS REFUGEE, I-590 ( (Rev. 5-1-80) N",
+          "Screeneded by NARA, 5/19/2023, FOIA ( (b)(6)",
+          "Family Relationship",
+          "Screened by NARA, 5/19/2023, PA MAHAMED SHIDE BARE",
+          "BIOGRAPHIC INFORMATION, A71 666 262",
+          "Immigration and Naturalization Service, FOIA ( (b)(6)",
+          "Non-Category Refugee Denials, A-71 666 262",
+          "VI. LEGAL ANALYSIS/CONCLUSION",
+          "Screened by NARA, 5/19/2023",
+          "REFUGEE APPLICATION WORKSS, A71666262",
+          "U.S. Department of Justice Immigration and Naturalization Service Registration for Classification as Refugee, Form 1-590 ( (Rev. 11-13-92)Y",
+          "Registration for Classification as Refugee",
+          "U.S. Department of Justice Immigration and Naturalization Service Registration for Classification as Refugee, I-590 ( (Rev. 11-13-92)Y",
+          "Screened by NARA, 5/19/2023, OMB No. 1115-0057",
+          "Family Relationship, FOIA (b)(6)",
+          "Personal History, 666 262",
+          "Registration for Classification as Refugee, OMB 1115-0057",
+          "Screened by NARA, 5/19/2023, Naturalization Service Form"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States",
+          "Somalia",
+          "Kenya"
+        ]
+      },
+      "last_name": {
+        "nara": "BARRE"
+      },
+      "first_name": {
+        "nara": "MAHAMED"
+      },
+      "dob": {
+        "nara": "1905"
+      },
+      "cob": {
+        "nara": "SOMAL"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "2001"
+      }
+    },
+    "page_count": 35
+  },
+  {
+    "id": "A71718847",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female",
+        "nara": "F"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "BIOGRAPHIC INFORMATION, G-325C ( (Rev. 3-31-81) N",
+          "Registration for Classification as Refugee",
+          "Form I-129, Petition for Alien Relative, I-129F",
+          "Registration for Classification as Refugee, I-590 ( (Rev. 11-13-92)Y",
+          "Registration Form, NARA-1045236",
+          "Family Relationship",
+          "Medical Examination of Applicants for United States Visas, A 71 718 847",
+          "X-RAY Chest ( (CONT'D)",
+          "KENYA HOSPITAL ASSOCIATION LABORATORY, 26734/96",
+          "LABORATORY REPORT, Screened by NARA, 5/12/2023",
+          "X-RAY Report, 160",
+          "Sworn Statement of Lugee Applying for Entry into the United States",
+          "Joint Voluntary Agency Representative/KENYA, 254",
+          "Joint Voluntary Agency Representative/Kenya, FOIA (b)(6)",
+          "KENYA RED CROSS SOCIETY, DEATH CERTIFICATE",
+          "Screened by NARA, 5/12/2023, NARA"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States",
+          "Somalia",
+          "Kenya"
+        ]
+      },
+      "last_name": {
+        "nara": "RASHID"
+      },
+      "first_name": {
+        "nara": "ZAHRA"
+      },
+      "dob": {
+        "nara": "1895"
+      },
+      "cob": {
+        "nara": "SOMAL"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "2001"
+      }
+    },
+    "page_count": 33
+  },
+  {
+    "id": "A17896323",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "CERTIFICATE OF CITIZENSHIP",
+          "Oath of Allegiance, N-4-1026",
+          "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, Form No. N-600 ( (Rev. 11-1-65)",
+          "Naturalization Application,, N-4",
+          "Naturalization and Citizenship Application Form, N-4-1000",
+          "Affidavit, A178963223",
+          "OFFICE OF THE DIRECTOR, U.S. DEPARTMENT OF COMMERCE BUREAU OF THE CENSUS WASHINGTON, D.C. 20233, FORM BC-656 ( (5-2-66)",
+          "MEMORANDUM OF CI, A17 896 323",
+          "INSTRUCTIONS, I-181",
+          "Immigration and Naturalization Service Form N-25 ( (Rev. 8-1-61)",
+          "United States of America, The State of Texas,, 1873",
+          "SAVE THIS RECEIPT, c4—16—79020-1",
+          "Texas State Board of Health Bureau of Vital Statistics Standard Certificate of Death, Form 51b-T130.821--M",
+          "STATE OF TEXAS COUNTY OF HARRIS, TEXAS DEPARTMENT OF HEALTH BUREAU OF VITAL STATISTICS STANDARD CERTIFICATE OF DEATH",
+          "CERTIFICATE, G-361 ( (Rev.7-1-60)",
+          "STATUS N-600 APPLICATION, A17 896 323",
+          "REQUEST FOR VERIFICATION OF ARRIVAL / IMMIGRATION AND NATURALIZATION SERVICE",
+          "REPORT of Search",
+          "ROBERT E. DOROUGH DISTRICT CLERK FANNIN COUNTY BONham, TEXAS 75818, 84 44 1007",
+          "Josef Tiras, Form N-2-25",
+          "INSTRUCTIONS TO DELIVERING EMPLOYEE, c56—16—71548-8",
+          "POST OFFICE DEPARTMENT, 3811 Oct",
+          "Letter from the General Attorney ( (Nationality), A17 896 323",
+          "UNITED STATES GOVERNMENT Memorandum, OPTIONAL FORM NO. 10",
+          "United States Department of Justice Immigration and Naturalization Service, Form N-25 (Rev. 8-1-61"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Germany",
+          "Austria",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "TIRAS"
+      },
+      "first_name": {
+        "nara": "ISADOR"
+      },
+      "dob": {
+        "nara": "1882"
+      },
+      "doe": {
+        "nara": "1986"
+      },
+      "poe": {
+        "nara": "NYC"
+      },
+      "cob": {
+        "nara": "STRIA"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1967"
+      }
+    },
+    "page_count": 33
+  },
+  {
+    "id": "A19529822",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
       },
       "form_titles": {
         "ms_form_titles_llm_v1": [
@@ -412,6 +1900,25 @@
           "Screened by NABAE 7/13/2023 CODE NO., G-361 (Rev. 10-1-70) N"
         ]
       },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Bahamas",
+          "Barbados",
+          "Lebanon",
+          "Haiti",
+          "Jamaica",
+          "Cuba",
+          "Netherlands",
+          "Peru",
+          "Bermuda",
+          "Mexico",
+          "Canada",
+          "India",
+          "Pakistan",
+          "United States",
+          "Dominican Republic"
+        ]
+      },
       "last_name": {
         "nara": "WADHWANI"
       },
@@ -438,5 +1945,60 @@
       }
     },
     "page_count": 71
+  },
+  {
+    "id": "A13490102",
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "form_titles": {
+        "ms_form_titles_llm_v1": [
+          "CERTIFICATE OF CITIZENSHIP, FORM N-560 ( (REV 10-15-57)",
+          "Oath of Allegiance, N-4-1023",
+          "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, Form N-600 ( (Rev. 8-1-63)",
+          "Certificate of Naturalization, I-4",
+          "APPLICATION FOR CITIZENSHIP BY DERIVATION OF CITIZENSHIP; Form I-130A",
+          "Affidavit, N-4-10-64",
+          "STATUS N-600 APPLICATION, N-601 ( (Rev. 6-28-60)",
+          "CERTIFICATE OF ADMISSION OF ALIEN, N-600 A13 490 102",
+          "U.S. DEPARTMENT OF COMMERCE BUREAU OF THE CENSUS, FL12-621",
+          "Omaha Public Schools, 3902 Davenport Street Omaha 31, Nebraska"
+        ]
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Israel",
+          "Russia",
+          "Germany",
+          "United States"
+        ]
+      },
+      "last_name": {
+        "nara": "MELCHER"
+      },
+      "first_name": {
+        "nara": "JACK"
+      },
+      "dob": {
+        "nara": "1900"
+      },
+      "doe": {
+        "nara": "1909"
+      },
+      "poe": {
+        "nara": "BAL"
+      },
+      "cob": {
+        "nara": "USSR"
+      },
+      "pfco": {
+        "nara": "NRC"
+      },
+      "dfo": {
+        "nara": "1964"
+      }
+    },
+    "page_count": 11
   }
 ]

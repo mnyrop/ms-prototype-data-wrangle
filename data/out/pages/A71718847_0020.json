@@ -1,0 +1,24 @@
+{
+  "anumber": "A71718847",
+  "id": "A71718847_0020",
+  "page_index": 20,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71718847_0020/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "KENYA HOSPITAL ASSOCIATION LABORATORY, 26734/96"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 5/12/2023 KENYA HOSPITAL ASSOCIATION LABORATORY The Nairobi Hospital P.O. BOX 30026, NAIROBI Tel: 722160 Argwings Kodhek Road ZAHRA BASHU RASHID DR. C.S.SHETH OP. Received 13/4/96 REF: 26734/96 Reported 16/4/96 H.I.V. Antibody Screening Test NEGATIVE V.D.R.L. NEGATIVE Technologist NYONGO Pathologist CHIEF OF.BATHOLOGY NAIROBI HOSPITAL"
+}

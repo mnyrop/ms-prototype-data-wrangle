@@ -1,0 +1,24 @@
+{
+  "anumber": "A44045795",
+  "id": "A44045795_0034",
+  "page_index": 34,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44045795_0034/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "BREACH CAN. / HOSPITAL & RESEARCH CENTRE, 82556"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/15/2023 BREACH CAN 1 HOSPITAL & RESEA CH CENTRE 60-A, Bhulabhai Desai Road, Bombay-400026. - DEPARTMENT OF PATHOLOGY AND MICROBIOLOGY Senior Pathologist Dr. FRAINY E. PALIA M.D. (Path) D.P.B. Date 3.3.93 Tel. No. : 363 36 51 Specimen taken on : 2.3.93 NAME : MRS. MISTRY MANCHHABEN C. Lab. No. : 82556 REFERRED BY : DR. P. N. KAVARANA U.S.A. SPUTUM FOR A.F.B. (2) : No mycobacteria detected by Z. N. and Fluorescent Stains. Sch"
+}

@@ -1,0 +1,29 @@
+{
+  "anumber": "A44045795",
+  "id": "A44045795_0000",
+  "page_index": 0,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44045795_0000/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "RECORD OF INFORMATION DISCLASSURE (PRIVACY ACT), G-658"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "India"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "UNITE Screened NARA-8/15/2023 JUSTICE Immigration and Naturalization Service File Location (FCO) RECORD OF INFORMATION DISCLOSURE (PRIVACY ACT) NEW Name MANACHABEN MISTRY File Number A44045795 Date of Birth 9/28/05 Place of Birth INDIA Date of Disclosure 6/18/96 By Whom Released ISV/AW Purpose of Disclosure ENTITLEMENT BENEFITS Information Disclosed STATUS 5 Method of Disclosure Form No. G-845 Review Copy Briefing Other Disclosed to (Agency/Name and Address) SSA 52 CHARLES ST NEW BRUNSWICK NJ 08901 Signature of Authorized Representative Fact of Disclosure is is not accountable to individual. Reason: Form G-658 (11-1-75) RECORD COPY (INS USE ONLY)"
+}

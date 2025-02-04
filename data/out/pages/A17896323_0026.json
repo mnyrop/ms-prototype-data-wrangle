@@ -1,0 +1,24 @@
+{
+  "anumber": "A17896323",
+  "id": "A17896323_0026",
+  "page_index": 26,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17896323_0026/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "POST OFFICE DEPARTMENT, 3811 Oct"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1967
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "sTON POST OFFICE DEPARTMENT PENALTY FOR PRIVATE USE TO AVOID OFFICIAL BUSINESS AM ALWA PAYMENT OF POSTAGE, $300 POSTMARK OF DELIVERING OFFICE 29 APR 1967 is ZIP INSTRUCTIONS: Show name and address below and complete instructions on other side, where applicable. Moisten gummed ends, attach and hold firmly to back RETURN of article. Print on front of article RETURN RECEIPT REQUESTED. ZJ01 TO LVW NAME OF SENDER OFFICER IN CHARGE STREET AND NO. OR P.O. BOX & Naturalizzation 515 Rusk Avenue POST OFFICE, STATE, AND ZIP CODE P. O. Box 61630 Houston, Texas"
+}

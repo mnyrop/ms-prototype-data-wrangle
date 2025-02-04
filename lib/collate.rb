@@ -26,7 +26,7 @@ end
 NARA_AFILES = CSV.open("#{IN_DIR}/nara_catalog.csv", headers: :first_row).map(&:to_h)
 @afiles = NARA_AFILES.map do |afile|
   is_wanted  = ANUMBERS.include?(afile['ANUMBER'])
-  json_path  = "#{EXTRACTED_DATA_DIR}/afiles/#{afile['ANUMBER']}.json"
+  json_path  = "#{EXTRACTED_DATA_DIR}/new_structure/afiles/#{afile['ANUMBER']}.json"
   next unless is_wanted and File.file?(json_path)
 
   afile.compact!
@@ -45,7 +45,7 @@ puts "writing data for #{@afiles.count} afiles"
 File.write("#{OUT_DIR}/afiles.json", JSON.pretty_generate(@afiles))
 
 # PLUCK SUBSET PAGES FROM M/S PAGE DATA BY ANUMBER
-@page_paths = ANUMBERS.map { |anum| Dir.glob("#{EXTRACTED_DATA_DIR}/pages/#{anum}_*.json") }.flatten.compact
+@page_paths = ANUMBERS.map { |anum| Dir.glob("#{EXTRACTED_DATA_DIR}/new_structure/pages/#{anum}_*.json") }.flatten.compact
 @pages      = @page_paths.map do |path| 
   file = File.read(path).gsub('NaN', 'null')
   JSON.parse(file)
@@ -53,11 +53,10 @@ end
 
 # ADD IN OCR TXT
 @pages.map! do |page|
-  @anum = page['id']
-  @id = page['afile_id']
-  page['id'] = @id 
-  page['anumber'] = @anum
-
+  # @anum = page['id']
+  # @id = page['afile_id']
+  # page['id'] = @id 
+  # page['anumber'] = @anum
   ocr_path = "#{OCR_DIR}/#{page['id']}.txt"
 
   page['full_text'] = File.read(ocr_path) if File.file?(ocr_path)
@@ -73,11 +72,11 @@ FileUtils.mkdir_p("#{OUT_DIR}/pages")
 @pages.each { |page| File.write("#{OUT_DIR}/pages/#{page['id']}.json", JSON.pretty_generate(page)) }
 
 # GET LIST OF SUBSET G325A FORMS + EXPORT
-@g325as = @pages.select { |page| page.dig('fields', 'is_g325a') == true }
+@g325as = @pages.select { |page| page.dig('is_g325a') == true }
 puts "writing data for #{@g325as.count} g325as"
 File.write("#{OUT_DIR}/g325as.json", JSON.pretty_generate(@g325as))
 
 # GET LIST OF SUBSET NATCERTS + EXPORT
-@natcerts = @pages.select { |page| page.dig('fields', 'is_cert_naturalization') == true }
+@natcerts = @pages.select { |page| page.dig('is_cert_naturalization') == true }
 puts "writing data for #{@natcerts.count} natcerts"
 File.write("#{OUT_DIR}/natcerts.json", JSON.pretty_generate(@natcerts))

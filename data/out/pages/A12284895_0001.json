@@ -1,0 +1,24 @@
+{
+  "anumber": "A12284895",
+  "id": "A12284895_0001",
+  "page_index": 1,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12284895_0001/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "ALIEN REGISTRATION FINGERPRINT CHART, Form AR-4"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Form AR-4 Form approved. ALIEN REGISTRATION FINGERPRINT CHART OFFICIAL STAMP (Rev. 6-1-56) Budget Bureau No. 43-R037.5. UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE INSTRUCTIONS To obtain classifiable fingerprints: 1. Use printer's ink. 2. Distribute ink evenly on inking slab. 3. Wash and dry fingers thoroughly. 4. Roll fingers from nail to nail, and avoid allowing fingers to slip. 5. Be sure impressions are recorded in correct order. 6. If an amputation or deformity makes it impossible to print a finger, make a notation to that effect in the individual finger block. 7. If some physical condition makes it impossible to obtain perfect impressions, submit the best that can be obtained with a memo stapled to the card explaining the circumstances. 8. Examine the completed prints to see if they can be classified, bearing in mind the following: Most fingerprints fall into the patterns shown below (other patterns occur infrequently and are not shown here): 1. LOOP 2. WHORL 3. ARCH CENTER DELTAS OF LOOP DELTA THE LINES BETWEEN CENTER OF THESE LINES RUNNING BETWEEN ARCHES HAVE NO DELTAS LOOP AND DELTA MUST SHOW DELTAS MUST BE CLEAR (a) A delta (A) is the point at which the lines forming the loop or whorl pattern spread and begin going in different direc- tions. All loop prints have one delta. Whorl prints have two. (b) Loop prints cannot be classified unless the center of the loop and the delta, and THIS SPACE FOR FBI USE the lines between them, are clear. (c) Whorl prints cannot be classified unless the two deltas and the lines connecting the deltas are clear. (d) Arch fingerprints can be classified if a sufficiently clear impression is obtained to permit identification of the pattern as being an arch. 9. If, upon examination, it appears that any of the impressions cannot be classified, new prints should be made. If not more than three impressions are unclassifiable, new prints of these fingers may be taken and pasted over the defective ones. If more than three are unclassifiable, make a new chart. GPO 950551"
+}

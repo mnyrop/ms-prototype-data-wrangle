@@ -1,0 +1,24 @@
+{
+  "anumber": "A28068003",
+  "id": "A28068003_0017",
+  "page_index": 17,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28068003_0017/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Information about your marital history., N-4 000"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 4/24/2023 Part 8. Information about your marital history. (Continued.) Write your USCIS \"A\"- number here: A 28068003 C. Is your spouse a U.S. citizen? Yes No D. If your spouse is a U.S. citizen, give the following information: 1. When did your spouse become a U.S. citizen? At Birth Other If \"Other,\" give the following information: 2. Date your spouse became a U.S. citizen 3. Place your spouse became a U.S. citizen (Please see Instructions.) City and State E. If your spouse is not a U.S. citizen, give the following information : 1. Spouse's Country of Citizenship 2. Spouse's USCIS \"A\"- Number (If applicable) A 3. Spouse's Immigration Status Lawful Permanent Resident Other F. If you were married before, provide the following information about your prior spouse. If you have more than one previous marriage, use a separate sheet(s) of paper to provide the information requested in Questions 1-5 below. 1. Prior Spouse's Family Name (Last Name) Given Name (First Name) Full Middle Name (If applicable) 2. Prior Spouse's Immigration Status 3. Date of Marriage (mm/dd/yyyy) 4. Date Marriage Ended (mm/dd/yyyy) U.S. Citizen Lawful Permanent Resident 5. How Marriage Ended Other Divorce Spouse Died Other G. How many times has your current spouse been married (including annulled marriages)? If your spouse has ever been married before, give the following information about your spouse's prior marriage. If your spouse has more than one previous marriage, use a separate sheet(s) of paper to provide the information requested in Questions 1-5 - below. 1. Prior Spouse's Family Name (Last Name) Given Name (First Name) Full Middle Name (If applicable) 2. Prior Spouse's Immigration Status 3. Date of Marriage (mm/dd/yyyy) 4. Date Marriage Ended (mm/dd/yyyy) U.S. Citizen Lawful Permanent Resident 5. How Marriage Ended Other Divorce Spouse Died Other Form N-400 (Rev. 10/15/07) Y Page 5"
+}

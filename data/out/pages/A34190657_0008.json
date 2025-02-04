@@ -1,0 +1,33 @@
+{
+  "anumber": "A34190657",
+  "id": "A34190657_0008",
+  "page_index": 8,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34190657_0008/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Screened by NARA, 9/25/2023, N-4 - 10/26/89"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "China",
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 9/25/2023 22. What is your present marital status? Married Widowed Divorced Single 23. Complete the following regarding your husband or wife if you are currently married. First (given) name Date married (Month/Day/Year) Date of birth (Month/Day/Year) Country of birth Kwei 12/24/37 8/23/15 China Place KXX she entered the U.S. Date entered the U.S. (Month/Day/Year) her Alien Registration Number Present immigration status Honolulu 5/10/73 A-34-190-658 Permanent resident Date naturalized (Month/Day/Year) Place naturalized Present address (street and number) City and State or country None None 3910 Via Verde Thousand Oaks, CA. 24. Complete the following if you were previously married Total number of times you have been married One Name of prior wife Date of marriage (Month/Day/Year) Date marriage ended (Month/Day/Year) How marriage ended INS Status Alien None None None None Citizen Alien Citizen Alien Citizen 25. Complete the following if your present wife was previously married. Total number of times you wife has been married One Name of prior husband provide Date of marriage (Month/Day/Year) Date marriage ended (Month/Day/Year) How marriage ended INS Status Alien None None None None Citizen Alien Citizen Alien Citizen 26. Complete all columns for each of your children. (If child lives with you, state \"with me\" in Location column; otherwise, give the City and State of that child's residence.) Indicate your total number of children Five Given name Date of birth Country of birth Date of entry Port of entry Location Allen Registration No. Sex Thousand David China 3/30/73 Honolulu FOIA (b)(6) Male 9/19/42 oaks, CA. Female Male San Jose 7/22/45 11 James 4/11/72 St. Louis Female CA. Los Ange Male Annie 9/16/38 11 9/1/64 Los Angeles CA. Female San Campbell, Male Vivian 9/14/40 \" 9/10/76 Francisco CA. Female Yorba Male 12/30/47 \" Victoria 5/10/73 Honolulu Linda,CA Female Male Female the 2 Male Female 27. Complete the following with regard to each absence you have had from the United States for a period of six months or less since you entered for permanent residence. (If none, write \"None\".) Ship, airline, railroad, or bus company, or other means used to return to the United States. Returned at (Place or port of entry) Date departed Date returned NW Airlines LOS Angeles 5/11/74 11/1/75 11 \" CAL airlines 8 12/3/77 2/26/78 \" \" NW airlines \"Continued\" 1/1/79 2/16/79 28. Complete the following with regard to each absence you have had from the United States for a period of six months or more since you entered for permanent residence. (If none, write \"None\") Ship, airline, railroad, or bus company, or other means used to return to the United States. Returned at (Place or port of entry) Date departed Date returned TWA Airlines -- Arriving for Permanent Residence Honolulu 3/30/73 NW airlines Los Angeles 4/6/73 4/2/74 CAL airlines \"Continued\" \" \" 12/18/75 10/30/76 Form N-400 (10/26/89) N Page 2"
+}

@@ -1,0 +1,24 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0061",
+  "page_index": 61,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0061/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Screened by NARA, 8/11/293"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 Page 2 Ms. Petit is currently on a 240 day waiting period which does not cover her for general medical services. However, there are immediate bene- fits for major illnesses as outlined on page 13 of the Blue Cross Sub- scriber's certificate. Ms. Petit also has a three year health statement restriction, per our guidelines, on a pre-existing condi- tion. Since health statement restrictions are strictly confidential, only Ms. Petit can apprise you regarding the supplemental agreement she signed. The subscriber certificate thoroughly details the terms of her con- tract. If you have need of any further clarifications, please do not hesitate to contact me. Sincerely, Cynthia Bennatem Cynthia Bernstein Information Representative Customer Service - Non-group cb/jmd 139"
+}

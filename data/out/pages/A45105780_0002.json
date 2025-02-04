@@ -1,0 +1,39 @@
+{
+  "anumber": "A45105780",
+  "id": "A45105780_0002",
+  "page_index": 2,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A45105780_0002/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, OMB APPROVAL NO. 1405-0016"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States",
+        "India"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1907,
+        1934,
+        1929,
+        1945,
+        2023,
+        1909,
+        1939
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/15/2023 OMB APPROVAL NO. 1405-0015 EXPIRES: 8-31-92 *ESTIMATED BURDEN: 1 HOUR PPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION PART I - BIOGRAPHIC DATA INSTRUCTIONS : Complete one copy of this form for yourself and each member of your family, regardless of age, who will immigrate with you. Please print or type your answer to all questions. Questions that are Not Applicable should be so marked. If there is insufficient room on the form, answer on a separate sheet using the same number as appear on the form. Attach the sheet to this form. WARNING : Any false statement or concealment of a material fact may result in your permanent explusion from the United States. This form (OF-230 PART I) is Part I of two parts which, together with Optional Form OF-230 PART II, constitute the complete Application for Immigrant Visa and Alien Registration. 1. FAMILY NAME FIRST NAME MIDDLE NAME BTA. PATEL GANGABEN JERAM. 2. OTHER NAMES USED OR BY WHICH KNOWN (If married woman, give maiden name) 13919X PATEL GANGABEN NATHUBHAI. 3. FULL NAME IN NATIVE ALPHABET (If Roman letters not used) 4EGI DisliGio 82141 4. DATE OF BIRTH 5. AGE 6. PLACE OF BIRTH (Day) (Month) (Year) 88 (City or town) (Province) (Country) 04.09.1907. YEARS. BAJIPURA, GUJARAT, INDIA. 7. NATIONALITY (If dual national, 8. SEX 9. MARTIAL STATUS give both) Male Single (Never married) Married Widowed Divorced Separated INDIAN. Female Including my present marriage, I have been married FIRST. times. 10. PERSONAL DESCRIPTION 11. OCCUPATION a. Color of hair WHITE. C. Height 4'-08\". is b. Color of eyes BROWN. d. Complexion FAIR. ARN NIL 12. MARKS OF IDENTIFICATION 13. PRESENT ADDRESS AT: 8 POST: PARDI-PATA MOLE ON NECK. VIA: PUNI, TAL: PALSANA, DIST: SURAT, GUJARAT, INDIA. Telephone number: Home N.A. Office N.A. 14. NAME OF SPOUSE (Maiden or family name) (First name) (Middle name) LATE PATEL JERAM BHIKHA. Date and place of birth of spouse: 19.06.1909, PARDI-PATA, INDIA. Address of spouse (If different from your own): 15. LIST NAME, DATE AND PLACE OF BIRTH, AND ADDRESSES OF ALL CHILDREN 213,THE PARADE WESTERN DRIVE, NAME DATE AND PLACE OF BIRTH ADDRESS (If different from your own) DAHYABHAI. 30.01.1929.PARDI-PATA,INDIA.OTLEY LEED'S YORKSHIRE, U.K. PREMIBEN. 2603 MAXINE AVE; 10.10.1931. PARDI-PATA/NDIA M.C.COMB, U.S.A. JIVANBHAI. 14.11.1934 PARDI 1-PATA, INDIA. 201 US.63, SOUTH, MARKET TTREE,ARR:72266.1 U.S.A. 4700 W. MARSHALL AVE; HWY80 DIVILABEN. 25.10.1939. PARDI- PATA, INDIA. (WEST) LONG VIEW, U.S.A. 2330 WESTBELT DRIVE, KISHORBHAI. 11.06.1945. PARDI - PATA INDIA. COLLUMBLE OH10,43228.U5.A. GULABBEN 4165, MAIN STREET, 15.08.1948 PARDI PATA, INDIA. COLLUMBUS OHIO, 42213,US.A. THIS FORM MAY BE OBTAINED GRATIS AT CONSULAR OFFICES OF THE UNITED STATES OF AMERICA OPTIONAL FORM 230 Part I (ENGLISH) REVISED 4-91 NSN 7540-00-130-8317 50230(1)-101 Previous editions obsolete DEPT. OF STATE"
+}

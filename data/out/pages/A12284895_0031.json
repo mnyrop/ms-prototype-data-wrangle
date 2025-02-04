@@ -1,0 +1,16 @@
+{
+  "anumber": "A12284895",
+  "id": "A12284895_0031",
+  "page_index": 31,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12284895_0031/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "misc"
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "American Consulate General, Hong Kong 18 OCT 1961 I hereby certify that neither a birth certificate nor a marriage certificate are available in the case of CHAN (CHIN) Tak Haun (Han) because the Government of China does not maintain the pertinent record. I further certify that this office has been advised by the appropriate local government authorities that it is not their practice to issue certificates concerning police records or the absence thereof. Kenneth N. Rogers Vice Consul of the United States of America"
+}

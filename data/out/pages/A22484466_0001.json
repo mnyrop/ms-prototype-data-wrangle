@@ -1,17 +1,16 @@
 {
+  "anumber": "A22484466",
   "id": "A22484466_0001",
   "page_index": 1,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0001/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0001/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
       "ms_doctype_v1": "misc"
-    },
-    "is_g325a": false,
-    "is_cert_naturalization": false
+    }
   },
-  "anumber": "A22484466",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Name & address of spouse File No. Name & address of nearest relative abroad Names & addresses of relatives or friends in U.S. Remarks: Inadmissable under Section 212(a) ( ). . Name & Title of Officer Authorizing Parole"
 }

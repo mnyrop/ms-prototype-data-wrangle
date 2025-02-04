@@ -1,0 +1,39 @@
+{
+  "anumber": "A28068003",
+  "id": "A28068003_0081",
+  "page_index": 81,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28068003_0081/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "APPLICATION & DOCUMENTATION REVIEW"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2006,
+        2009,
+        2023
+      ]
+    },
+    "g325a": {
+      "occupation": {
+        "occupation_llm_v1": "['n.a']"
+      },
+      "nationality": {
+        "nationality_llm_v1": "US"
+      }
+    }
+  },
+  "is_g325a": true,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 4/24/2023 APPLICATION & DOCUMENTATION REVIEW YES NO F. Basis for Eligibility Yes No 1. Is Part 2A marked? Goto H01 Goto F02 2. Is Part 2B marked? Goto G01 Goto F03 3. Is Part 2C marked? STOP HERE! Goto F04 **NOTE: CPAU to also determine if case is an \"Expeditious Request\" Route to and if there are travel orders of the U.S. citizen (which include the name of the alien CPAU spouse) that establish the overseas assignment will end no less than 12 months beyond the date of the naturalization interview. 4. Is Part 2D marked? Goto H01 Goto F01 H. Disability Yes No 1. Is Part 3H marked \"Yes\"? Goto H02 Goto 101 2. Is an original completed N-648 attached? Goto 101 Goto 101 N14(H02) I. Time Outside the United States Yes No 1. Is Part 7C marked \"Yes\" that any trip taken outside of the United States since Goto 102 Goto J01 becoming a Lawful Permanent Resident lasted 6 months or more. 2. Based on eligibility, is there sufficient evidence provided that the applicant did not Goto 103 Goto 103 abandon residence or terminate employment in the United States nor abandon U.S. N14(102) abode? Examples would be documents establishing continuous residence such as in IRS return transcript or federal tax returns, rent or mortgage payments, utility bills, etc. 3. Is original IRS 1722 letter provided listing tax information for the past 5 years (or Goto J01 Goto J01 for the past 3 years if applying on the basis of marriage to a U.S. citizen)? N14(103) J. Dependent Information Yes No 1. Does Part 9A show zero (0) sons/daughters? Goto K01 Goto J02 2. Based on the DOBs listed in Part 9B, are any dependent children minors (under age Goto J03 Goto K01 18)? 3. Based on the Current Address listed in Part 9B, are any minor dependent children at Goto J04 Goto J05 an address different than the applicant? N14(J03) 4. Are there certified copies of birth certificates for all minor children born in the Goto K01 Goto K01 United States? N14(J04) K. Delinquent Taxes Yes No 1. Is Part 10A, question 5 marked \"Yes\"? Goto L01 Goto L01 N14(K01) L. Criminal Records Yes No 1. In Part 10D, are any of questions 16-21 marked \"Yes\"? Goto M01 Goto M01 N14(L01) M. Military Service Yes No 1. Does Part 6B include military service? Goto M02 Goto M02 2. Is Part 10F, question 29 marked \"Yes\"? Goto M03 Goto N01 3. Is there an original Form N-426, Request for Certification of Military or Naval Goto M04 Goto M04 Service: N14(M03) 4. Is there an original Form G-325B, Biographic Information? Goto N01 Goto N01 N14(M04) Send to Shelf. NBC November 13, 2006 ammille3 3/3/2009 6:47:42 PM Revision 9"
+}

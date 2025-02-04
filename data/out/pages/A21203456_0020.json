@@ -1,9 +1,9 @@
 {
+  "anumber": "A21203456",
   "id": "A21203456_0020",
   "page_index": 20,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0020/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0020/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -11,10 +11,9 @@
     },
     "form_title": {
       "ms_form_title_llm_v1": "LỘI KHAI HƯU CÀNG THÀNH TINH NĂM XIN NHẬP CÁNH HÒA KÝ, 10"
-    },
-    "is_g325a": false,
-    "is_cert_naturalization": false
+    }
   },
-  "anumber": "A21203456",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "BO TU PHAP HOA KY so DI TRU VA NHAP TIAH LOI KHAI HUU THE CUA NGUOI TY NAN XIN NHAP CANH HOA KY Ten: TA THI UIEN Tuoi: go UNG VIEN PHAI KHAI LA DU DIEU KIEN DE NHAP CANH VAO NUOC MY NGOAI TRU TRUONG HOP DUOC LUAT PHAP QUY DINH KHAC, NHUNG NGUOI THUOC CAC LOAI SAU DAY KHONG DUOC VAO HOA KY: Nhung Ngoai Kieu da pham phap va bi ket an vi mot trong toi ke ca nhung toi pham thuoc pham vi luan ly (khong ke cac vi pham luu thong nho nhat) nhung Ngoai Kieu da tham gia hoac CO y dinh tham gia hoat dong mai dam; nhung Ngoai Kieu da tung hoac hien la ngúoi chu truong va chinh phu, la doan vien hoac CO lién hê voi bat cu dang cong san hay doc tai não, ke ca cac chi nhanh hoác to' chüc le thuoc lien he; nhung Ngoai Kieu da tung chu truing hoac qiang day, bang cach tu y phat bieu y kien hoac viet sach, bao, hoac gia nhap mot to chic (i) chong doi Chinh Phu hop phap, (ii) lat as' Chinh Phu bang vo luc (iii) bao hanh hoac sat hai cac vien chuc Chinh Phu vi chuc vi cong quyen cua ho, (iv) pha hoai bat hop phap cac tai (v) pha hoai hoac (vi) cac chu thuyet cong san the gioi, cac viec thiet lap che do doc tài chuyen chê tai Hoa Ky: nhung goai Kieu, co Y dinh tham gia cac hoat dong CO hai hoac bat hop phap CO tinh cach pha roi noi an; nhung Ngoai Kieu dd bi ket an vi pham phap hoác vi pham luat le ve ma tuy, can sa, hoac da buon lau ma tuy, can sa; nhung Ngoai Kieu lien he toi viec giup do' nhung nguoi Ngoai Kieu khac nhap canh Hoa Ky bat hop phap; nhung Ngoai Kieu da xin dac mien hoac xin rut khoi khoa huan luyen hoxc quan yu thuoc Quan Luc Hoa Ky vi nai 18 do Ngoai Kieu cua no hoac da tung bi loai hoac sa thai khoi quan vu hoac cac khoa huan luyen do. Nhung Ngoai Kieu CO tri khon cham phat trien, dien khung, hoac da tung len con dien mot hoac nhieu lan; Ngoai Kieu bi benh hoan tinh than, ham muon lech lac ve tink duc, bi benh than kinh, nghien ma tuy, ngnien ruou, hoac mac benh truyen nhiem nguy hiem; nhung Ngoai Kieu bi bat tuc the chat, bi benh hoac tinh trang khiem khuyet CO anh huong toi kha nang muu sinh; nhung Ngoai Kieu thuoc loai du thu du thu'c an xin chuyen nghiep hoac leu long; nhung Ngoai Kieu, da the hoac chu truong da the; nhung Ngoai Kieu da bi truc xuat khoi Hoa Ky trong nam qua, hoos da CO lan bi, truc xuat khoi Hoa Ky, hoac da CO lan bi tong khil khoi Hoa Ky voi ton phi do Chinh Phu chiu; nhung Ngoai Kieu da thu dac hoac tim cach the dac dau chieu khan bang cach gia mao, gian trai nhung Ngoai Kieu rói khoi Hoa Ky hoac song 2 ngoai nubc My do tron quan dich trong thoi chien hoac trong tinh trang"
 }

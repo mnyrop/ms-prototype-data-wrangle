@@ -1,0 +1,24 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0211",
+  "page_index": 211,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0211/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "US IMMIGRATION AND NATURALIZATION SERVICE, IR-4"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 US IMMIGRATION AND NATURALIZATION SERVICE 7880 BISCAYNE BLVD. MIAMI, FLORIDA 33138 IR-P APPLICATION INITIAL TRANSMITTED PENDING A. I-485 B. I-485A - SEC I C. ASYLEE D. REFUGEE PETITION INITIAL TRANSMITTED PENDING APPROVED E. I-130 SPOUSE & F. I-130 RELATIVE G. I-140 4/1/85 H. DERIVATIVE I. MINISTER J. REGISTRY K. SUSP OF DEP L. OTHER DOCUMENTS NEEDED 1. ( ) I-94 2. ( ) BIRTH CERTIFICATE 3. ( ) BENEFICIARY 4. ( ) PET. NEEDS PROOF OF USC OR ARC. STATUS 5. ( ) MARRIAGE CERTIFICATE 6. ( ) DIVORCE DECREE 7. ( ) PROOF OF SUPPORT 8. ( ) PHOTOS 9. ( ) NEW MEDICAL 10. ( ) FD-258 7 GF-325-A (Over 14 years of age)"
+}

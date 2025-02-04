@@ -1,0 +1,50 @@
+{
+  "anumber": "A19055851",
+  "id": "A19055851_0056",
+  "page_index": 56,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19055851_0056/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, G-325 A REV. 4-1-67"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Canada",
+        "United States",
+        "Australia",
+        "Pakistan",
+        "Germany"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1949,
+        1969,
+        1909,
+        1934
+      ]
+    },
+    "g325a": {
+      "occupation": {
+        "occupation_llm_v1": "[' butler', 'manager']"
+      },
+      "reason": {
+        "reason_llm_v1": "NATURALIZATION"
+      },
+      "nationality": {
+        "nationality_llm_v1": "So. African"
+      }
+    }
+  },
+  "is_g325a": true,
+  "is_cert_naturalization": false,
+  "full_text": "FORM G-325 A REV. 4-1-67 FORM APPROVED LOS BUDGET BUREAU NO. 43-R436 BIOGRAPHIC UNITED STATES DEPARTMENT OF JUSTICE TC/245 INFORMATION Immigration and Naturalization Service 3/18/70 (FAMILY NAME) (FIRST NAME) (MIDDLE NAME) MALE BIRTHDATE (MO-DAY-YR.) NATIONALITY ALIEN REGISTRATION NO. (IF ANY) WOLFSON GEORGE FEMALE Dec. 11, 1909 So. African A19 055 851 ALL OTHER NAMES USED CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. Karachi, Pakistan 571-88-2864 HFANY) FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (IF KNOWN) CITY AND COUNTRY OF RESIDENCE WOLFSON TLESELRAZAR - Deceased FATHER SVAMUUR SARAH - Deceased MOTHER (MAIDEN NAME) SPOUSE (IF NONE, so STATE) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE (FOR WIFE, GIVE MAIDEN NAME) Hedg Osterode, Las Vegas DZIOMBA HEDWIG 4-8-20 Germany Nov. 2, 196pNevada, USA FORMER SPOUSES (IF NONE, so STATE) FAMILY NAME (FOR WIFE, GIVE MAIDEN NAME) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE JAMES Rebecca 1907 Jan. 1934, Toronto, June 22, 1949, Florida, Canada USA APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 312 No. Faring Rd. L.A. California USA July 68 PRESENT TIME Angelo Drive L.A. California USA May 68 July 68 1107 So. Speed, Sta. Maria California USA March 68 May 68 Sutton Hotel Apts. Bay St. Toronto Canada Aug. 67 March 68 Taft Hotel & Commodore Hotel New York New York USA April 67 July 67 11 Yorkville Toronto Canada Jan. 67 April 67 21 Drumalbyn Rd. Sydney Australia Feb. 49 Jan. 67 LAST FOREIGN RESIDENCE OF MORE THAN ONE YEAR IF NOT SHOWN ABOVE. (INCLUDE ALL INFORMATION REQUESTED ABOVE.) APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION MONTH YEAR MONTH YEAR 312 No. Faring Road, Los Angles, California Butler July 68 PRESENT TIME Jack Warner, Angelo Drive, Beverly Hills, Calif. Butler May 68 July 68 Coffee Bean, Toronto, Canada Manager Jan 67 March 67 TT TT IT 11 XXXAug, 67 Nov. 67 Judy Bond & Associates, Oxford St., Bondi Junction, Manager April 55 Jan. 67 Sydney, Australia LAST OCCUPATION ABROAD IF NOT SHOWN ABOVE. (INCLUDE ALL INFORMATION REQUESTED ABOVE.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN NATURALIZATION ADJUSTMENT OF STATUS YOUR NATIVE ALPHABET IN THIS SPACE: OTHER (SPECIFY): Permanent Residence PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW Dec. 29, 1969 FOR KNOWINGLY AND WILLFULLY FALSIFYING 45 OR CONCEALING A MATERIAL FACT. DATE (SIGNATURE OF APPLICANT OR PETITIONER)"
+}

@@ -1,22 +1,21 @@
 {
+  "anumber": "A10712436",
   "id": "A10712436_0033",
   "page_index": 33,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0033/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0033/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
       "ms_doctype_v1": "form"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "years": {
       "ms_years_nlp_v1": [
         1956
       ]
     }
   },
-  "anumber": "A10712436",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "SOLVENCIA DE BUENA CONDUCTA PARA SALIR DEL PAIS IM EL INFRASCRITO JEFE DE LA SECCION DE INVESTIGACIONES ESPECIALES, r HACE CONSTAR: que a ROSA AMINTA RENDEROS. de 39 años de edad, profesión u oficio Empleada 1 hij a leg. O ileg. de Rómulo Dominguez y de Celsa Renderos originari ade Nahuizalco, Depto. de el Sonsonate , con residencia en Calle Chile N°. 6, B°. Candelaria, San Salvador. su Cédula de Vecindad es N° 450850, extendida en la Acladia Muni- rt cipal de Sonsonate el dia 24 de Febrero de 1956. or er , después de haber revisado los libros [a led que al efecto se llevan en los A archivos del Departamento de In we vestigaciones, se ha establecido que no le apareçen anotaziones denfavorables a su conducta. En consecuencia y para los efectos IS de VISA de pasaporte en el Consulado de. Estados Unidos de Norte America en esta capital; se extiende la presente SOLVFNCIA DE BUENA CONDUCTA por duplicado, en la Jefatura de la Sección de Investigaciones Especiales de la Policía Nacional de El Salvador, a los cinco días del mes de Octubre de mil novecientos cincuenta y seis. . (f) d 2 AVESTIGACIONES Comdte. 1° LUIS LARA GAVIDIA Jefe de la Secc. de Inv. Esp. (f) M Tulio A. Gutierrez Secretario, jlr/M.P.G. of n"
 }

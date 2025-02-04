@@ -1,9 +1,9 @@
 {
+  "anumber": "A19240402",
   "id": "A19240402_0063",
   "page_index": 63,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0063/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0063/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "U.S. Government Printing Office, 1969 O-351-4, 203(a)(7)"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "years": {
       "ms_years_nlp_v1": [
         1971,
@@ -25,6 +23,7 @@
       ]
     }
   },
-  "anumber": "A19240402",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "15. Alább felsorolok minden szerve. arsaságot, kört, és egyesületet aminek a a Manan tagja voltam vagy jelenleg tagja vagyok, a tagsag datumaival és helyével egyutt. (Ha sohasem volt egy szervezet tagja, iria \"Semmi\".) REFORMATUS ASSZONYKOR , MONOR 1930-1970. MAGYAR NOU DEMOURATIVIS STOVETSEGE 1945-1947 16. En voltam sohasem voltam torvényszegéssel vadolva. (Ha valaha törvényszegéssel volt vádolva, adja meg minden egyes vád datumat, helyét, és jellegét, és a végs dontést.) : 17. En voltam ezelött sohasem voltam az Egyesült Allamokban. (Ha volt valaha az Egyesült Allamokban, adja meg a belépés és kilépés dátumait és tartózkodasanak céljat: látogato, állandó lakos, tanuló, tengerész, stb.): Irattári vagy Idegen Nyilvántartási szam: 18. Az Egyesült Allamokban éló közeli rokonaim: Nevek: Rokonság foka: Jelenlegi cim: minesenell 19. Kezesem: (adja meg az Egyesult Allamokban lakó kezesenek nevét és címét) IVAN G. UENESSEY, 25 W. 500 ROYCE RD. NAPERVILLE, 111.60540 Datum: A Folyamodó Aláírása: 30,5,71. Neweth Auur NE IRJON E VONAL ALÁ. En, eskü alatt bizonyitom (ezennel bizonyitom), hogy ismerem az ezen általam aláirt folyamodvany és a csatolt okmányok tartalmát, hogy a tartalom tudomásom szerint igaz, és hogy -tol -ig szamozott javitasok általam vagy az en kérésemre voltak bevezetve, és hogy ezt a folyamodványt én irtam alá, teljes és igazi nevemmel. Amus Nourth (A folyamodó teljes és igazi aláírása.) Subscribed and sworn to before me by the above-named applicant at Oct 6, on Oct 6,1971 month, day, year (Signature and title of officer) MEDUCEE CONDITIONAL EATHY INTERVIEW OK APPROVED 203 (a) (7) You United are States pursuant to See conti- 203(8)(7) admitted conditionally to the of entry is otherwise terminated the I&N Act. Unless your DATE Orte,1971 DATE NOV 23 1971 tional eligibility for permanent residence AT Frankfant your and be determined after 2 years. EMPLOYMENT AUTHORIZED. NYC 1/13/72 370 on (Date) Immigration Officer Officer in Charge STA UTASITASOK Ezt az urlapot kitöltve és aláírva az Égyesült Allamok Bevándorlási és Honositási Szolgálata legközelebbi tengerentúli hivatala Felelós Tisztjének kell benyújtania. Amikor, mint folyamodonak, nevére sor kerül, további utasitasokat fog kapni. 1. FOLYAMODVANY - Minden egyes folyamodonak egy külön Folyamodvanyi Urlapot kell kitöltenie és egy példányban benyújtania. Tizennégy évesnél fiatalabb kiskorúak részére a szülö vagy gyám tölti ki a Folyamodványi Urlapot. 2. BIZTOSITÉK - Egy egyesült-államokbeli kezes által kitöltott I-591 számu Biztositéki Urlap szükséges mielött feltételes belépése jóvahagyható, de azt nem kell ezen alkalommal benyújtania. U. S. GOVERNMENT PRINTING OFFICE: 1969 -331-433"
 }

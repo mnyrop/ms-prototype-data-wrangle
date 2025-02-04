@@ -1,9 +1,9 @@
 {
+  "anumber": "A28703181",
   "id": "A28703181_0001",
   "page_index": 1,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28703181_0001/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28703181_0001/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "Embassy of the United States of America, A28 703181"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -25,6 +23,7 @@
       ]
     }
   },
-  "anumber": "A28703181",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 5/9/2023 EMBASSY OF THE UNITED STATES OF AMERICA A28 203181 FEB 23 6 14 LOS TO: INS LOS ANGELES, CALIFORNIA FROM: AMEMBASSY MEXICO CITY, IMMIGRANT VISA UNIT We are returning herewith the approved I-130 on behalf of FOIA (b)(6) for the following reasons: (XX Applicant got married and therefore is no longer entitled to P2-2 classification. Marriage certificate attached. ( ) Applicant was issued an Immigrant Visa on . ( ) Applicant adjusted status in the United States on . ( ) Applicant died ( ) I-130 is returned as per your request (copy attached). . ( ) The enclosed I-130 (I-130's) is (are) being returned to your office for disposition in accordance with 22 CFR 42.65, 2.3(c). Case (s) has (have) been terminated under section 203e of the INA. Jane g. Tamenbarm"
 }

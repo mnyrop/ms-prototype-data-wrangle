@@ -1,0 +1,27 @@
+{
+  "anumber": "A12468555",
+  "id": "A12468555_0009",
+  "page_index": 9,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12468555_0009/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "STATUS-600 APPLICATION, N-601 ( (Rev. 6-28-60)"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1961
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "STATUS N-600 APPLICATION 8/30/61 Received: PIACENTINI, Margaret, 2224 SE 42nd, PORTLAND, ORE. File No. A12 468 555 Ready: 4-10-61 Name Citizenship claimed (after) birth thru father mother both parents husband Notified: (Check all items for a complete case) Requested Received or in File Post-exam action required Exam held: 3/30/61 Fee 10/10/01 Requested Completed Photos V/N father, mother, husband: 25 4/16/61 1/10/01 5/14/61 G-347 File(s) of sister E Gatto 3/30/61 4/6/61 V/A: N-600(1-423) to File(s) Proof physical presence residence Can. letter re. f. 3/30/61 B/C mother father husband 3/30/61 applicant bapt pring Orine in letter See sister's *file M/C parents applicant of or DD father mother husband prior spouse(s) Military record Other processing action: # n/R birth will bring letter from Can so stating Certificate mailed: JUN 6 - 1961 - Denial notice: JUN 8- 1961 Return receipt received: Appeal filed: Form N-601 (Rev. 6-28-60) GPO 89 58 57"
+}

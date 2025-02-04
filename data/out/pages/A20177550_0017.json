@@ -1,0 +1,24 @@
+{
+  "anumber": "A20177550",
+  "id": "A20177550_0017",
+  "page_index": 17,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20177550_0017/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "APPLICANT, FORM G-325A"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1977
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOXOOTLINED BY HEAVY BORDER BELOW. COMPLETENTHIS BOX (Family name) (Given name) (Middle name) (Alien registration number) POT2106174 BRITO-VARELA , Silvano is A-20-177-550 (OTHER AGENCY USE) INS USE (Office of Origin) 3 699, 3 yeah O MIA of T.C. FILE FEB 2 2 1977 FORM G-325A (1) Ident."
+}

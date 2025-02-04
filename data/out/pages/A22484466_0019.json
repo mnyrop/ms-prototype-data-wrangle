@@ -1,17 +1,16 @@
 {
+  "anumber": "A22484466",
   "id": "A22484466_0019",
   "page_index": 19,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0019/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0019/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
       "ms_doctype_v1": "misc"
-    },
-    "is_g325a": false,
-    "is_cert_naturalization": false
+    }
   },
-  "anumber": "A22484466",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Form 1 - 1816 (Rev. 4-1-77)Y UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE REFER TO THIS FILE NO. A 22 484 466 Date: TRAN, LIEN THI 26981 Ayamonte Mission Viejo, Ca. 92675 The application for adjustment of status to that of a permanent resident filed by the above named has been granted. Sincerely yours, District Director ATTORNEY (Page 5)"
 }

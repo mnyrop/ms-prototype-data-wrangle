@@ -1,17 +1,16 @@
 {
+  "anumber": "A19529822",
   "id": "A19529822_0043",
   "page_index": 43,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0043/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0043/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
       "ms_doctype_v1": "misc"
-    },
-    "is_g325a": false,
-    "is_cert_naturalization": false
+    }
   },
-  "anumber": "A19529822",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 7/13/2023 CONTINUATIO OF AFFIDAVIT = SUPPORT WHOLLY DEPENDENT 5.(v) JAGATRAI WADHWANI 65yrs FATHER 65 MOTHER (vi) DURUPADI \" (vii) GOBIND 38 BROTHER \" (viii) MOHAN \" 35 \" (ix) SARLA \" 30 % BROTHER'S WTFF (x) FOIA (b)(6) 6. (iv) JAGATRAI WADHWANI JUNE 1972 : 1. (v) DURUPADI 1, (vil GOBIND \" \" 5, (vii) SARLA \" SEPT 1972 (viii) SUDHA \" : \" \" FA 7. (iii) JAGATRAI (iii) DURUPADI MOTHER MAY 1972 \", \", (iv) GOBIND is BROTHER 1. (v) HARISH is \" ', 1. \" (vi) VISHNU \" \" \" (vii) SARASWATI \" SISTER \" \" \" (viii) USHA \" Bhagwan Washing 10/28/72"
 }

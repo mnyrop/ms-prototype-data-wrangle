@@ -1,0 +1,24 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0002",
+  "page_index": 2,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0002/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Notice of Naturalization Oath Ceremony, Form N-4"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 U.S. Department of Justice OMB No. 1115-0052 Immigration and Naturalization Service Notice of Naturalization Oath Ceremony AR # 26 875,947 Date 8/7/01 Rose PetiT You are hereby notified to appear for a Naturalization Oath Ceremony on: 8/13/01 Miami Beach Convention Center 1901 Convention Center Drive at: Miami Beach, Florida, 33139 HALL D 12:00 NOON Please report promptly at 1. GATE 7 You must bring the following with you: This letter, WITH ALL OF THE QUESTIONS ON THE OTHER SIDE ANSWERED IN INK OR ON A TYPEWRITER. Alien Registration Card. Reentry Permit, or Refugee Travel Document. Any Immigration documents you may have. If the naturalization application is on behalf of your child (children), bring your child (children). Other Proper attire should be worn. If you cannot come to this ceremony, return this notice immediately and state why you cannot appear. In such case, you will be sent another notice of ceremony at a later date. You must appear at an oath ceremony to complete the naturalization process. (SEE OTHER SIDE) Form N-445 (Rev. 6/30/98) Y"
+}

@@ -1,0 +1,25 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0174",
+  "page_index": 174,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0174/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Screened by NARA, 8/11/293, EDS"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1985,
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 EDS Electronic Data Systems Corporation 219 Centre Street Route 60 Malden, Massachusetts 02148 (617) 321-4763 5/15/85 To Whom it may concern: This letter is to confirm that Marie Magny is an employee in good standing at Electronic Data Systems in Malden, Massa- chusettes. Marie started on April 15,1985 as a full-time employee in the clerical department. If you have any questions or need additional information, please feel free to contact me. Sincerely, Thomas. Wash Thomas P. Walsh"
+}

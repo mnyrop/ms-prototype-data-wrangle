@@ -1,9 +1,9 @@
 {
+  "anumber": "A10775863",
   "id": "A10775863_0018",
   "page_index": 18,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0018/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0018/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "OATH OF ALLEGIANCE"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -27,6 +25,7 @@
       ]
     }
   },
-  "anumber": "A10775863",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "OATH OF ALLEGIANCE Further, I do solemnly swear that I will support and defend the Constitution of the United States against all enemies, and domestic; that I will bear true faith and allegiance to the same; and that I take this obligation freely, without LICENSE mental remer ration or purpose of evasion: 80 help mo God. JUN 25 1933 x (Signature Applicant) Hargare Magaset of Sworn to before me this day SEAL OF of margaut Hougau PASSPORT AGENCY] we Agent the Department of State. of DESCRIPTION OF APPLICANT Height K5 feet, A57 inches. Age 26 years. Hair Black Buntle mark on j'avehead Eyes guey Distinguishing marks or features of birth bank and (Signature ml a Date of birth 17 I much 1904 Infigmities. marks or sears on head or bands, by which applicant may be identified) Place (City and State) (Month, day, and your) Occupation nurse I intend to leave the United States from the port of new your (Port of departure) City sailing on board the & S. (Name of Washington ship) on any (Date of 2nd 19 23 , departure) A DRESS % QUEENSBORO HOSPITAL I request that my passport be mailed to the following address: OK JAMAICA, long & Name Wm P Guessee SHADTON President. The [NOTE.-A Inter passport Footbox win not be Alled to . No. and Street 274 Machs se are hotel address unless the total is the applicant's place of permanent rest- dence. City and State new your AFFIDAVIT OF IDENTIFYING WITNESS H I, the undersigned, solemnly swear that I am a citizen of the United States; that I reside at the address written below signature hereto affixed; that I know the applicant who executed the affidavit hereinbefore set forth to be a citizen of the nited States; that the statements made in the applicant's affidavit are true to the best of my knowledge and belief; further, mury solemnly swear that I have known the applicant person y for all my Wile years. 26 years Kate If witness has been a nd date of issue or date approximate issued Slatters passport, of issue. give number My many Hate (Name slattery SIST of witness) o. Date of issue No lawyer or other person will be accepted as witness to a proport 763 Fox st Brony n. oplication if be has received or expects to receive a fee for his services in (Residence address of witness) insection with the execution of the application or obtaining the parport. JUN 5 1983 Sworn to before me this day Houseau Agent of the Department of State. The plicati fides a Seal impres cover [SEAL OF PASSPORT AGENCY] CORPANTI MEATO"
 }

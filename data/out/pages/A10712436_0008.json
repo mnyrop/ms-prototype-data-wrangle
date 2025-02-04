@@ -1,9 +1,9 @@
 {
+  "anumber": "A10712436",
   "id": "A10712436_0008",
   "page_index": 8,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0008/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0008/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,14 +12,13 @@
     "form_title": {
       "ms_form_title_llm_v1": "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE CITIZENSHIP USA"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "years": {
       "ms_years_nlp_v1": [
         1996
       ]
     }
   },
-  "anumber": "A10712436",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE CITIZENSHIP USA A # MAY 2 1996 A 10712436 PASSED $312 TEST GOVERNMENT HISTORY ROSA DOMINGUEZ-RENDEROS * * WRITTEN I READING 9843 RAMONA ST. #405 BELLFLOWER CA 90706 Mark OFFICER You are hereby notified to appear for an interview on your (your child's) application for naturalization at the date, time and place shown below. DATE: 5/21/1996 TIME: 1:15 PM PLACE: 9650 FLAIR DRIVE EL MONTE, CA 91731 PARK PLACE SECOND FLOOR Please see following page of additional requirements for your interview. PLEASE KEEP THIS APPOINTMENT, EVEN IF YOU DO NOT HAVE ALL THE ITEMS NOTED ABOVE. PROPER ATTIRE IS REQUESTED. PLEASE DO NOT ARRIVE EARLIER THAN 30 MINUTES BEFORE YOUR APPOINTMENT. - CC: LOSUSA. 3 45/20 213 526 7647"
 }

@@ -1,0 +1,26 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0039",
+  "page_index": 39,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0039/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Screened by NARA, 8/11/293, The Boston Five Cents Savings Bank FSB"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1993,
+        2023,
+        1981
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 The The Boston Five Cents Savings Bank FSB Boston Ten School Street, Boston, MA 02108-5155 Five PLEASE REPLY TO: 77 Milk Street, Boston, MA 02109-3977 Telephone (617) 742-6000 Ext. 161 April 23, 1993 Pierre G. Magny Marie Magny P. 0. Box 756 Dorchester, MA 02124 Dear Mr. & Ms. Magny: Please be advised that according to our records your account numbered 62-07-0148742 has a current balance of $14,849.35 as of the above stated date. This account was opened on October 1, 1981. If you have any further questions or concerns regarding your account, please do not hesitate to contact this office. Sincerely, David C Boldes David C. Baldes Assistant Branch Manager"
+}

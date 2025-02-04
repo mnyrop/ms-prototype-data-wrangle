@@ -1,0 +1,24 @@
+{
+  "anumber": "A19055851",
+  "id": "A19055851_0061",
+  "page_index": 61,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19055851_0061/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Petition to Classify Status of Alien Relative, I-130"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1969
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "LAW OFFICES Popkin and Shamir SUITE 1885 CALIFORNIA FEDERAL BUILDING RICHARD C. POPKIN 5670 WILSHIRE BOULEVARD RUTH SHAMIR LOS ANGELES, CALIFORNIA 90036 TELEPHONE 938-3268 March 31, 1969 Immigration & Naturalization Service 300 North Los Angeles Street Los Angeles, California 90012. RE: GEORGE WOLFSON Petition to Classify Status of Alien Relative Dear Sir: Enclosed in this case please find the following documents: - Form I-130 executed by the petitioner - Naturalization Certificate No. AA-258055 belonging to petitioner - Birth certificate of petitioner - Marriage certificate of petitioner's parents - South African passport No. NY17426 & CA119 beloning to beneficiary - Forms G-28 to show that I represent both the beneficiary and the petitioner - A check for $10.00 to cover costs. Please notify me of further developments regarding this case. Thank you. Very truly yours, POPKIN & SHAMIR RISA RUTH SHAMIR RS/caa Enclosures."
+}

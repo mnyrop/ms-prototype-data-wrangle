@@ -1,9 +1,9 @@
 {
+  "anumber": "A19529822",
   "id": "A19529822_0028",
   "page_index": 28,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0028/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0028/full/max/0/default.jpg"
   },
   "fields": {
     "sex": {
@@ -15,8 +15,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, FORM I-181 ( (REV. 10-1-71) N"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "Pakistan",
@@ -32,6 +30,7 @@
       ]
     }
   },
-  "anumber": "A19529822",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 7/13/2023 UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE Place NYC 245 File No. A19 529 822 bc Status as a lawful permanent resident of the United States is accorded: SEX DATE OF BIRTH Name Durupadi J. Wadhwani IJG afforder of Female No vember 28, 1906 Street 97-11 Horace Harding Expwy, Apt. 18-K PLACE OF BIRTH Address Lefrak City, New York 11368 A12C W. Pakistan of State City, State, Zip NATIONALITY COUNTRY TO WHICH CHARGEABLE (If any) PREFERENCE (If any) India 18 passa ou Section SOS(P) PRIORITY DATE Immediate Relative Z-2 REMARKS CERTIFICATION CHECK we plock ou the folw as NONPREFERENCE: Section 212(a)(14) certification not required because: gate A120 ue Act pl SOLIG weque Individual section 212 (a)(14) certification issued Blanket section 212(a)(14) certification issued under the following provision of law: Sec 203(h) of the I & N Act Sec 249 of the I & N Act Sec 13 of the Act of 9/11/57 acce Sec 214(d) & N Act OL Sec 244 ( ) ) of the I & N Act Sec 1 of the Act of 11/2/66 Private Law no. of the gaye of Act Congress session Sec 245 of the I & N Act Sec 2 of the Act of 11/2/66 OL (Other law Specify) As of 11 02 72 at NYC (Month) (Day) Year) PORT OF ENTRY FOR PERMANENT RESIDENCE oubLGIGLGUCS FOLLU blobell Class of admission (Insert symbol) (Applicable in all cases) 542 we DATE APPROVED OF RECOMMENDED BY: (Immigration Officer) (Date) ACTION KOOdian 57/HOZ-72 DD pe NOV 3 1972 DOLAICE DISTRICT marks FOR USE BY VISA CONTROL OFFICE Lednile IJG follu 18! 10 pe formalqeq to HUG COULLO Office NEW YORK, N.Y. qnb- Date IU OLUGL cases MUGGLE 10 LUE Country excebt MUGLE 26LAICE 12 10 pe au Foreign State 1-151 Issued pas 1002 72 Preference Category Date case of GAGLA polu Number we gate belwaueur eur pe abblobulate the the ency cases the Month of Issuance Office MPICU unwpet 1dpp auq 10 120 COULLO OHICS MUGU error 5V2 OL 2 Act 5 Signed UCG OL case nugel (Visa Office, Dept. of State) Form I-357 delivered Form I-151 delivered Form I-151 mailed Form G-153 delivered CC: Visa Control Office, Visa Office, Department of State, Washington, D.C. 20520 for allocation of Immigrant visa number. State Director, Selective Service FORM I-181 (REV. 10-1-71) N (Page 1)"
 }

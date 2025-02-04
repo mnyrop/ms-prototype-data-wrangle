@@ -1,0 +1,24 @@
+{
+  "anumber": "A28068003",
+  "id": "A28068003_0028",
+  "page_index": 28,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28068003_0028/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Medical Information Form, Form N-648 ( (Rev. 07/01/09) Y Page 2"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 4/24/2023 Applicant's Name Alien Registration Number HAWA HERSI 428068003 Part II. MEDICAL INFORMATION (Type or print clearly in black ink.) Background Information 1. I am a currently licensed: (Check or specify) Medical Doctor Doctor of Osteopathy Clinical Psychologist 2. What is the nature of your medical practice? Family/General Practice Internal Medicine Psychiatry/Psychology Other (specify) 3. How long have you been treating this applicant? 6 Year(s) Month(s) or Since OR This is my first examination of this applicant. 4. Are you the medical professional regularly treating this applicant for the claimed condition(s)? Yes (If \"Yes,\" go to item 5.) No (If you answered \"No,\" state from whom the applicant usually receives medical care and explain why you are completing this form.) Name of Regularly Treating Medical Professional/Clinic and Address Explanation: 5. Date and location of your most recent examination(s) of the applicant: Date 7/17/09 Location (if different from business address on Page 1; otherwise write \"same as business address\") SAme 6. How often do you examine this applicant? (Check or specify) Weekly Monthly Annually Other Q6matts S CS Needed Nature and Duration of Disability or Impairment 7. Has the applicant's claimed disability or impairment lasted, or do you expect it to last, 12 months or longer? Yes No 8. Is the particular claimed disability or impairment(s) the direct effect of the applicant's illegal use of drugs? Yes No Form N-648 (Rev. 07/01/09) Y Page 2"
+}

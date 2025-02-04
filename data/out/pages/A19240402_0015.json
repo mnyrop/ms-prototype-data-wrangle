@@ -1,9 +1,9 @@
 {
+  "anumber": "A19240402",
   "id": "A19240402_0015",
   "page_index": 15,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0015/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0015/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "Naturalization Application,, N-4-102"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "Germany",
@@ -21,6 +19,7 @@
       ]
     }
   },
-  "anumber": "A19240402",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "4 (11) Do you intend to reside permanently in the United States? Yes No If \"No,\" explain: (12) My last place of foreign residence was (City) (Country) MAIKAMMER GERMANY (13) My father's full name is DEZSO KARDOS (14) My mother's maiden name was JULIANNA CSIPES (15) I came to the United States from the port of (City) (Country) COLON w GERMANY (16) The person in the United States to whom I was coming was IVAN G. KENESSEY NAPERVILLE, 122. (17) The place in United States to which I was going was CHICAGO (18) The names of some of the passengers or other persons traveled with, including members of my own family, and their relationship to me, if any, were JOHN D. NEMETH (SON ) AND REFUGEES IN ORGANIZATION OF TOLSTOY FOUND, READ INSTRUCTION NO. 7 BEFORE ANSWERING QUESTION (19) (19) I want certificates of citizenship for only those of my children under age 16 years named below. (Enclose $10 for each (Do) (Do Not) child only if you want certificates, otherwise, send no money with this application.) (Write names of children under age 16 years for whom you want certificates) If present spouse is not the parent of the children named above, give parent's name, date and place of naturalization, and number of marriages Signature of person preparing form, if other than applicant. I SIGNATURE OF APPLICANT Anna Nerneth declare that this document was prepared by me at the request of ap- SIGNATURE Werners plicant and is based on all information of which have any knowledge. ADDRESS AT WHICH APPLICANT RECEIVES MAIL ADDRESS: DATE: 300 MONTE VISTA, OAKLAND 94611 3945 HARRISON, OAKLAND 4/4/77 APPLICANT'S TELEPHONE NUMBER TO APPLICANT: DC NOT FILL IN BLANKS BELOW THIS LINE. NOTE CAREFULLY. - This application must be sworn to before an officer of the Immigration and Naturalization Service at the time you appear before such officer for examination on this application. AFFIDAVIT I do swear that I know the contents of this application comprising Subscribed and sworn to before me by applicant at the preliminary pages 1 to 4, inclusive, and the supplemental forms thereto, No(s). investigation ( ) at subscribed to by me; that the same are true to the best of my knowledge and belief; that this day of 19 corrections numbered ( ) to ( ) were made by me or at my I certify that before verification the above applicant stated in my pres- request: and that this application was signed by me with my full, true, ence that he had (heard) read the foregoing application, corrections and correct name, SO HELP ME GOD. therein and supplemental form(s) and understood the contents thereof. (Complete and true signature of applicant) (Naturalization examiner) (For des demonstration er a of applicant's god ability day to write) /shi era beg goil (1st witness) Occupation residing at (Street address. city or town. and State) (2d witness) Occupation residing at (Street address, city or town. and State) U.S. State Physical presence mos. (Naturalization examiner) ARRIVAL RECORD FOUND ARRIVAL RECORDS EXAMINED Place Card index Name Index books Age Manifests Date Marital status Manner (Signature of person making search) Nonfiled (Dates, reasons. and examiner's initials) for"
 }

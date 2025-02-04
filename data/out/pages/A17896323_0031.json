@@ -1,0 +1,25 @@
+{
+  "anumber": "A17896323",
+  "id": "A17896323_0031",
+  "page_index": 31,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17896323_0031/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "UNITED STATES GOVERNMENT Memorandum, OPTIONAL FORM NO. 10"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1892,
+        1967
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "OPTIONAL FORM NO. 10 5010-103 RECEIVED UNITED STATES GOVERNMENT Memorandum APR - 5 1967 DISTRICT DIRECTOR Immigration & Naturalization Service Assistant District Directos ANTONIO, TEXAS TO : Citizenship, San Antonio, Texas DATE: April 4, 1967 FROM Horace C. Harris, Officer in Charge Houston, Texas SUBJECT: Isador Tiras, A17 896 323, Applicant for Certificate of Citizenship Subject claims that his father, Joseph Tiras, was naturalized March 5, 1892 by the District Court of Fannin County at Bonham, Texas. We have not located a record of this naturalization. Please check your index book for Fannin County and advise Examiner Chapman whether or not you find anything relating to the naturalization of Joseph Tiras. Bir"
+}

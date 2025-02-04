@@ -1,9 +1,9 @@
 {
+  "anumber": "A19240402",
   "id": "A19240402_0067",
   "page_index": 67,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0067/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0067/full/max/0/default.jpg"
   },
   "fields": {
     "sex": {
@@ -15,8 +15,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "REGISTRATION FOR CLASSIFICATION AS CONDITIONAL ENTRANT, Form Approved Form No. 4-048"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "Hungary",
@@ -35,6 +33,7 @@
       ]
     }
   },
-  "anumber": "A19240402",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Form Approved REGISTRATION Budget Bureau No. 43-R0408 FOR CLASSIFICATION AS CONDITIONAL ENTRANT UNITED STATES DEPARTMENT OF JUSTICE Section 203(a)(7) IMMIGRATION AND NATURALIZATION SERVICE File No. Immigration and A Nationality Act REGISTRANT TO FURNISH THE FOLLOWING INFORMATION (READ INSTRUCTIONS ON REVERSE) TYPE OR PRINT 1. My name is: First Middle Last Anna Gabriella NEMETH 2. My present address is: 6735 Maikammer, Schloss Str. 21/23, Germany 3. I was born on: (month)(day)(year) Place of birth (city or town) (Province) (Country) My present nationality is: Mar. 16,1907 Budapest Hungary Hungarian 4. Height Weight Eyes Hair Complexion Marks or Scars 5'3 11 140 1b. brownbrown fair scar after appendectomy 5. I fled or was displaced from (Name of country) On or about (month) (day) (year) Hungary Dec. 17 1970 6. Reasons: in (State detail) My son fled and I did not want to remain alone in Budapest, my husband was a capitalist, my pension was only 625 forint per month 7. My present immigration status in Germany is: pending, applied for polit (Country in which residing) tical asylum The evidence of my immigration status in the country in which I am residing is: (Describe) 8. My spouse's name is: 9. (His) (Her) present address is: 10. Spouse's nationality is: Gabor NEMETH (deceased 1966 n.a. n.a. 11. My spouse will will not accompany me to the United States 12. Name of child (ren) Date of birth Place of birth Present address Janos NEMETH Jan. 13 930 Monor, Hungary Maikammer, Germany Schloss Str. 21/23 Place a mark (X) in front of name of each child who will accompany you to the United States 13. Schooling or Education Name and location Type Dates attended Title of Degree of school or Diploma Monori Elemi Isk. element. 1913-1917 Monori Polgari Isk. second. 1917-1921 Monor, Hungary 14. Military Service Branch and Country Dates Serial No. Rank Attained Organization n.a. Form I-590 (REV. 5-15-68)"
 }

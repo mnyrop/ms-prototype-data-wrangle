@@ -1,0 +1,32 @@
+{
+  "anumber": "A44045795",
+  "id": "A44045795_0014",
+  "page_index": 14,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44045795_0014/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "male"
+    },
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States",
+        "India"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1992,
+        2023,
+        1928
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/15/2023 No. 20181363 COEVIER CORP Personal description of holder INSRegistrationNG. FOIA (b)(6) as of date of naturalization: I certify that the description given is true, and that the photograph affixed Date of Sbirth:DECEMBER 14, 1928 hereto is a likeness ofme. Sex:MALE Shantilal chhabilder Miltry - Height: 5 feet 3 inches Complete and true signature of holder) Marital status: MARRIED Be it known that, pursuant to an application filed with the Attorney General Country of former nationality: at:NEWARK, NJ INDIA The Attorney General having found that: SHANTILAL CHHABILDAS MISTRY then residing in the United States, intends to reside in the United States when so required by the Naturalization Laws of the United States, and had in all other respects complied with the applicable provisions of such naturalization laws and was entitled to be admitted to citizenship, such person having taken the oath of allegiance in a ceremony conducted by the U.S. IMMIGRATION & NATURALIZATION SERVICE NEWARK DISTRICT at:NEWARK, NJ on: JUNE 25TH, 1992 that such person is admitted as afcitizen of the United States of America. IT IS PUNISHABLE BY U. S. LAW TO COPY, PRINT OR PHOTOGRAPH THIS CERTIFICATE, Devembery WITHOUT LAWFUL AUTHORITY. Commissioner of Immigration and Naturalization FORM N-550 REV. 6.91"
+}

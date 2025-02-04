@@ -1,9 +1,9 @@
 {
+  "anumber": "A10712436",
   "id": "A10712436_0022",
   "page_index": 22,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0022/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0022/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, G-56 ( (11-1-56)"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -25,6 +23,7 @@
       ]
     }
   },
-  "anumber": "A10712436",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service 458 S. Spring St. Los Angeles 13, Calif. September 19, 1957 PLEASE REFER TO THIS FILE NUMBER AR Rosa Aminta Renderos 3207 Sanborn Ave., Lynwood, Calif. Dear Madama Please call at the office listed below, at the time and place indicated, for an inter- view in connection with an official matter. It is important that you keep this appointment. If you are unable to do so, please notify us promptly, using the reverse side of this letter, and we will arrange another appoint- ment. You should bring this letter with you and present it at the location indicated below. Very truly yours, Richard C. Hoy Autg. DISTRICT DIRECTOR OFFICE AT: 458 So Spring St., Los Angeles, Calif. ROOM NO. 229 DATE AND HOUR 9:00 Aath Thursday, Septia 26, 1957 FLOOR NO. 2nd ASK FOR Mr. Trujillo REASON FOR APPOINTMENT interview regarding your. notice of non-receipt of Alien Registration Receipt Card. BRING WITH YOU: Your Passport and. exp: other Designation documentages n.have in your possession. G-56 (11-1-56) * GPO 972708"
 }

@@ -1,0 +1,33 @@
+{
+  "anumber": "A21200457",
+  "id": "A21200457_0009",
+  "page_index": 9,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21200457_0009/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Application to File Petition for Naturalization"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Vietnam",
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1975,
+        2023,
+        1991,
+        1915
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/17/2023 June 8, 1991 Mr. Robert M. Moshorak District Director U. S. District Director Immigration & Naturalization Service P.O. Box 97 Los Angeles, California 90012 Re: Alien No.A21-200-457 Nguyen, Minh Van July 14, 1915 Hung-Yen, Viet-Nam Date and Place of Admission: May 28, 1975 PHI IC6 PA Dear Sir: In accordance with Section 403 of the Immigration Act of 1990 concerning Waiver of English Language Requirement for Natura- lization for persons over fifty-five years of age living in the United States for periods totaling at least fifteen years subse- quent to a lawful admission for permanent resident status, I am writing to submit to you the following documents for your adjudi- cation: Form N-400, Application to File Petition for Naturalization; Form G-325, Biographic Information; FD-258, Fingerprint Card A check for the amount of $90.00; 3 photographs. Thank you very much for your consideration of my request re- garding this naturalization matter. Very truly yours, Think Van Nguyen Minh Van Nguyen 1718 S. King Street Santa Ana, California 92704 (714) 556-8526 Encl: As cited"
+}

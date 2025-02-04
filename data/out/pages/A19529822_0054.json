@@ -1,9 +1,9 @@
 {
+  "anumber": "A19529822",
   "id": "A19529822_0054",
   "page_index": 54,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0054/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0054/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "Petition to Classify Status of Alien Relative for Issuance of Immigrant Grant Visa, Form I-130"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States",
@@ -36,6 +34,7 @@
       ]
     }
   },
-  "anumber": "A19529822",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 7/13/2023 IMMI & NATZ SERVICE Form approved. 1972 MAY MAST H PM 8 48 Budget Bureau No. 43 - R401.4. Date filed PETITION TO Fee stamp CLASSIFY STATUS OF $ 10,00 FEE PAID No. 218A-5 ALIEN RELATIVE FOR PITTSBURGH, PA. Immigration and Naturalization Service ISSUANCE OF IMMI- Pittsburgh, Pa.m+F GRANT VISA Date MAY 11 1972 Verified by med TO THE SECRETARY OF STATE: The petition was filed on May 11,1972 Remarks The petition is approved for status under section: SPOUSE, U.S. APPROVED INS 201 (b) CHILD 203(a) (2) DATE OF ACTION 201 (b) PARENT 203 (a) (4) JUN Z1972 DD DISTRICT 203 (a) (1) 151 PHILA., PA. (PETITIONER IS NOT TO WRITE ABOVE THIS LINE) 1. Petition is hereby made to classify the status of the alien beneficiary for issuance of an immigrant visa as: (Check one) The spouse, child (regardless of age), parent, brother, or sister of a United States citizen. The spouse or unmarried child (regardless of age) of an alien lawfully admitted to the United States for permanent residence. Block I. - Information About Alien Beneficiary A20-222-862 2. Name (Last, In CAPS) (First) (Middle) 3.Do Not Write in This Space 4. Relationship of beneficiary to petitioner WADHWANI DURUPADI JAGATRAI MOTHER 6. Is beneficiary related to you by adoption? 5. Other names used; Married woman give maiden name BHAGWANANI DURUPADIZISAR MULRAJ NO 9. Beneficiary's marital status: 7. Place of birth (Country) 8. Date of birth (Month, day, year) Married Widowed Divorced WEST PAKISTAN Single NOV 28,1906 10. Petitioner's name (Last in CAPS) (First) 11. Has this beneficiary ever been in the U.S.? (Middle) WADHWANT BHAGWAN JAGATRAI Yes No 12. Name of beneficiary's spouse, if married, and date and country of birth (Omit this item if petition is for your spouse) JAGATRAI MULRAM WADHWANI NOV 5, , 1906 WEST PAKISTAN 13. Names, birthdates and countries of birth of beneficiary's children, if any SARASWATI 9/5/1932 - W.PAK KAMALA 1 7/17/1935 - W.PAK. AND GOBIND 4/1/1934 NARAIN - 3/26/1943 MYSELF MOHAN - 8 / 1 / 1937 is VISHNU 1 7/29/1945. HARISH 1 12/16/1940 - USHA - 6 / 21 / 1948 - INDIA 14. Full address of beneficiary's spouse and children, if any (Omit this item if petition is for your spouse) APT. 4A, 41-18,29th ST. LONG ISLAND CITY N.Y.CITY N.Y 11101 15. If this petition is for your spouse or child, give the following: NOT APPLICABLE a. Date and place of your present marriage b. Number of your prior marriages c. Number of prior marriages of spouse d. Last address at which you and your spouse resided together For Statist!CA (Forme From G-2To? (Town or city) (State or Province) (Country) Received No.) (Number and street) (Month) (Year) (Month) (Year) MAY 1 5 1972 JUN 7.1972 16. If this petition is for a child, (a). Is the child married? (b) Is the child your adopted child? If so, give the names, dates, and places of birth of all other children adopted by you. If none, so state NOT APPLICABLE 015 NOT CABLE 17. If this petition is for a brother or sister, are both your parents the same as the alien's parents? If not, submit a separate statement giving full details as to parentage, dates of marriage of parents, and the number of previous marriages of each parent. 18. If separate petitions are also being submitted for other relatives, give names of each and relationship to petitioner GOBIND, MOHAN HARISH VISHNY -BROTHERS SARASWATI, USHA - SISTERS, JAGATRAI - FATHER 19. Have you ever filed a petition for this alien before? No If so, give place and date of filing and result: Form I-130 UNITED STATES DEPARTMENT OF JUSTICE - Immigration and Naturalization Service (Rev. 10-15-69)"
 }

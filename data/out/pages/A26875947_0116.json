@@ -1,0 +1,25 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0116",
+  "page_index": 116,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0116/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "YOUR SUPPLEMENTAL LIFE INSURANCE PLAN, PUBLICATION NUMBER 59-7123, JUNE, 1985"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1985,
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 YOUR SUPPLEMENTAL LIFE INSURANCE PLAN The Supplemental Life Insurance Plan is insured with The Travelers Insurance Company. This Plan offers life insurance protection, over and above that provided by the Honeywell Basic Life Insurance Plan. In the event of your death, the amount of your coverage will be paid to your beneficiary. Eligibility As a regular full-time or part-time Honeywell employee, you are eligible to enroll in the Supplemental Life Insurance Plan on your first day of active work. Upon enrolling within one month of your first day of active work, or within one month of becoming married, no medical examination is required. Enrolling late may require proof of your good health. PUBLICATION NUMBER 59-7123, JUNE, 1985 1"
+}

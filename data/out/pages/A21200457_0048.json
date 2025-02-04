@@ -1,0 +1,25 @@
+{
+  "anumber": "A21200457",
+  "id": "A21200457_0048",
+  "page_index": 48,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21200457_0048/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, TC/I-485-C"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023,
+        1978
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/17/2023 PLEASE REFER TO THIS FILE NUMBER TC/1-485-C UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE ROOM 1321 - UNITED STATES COURTHOUSE INDEPENDENCE MALL WEST 601 MARKET STREET PHILADELPHIA. PENNSYLVANIA 19106 Minh Van Nguyen 138 Kent Road Upper Darby, PA 19082 Dear Sir/Madam: You must file the enclosed form 1-485C to make application for permanent residency. An appointment for your interview is scheduled for Thursday, April 13, 1978 at 10:00 A.M. at the U. S. Courthouse, 601 Market Street, Philadelphia, Pennsylvania. Please follow the instructions carefully. If you are unable to keep your appointment, please call 215-597-7334 for rescheduling. Sincerely, FOR THE DISTRICT DIRECTOR ROBERT L. ACKERMAN Assistant District Director for Travel Control Enclosure"
+}

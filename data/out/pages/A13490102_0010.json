@@ -1,0 +1,15 @@
+{
+  "anumber": "A13490102",
+  "id": "A13490102_0010",
+  "page_index": 10,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13490102_0010/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "photograph"
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false
+}

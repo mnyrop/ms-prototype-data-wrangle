@@ -1,9 +1,9 @@
 {
+  "anumber": "A10712436",
   "id": "A10712436_0034",
   "page_index": 34,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0034/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10712436_0034/full/max/0/default.jpg"
   },
   "fields": {
     "sex": {
@@ -15,8 +15,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "Foreign Service of the United States of America, I- 980834"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States",
@@ -30,6 +28,7 @@
       ]
     }
   },
-  "anumber": "A10712436",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "1 FOREIGN SERVICE OF THE UNITED STATES OF AMERICA Bureau Budget No. 47-R108.2 APPLICATION FOR IMMIGRANT VISA I- 980834 AND ALIEN REGISTRATION I, the undersigned, being duly sworn, state the following facts regarding myself and hereby make application for an IMMIGRANT VISA and ALIEN REGISTRATION under the Immigration and Nationality Act to the American Embassy Consul ar Section at San Salvador, E1 Salvador 1. Family name Given name Pi Initial 2. Place and date of birth Age RENDEROS Nahuizalco Sonsonate, E1 Salvador Rosa Aminta D. February 28, 1917 39 3. Other names by which I have been known 0/8 MAS ALICE GREENOUGH 4. Last permanent residence comption COLLEGE IIII EAS ARTESIMST Calle Chile No. 6 B, Barrio Candelaria A San Salvador, El Salvador 5. Address in the United States CompToN CALIFORNIA 6. Name and address of person to whom destined, if any 1151 So. Van Ness Ave. San Francis Call Jose Rafael Brito Same as No. 5 7. Name and address of nearest relative in home country 8. Travel documents presented Passport No. 29086 Sonia Renderos Cea (daughter) Same as No.4 Issued by Ministry of Foreign Affairs of El Salvador on October 11, 1956 9. Hair 10. Eyes 11. Height 12. Weight 13. Nationality 15. Race 17. Sex 18. Marital status Salvadoran Span. Amari can - M Married Single brown black 14. Complexion 16. Ethnic Classification 5 ft. 1 in. 122 lbs. medium Spanish F Widowed Divorced 19. Occupation 20. Distinguishing marks 21. Languages spoken, read, or written Employee none Spanish only 22. Intended United States port of entry 23. Final destination 24. I have (a) (no) 25. Purpose of going to the United States through ticket to Los Angeles, California San Francisco destination to reside 26. Places of previous residence None 27. Names and places of residence of spouse and minor children 28. Name and address of father 29. Name and address of mother Romulo DOMINGUEZ IND Sonsonate, E1 Salvador Celsa RENDEROS - Deceased 30. I claim to be a fnonquota immigrant and my claim is based on the 31. Available documents required by the Immigration and Nationality Act are filed herewith and made a part hereof, as follows (Sec. 222 (b)): following facts: I was born in El Salvador AFFIDAVITS OF SUPPORT: Birth, Medical and Police certificates 32. I have never been: Arrested; convicted; in prison; in an almshouse; treated in an institution, hospital, or other place, for insanity or other mental disease; the beneficiary of a pardon or amnesty, except as hereinafter stated: Never 33. I have never applied to any American consular officer, either formally or informally, for a visa or other documentation as an immigrant or nonimmigrant, except as hereinafter stated: Never 34. I have never been excluded, deported, or removed from the United States at Government expense, except as hereinafter stated: Never II 16-67444-2 (Application continued on reverse side)"
 }

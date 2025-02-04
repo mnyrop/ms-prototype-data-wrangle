@@ -1,0 +1,32 @@
+{
+  "anumber": "A28871610",
+  "id": "A28871610_0000",
+  "page_index": 0,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28871610_0000/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "REQUEST FOR ASYLUM IN THE UNITED STATES, Form 1-589"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States",
+        "Guatemala",
+        "Nicaragua"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1914,
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 6/8/2023 Immigration and Naturalization Service REQUEST FOR ASYLUM IN THE UNITED STATES INS Office Date 1 Family Name First Middle Name 2 A number (if any or known) HERNANDEZ LUIS FELIPE 428-891-610 All other names used at any time (include maiden name if married) 3 Sex 4 Marital status LUIS FELIPE HERNANDEZ-PALACIOS Male Single Divorced Female XX Married Widowed I was born (Month) (Day) (Year) in (Town or City) (State or Province) (Country) 12 20 1914 JINOTEGA JINOTEGA NICARAGUA Nationality - at birth At present Other nationalities NICARAGUAN NICARAGUAN NONE If stateless how did you become stateless? N/A 6. Ethnic group 7. Religion 8. Languages spoken HISPANIC CATHOLIC SPANISH 9 Address in United States (In care of. C/O. if appropriate) 10 Telephone number (Number and street) (Apt. No.) (City or town) (State) (Zip Code) (include area code) 1770 N. W. 21nd TERRACE, MIAMI FLORIDA 33142 (305)-324-0418. 11. Address abroad prior to coming to the United States (Number and street) (City) (Province) (Country) 8a. CALLE B-3260 ZONA 7 COLONIA CENTRO AMERICA, GUATEMALA, GUATEMALA 12 My last arrival in the U.S. occurred on: (Mo/Day/Yr) As a Visitor Student Stowaway Crewman 02-13-87 = Other (Specify) At the port of (City/State) Means of arrival (Name of vessel or airline and flight number. etc.) MIAMI, FLORIDA BY PLANE \"EASTERN\" I was was not inspected Date authorized stay expires (Mo/Day/Yr) 08-12-87 13. My nonimmigrant visa number is 001705 it was issued by the U.S. Consul on 07-01-87 (If none. state \"none\") (Mo/Day/Yr) at GUATEMALA, GUATEMALA (City. County) 14 Name and location of schools attended From To Type of school Highest grade Title of degree or Mo/Yr Mo/Yr completed certification 15. What specific skills do you have? 16. Social Security No. (if any) MERCHANT 17 Name of husband or wife (wife's maiden name) CLEMENCIA PICADO A28-891-611 18 My husband or wife resides XX with me apart from me (if apart. explain why) Address (Apt. No.) (No. and street) (Town or city) (Province or state) (Country) Form I-589 (OVER) (Rev. 10-1-85) Y RECEIVED TRANS IN RET D TRANS OUT COMPLETED"
+}

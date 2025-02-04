@@ -1,0 +1,39 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0214",
+  "page_index": 214,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0214/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "male"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, FORM G-325A"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Haiti",
+        "United States"
+      ]
+    },
+    "g325a": {
+      "occupation": {
+        "occupation_llm_v1": "['retired']"
+      },
+      "reason": {
+        "reason_llm_v1": "OTHER"
+      },
+      "nationality": {
+        "nationality_llm_v1": "haiti"
+      }
+    }
+  },
+  "is_g325a": true,
+  "is_cert_naturalization": false,
+  "full_text": "U.S. Department of Justice FORM G-325A OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY FILE NUMBER PETIT Rose Garcon EMALE 12-01-1905 Haiti A. 26 875 947 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. Cape Haitian, Haiti (If any) None FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE FATHER PIERRE PAUL, Artis Unk Haiti Deceased MOTHER (Maiden name) PIERRE PAUL, Francilia Unk Haiti Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE None FORMER HUSBANDS OR WIVES(if none,so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE PETITi Granjean Unk Unk Haiti Died on 6-17-92 in Miami,FL APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 9425 NW 2nd. Place Miami FL 33150 USA 12 87 PRESENT TIME 20 Mercéer Ave. Dorchester MA 02124 USA 12 83 12 87 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Rue 20 No. 70 Cape Háátian HAITI Birth 12 83 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE.) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR Retired Retired 12 83 PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) Retired Retired 12 79 12 83 THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION STATUS AS PERMANENT RESIDENT 01-11-93 OTHER (SPECIFY): IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Alien registration number) PETIT Rose Garcon A#26875947 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 A (Rev. 10-1-82) (3) C."
+}

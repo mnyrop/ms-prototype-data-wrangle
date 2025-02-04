@@ -1,9 +1,9 @@
 {
+  "anumber": "A28703181",
   "id": "A28703181_0006",
   "page_index": 6,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28703181_0006/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28703181_0006/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "ESTADO LIBRE Y SOBERANO DE ZACATECAS, Nº 90 noventa"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "years": {
       "ms_years_nlp_v1": [
         2023,
@@ -21,6 +19,7 @@
       ]
     }
   },
-  "anumber": "A28703181",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 5/9/2023 GENERAL ESTADO LIBRE LACATIFIES VECRUBACIUN DE REMYER FAMILY UNIDOS DE LACKYTICLE SECURITY DEPARTMENT PAPEL ESPECIAL PARA CERTIFICADOS DE LAS ACTAS DEL Anodemilnovecientes En nombredela Republica de Mexico y comos Juoz del Estado civil de este lugar hago saber alos que la presente vieren, y certifico ser cierto, queenellibro número registro civil STAD@ micargo ala foja. asentada una Acta del tenor siguiente: E L CIUDADANO Jesús Medrano Avalos, Jefe del Depar tamento de Archivo General del Estado: C E R T I F I C A: ARCHIVO CANERAD Que enel libro de copias de actas de Matrimonios, pertene DEL ESTADE ciente al Registro Civil del Municipio de Sanchez Roman, Zac., y- que corresponde al año de mil novecientos treinta y tres, a fojas doce vuelta, aparece una partida del tenor siguiente: AL MARGEN Numero 90 noventa.- Matrimonio de Manuel Ruiz y- María Dolores Ramirez.- AL CENTRO.- En Sanchez Roman a las (11) once horas del dia 30 treinta de septiembre de 1933 mil novecien- tos treinta y tres, ante mi J. Refugio Dávila Presidente \"unici-- pal encargado del Registro Civil de esta ciudad se presentó ante- este Juzgado el seoor Manuel Ruiz y la seorita María Dolores Ra- mírez con objeto de celebrar su contrato de matrimonio asi como los testigos que al fin se expresarán, en seguida interrogué a los testigos, si el seror Manuel Ruiz y la Srta. María Dolores Ra mirez son las personas que estan presentes, y contestando por la- afirmativa bajo protesta de ley me diriji a los contrayentes expre sandolos por sus nombres, si es su voluntad unirse en matrimonio- el uno con el otro, y habiendo contestado ambos en sentido afirma tivo dije en alta VOZ: Declaro en nombre de la Ley y de la Socie- dad que el señor Manuel Ruiz y la señorita María Dolores Ramirez- quedan unidos en legítimo matrimonio, con todos los derechos y prerrogativas que la ley otorga y con las obligaciones que la mis ma ley impone. desde luego se procedió a levantar la presente acta haciendose constar que no se ha presentado impedimento alguno pa- ra la celebración del matrimonio de cue se trata.- Que los contra yentes por ser mayores de edad fueron libres en su elección.- Las generales de los contrayentes y testigos son como sigue: el señor Manuel Ruiz es soltero, agricultor, de 21 años de edad, erigina-- rio y vecino del rancho de Tamoloaxco, de este municipio. hijo -- legítimo de Cesareo Ruiz y Epigmenia Ortiz finados. y la señorita María Dolores Ramirez, es célibe, de 22 años de edad, originaria- y vecina del citado rancho, hija natural de padre no conocido, y- de la seoora María Ramirez que vive. y con el fin indicado presen tan un certificado del Doctor Luis de Alva Luna, medico legalmen-"
 }

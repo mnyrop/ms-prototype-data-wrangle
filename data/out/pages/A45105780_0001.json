@@ -1,0 +1,32 @@
+{
+  "anumber": "A45105780",
+  "id": "A45105780_0001",
+  "page_index": 1,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A45105780_0001/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Additional Questions to be completed by All Applicants for Permanent Residence in the United States, 9003"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1988,
+        2023,
+        1991,
+        1986
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 18/15/2023 Department of The Treasury - Internal Revenue Service OMB Clearance No. 1545-1065 Expires 8-31-91 Form 9003 (October 1988) Additional Questions to be completed by All Applicants for Permanent Residence in the United States Your responses to the following questions will be provided to the internal Revenue Service pursuant to Section 6039E of the internal Revenue code of 1986. Use of this information is limited to that needed for tax administration purposes. Failure to provide this information may result in a $500 penalty unless failure is due to reasonable cause. Name (Last - Surname - Family) (First given) (Middle Initial) PATEL GANGABEN JERAM. Taxpayer Identification Number NONE Enter you Social Security Number (SSN) if you have one. If you do not have an SSN but have used a Taxpayer Identification Number issued to you by the Internal Revenue Service, enter that number, Otherwise, write \"NONE\" in the space provided : i.e., N.O.N.E. Mark appropriate Column Yes No 1. Are you self-employed ? Mark \"Yes\" if you own and actively operate a business in which you share in the profits other than as an investor. 2. Have you been in the United States for 183 days or more during any one of the three calender years immediately preceding the current calender year ? Mark \"yes\" if you spent 183 days or more (not necessarily consecutive) in the United States during any one of the three prior calander years whether or not you worked in the United States. 3. During the last three years did you receive income from sources in the United States ? Mark \"yes\" if you received income paid by individuals or institutions located in the United States. Income includes, but is not limited to, compensation for services provided by you, interest dividends, rents, and royalties. 4. Did you file a United States Individual Income Tax Return (Forms 1040, 1040A, 1040EZ or 1040NR) in any of the last three years ? If you answered yes to question 4, for which tax year was the last return filed ? 19 Paperwork Reduction Act Notice - We ask for this information to carry out the Internal Revenue laws of the United States. We need it to insure that taxpayers are complying with these laws and to allow us to figure and collect the right amount of tax. You are required to give us this information. Remarks GPO : 1991 0 - 292-230 Form 9003 (10-88)"
+}

@@ -1,0 +1,26 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0070",
+  "page_index": 70,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0070/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Certification of Account Information"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023,
+        1987,
+        1986
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 Shawmut Bank March 9, 1987 TO WHOM IT MAY CONCERN: This is to certify that an account is entered on the records of this Bank as set forth herewith: Name of Account: Marie Magny Pierre Magny 48 Fuller Street Dorchester MA 02124 Date Opened: February 1986 Nature of Account: Checking/Now Present Balance: $747.33 Recent Average Balance: $1,225.00 SHAWMUT BANK OF BOSTON, N.A. By Eileer a Ford Eileen A. Ford Title Senior Personal Banker 242 Shawmut Bank of Boston, N.A. One Federal Street, Boston, Massachusetts 02211. Telephone: 617-292-2000"
+}

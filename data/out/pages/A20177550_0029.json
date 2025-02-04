@@ -1,0 +1,31 @@
+{
+  "anumber": "A20177550",
+  "id": "A20177550_0029",
+  "page_index": 29,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20177550_0029/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, A20177530"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Mexico",
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1972,
+        1959
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet Application or Petition Form No. Paroly File No. A20177550 DEC 27 1972 Nat & at Caby age 65yr. wife use in miximi ARRivel MiA 12/22/72 with I.512 Requesting asylan. Departed Cuber 12/22/72 to Mexico and divertly To min He is retired Customs Inspection sine 1959 with a Native born usc wife here in Miami CICP Neg. I-512 is from Miami named 7/28/90 and revalidated by Suiss Entary to 2/19/77. Recommend spout pamole status shills Crop sway play party Rea This form may be overprinted or stamped to show instructions, items requested, items received, or other pertinent data which may facilitate processing. Keep this sheet on top of all material in file until initial decision is made Form I-468 (Rev. 11-1-70)"
+}

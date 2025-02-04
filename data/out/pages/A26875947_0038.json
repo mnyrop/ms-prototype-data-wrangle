@@ -1,0 +1,26 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0038",
+  "page_index": 38,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0038/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Home and Building Control, Honeywell"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1993,
+        2023,
+        1979
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 Honeywell Home and Building Control Honeywell Inc. 76 Shirley St Boston MA 02119 617 427-4575 April 23, 1993 To whom it may concern: We hereby certify that Mr. Pierre Magny has been employed in our company since December 19, 1979 and is still working with us. His salary is now $1970.00 monthly flat rate. We hope that this certificate will be great help to him. HONEYWEE HOME AND BUILDING CONTROL Janet Guisti Jahet guisti Branch Secretary"
+}

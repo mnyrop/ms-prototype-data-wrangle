@@ -1,0 +1,30 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0044",
+  "page_index": 44,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0044/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Screeneded by NARA, 8/11/2023, 242T(7/89)"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1988,
+        2023,
+        1992,
+        1986
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 Shawmut TO WHOM IT MAY CONCERN: This is to certify that an account is entered on the records of this Bank as set forth herewith: Name of Account: MARIE M. MAGNY Date Opened: 08-01-1988 / 02-01-1986 Nature of Account: SAVINGS / CHECKING Present Balance: $1006.49 / $1647.39 Recent Average Balance: $1002.39 / $859.38 SHAWMUT BANK, N.A. KELLY YEE kalf ONE FEDERAL ST. BRANCH By CUSTOMER SALES REP. Title COMMON ISSEITS COUNTY OF SWORN TO BEFORE ME THIS 1th OF December 1992 Y NOTARY PUBLIC MAY 3, the Shawmut Bank, N.A., One Federal Street, Boston, Massachusetts 02211, Telephone: 617-292-2000 242T(7/89)"
+}

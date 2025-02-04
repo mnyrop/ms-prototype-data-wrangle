@@ -1,9 +1,9 @@
 {
+  "anumber": "A22484466",
   "id": "A22484466_0003",
   "page_index": 3,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0003/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0003/full/max/0/default.jpg"
   },
   "fields": {
     "sex": {
@@ -15,8 +15,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "MEDICAL Examination of Visa Applicants, 157"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "Thailand"
@@ -29,6 +27,7 @@
       ]
     }
   },
-  "anumber": "A22484466",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "PLACE ICEM MEDICAL SERVICE MEDICAL EXAMINATION OF VISA APPLICANTS DATE OF EXAMINATION 26.7.76 000082 CITY COUNTRY At the request of the American Consul at BKK THAILAND NAME AGE SEX I certify that on the above date I examined TRAN THI LIEN EPP 0793 80 F I examined specifically for evidence of any of the following conditions: CLASS A: DANGEROUS SECURITY ONTAGIOUS DISEASES: Chancroid Lymphogranuloma venereum Gonorrhea Syphilis, infectious stage Granulom origuinale Tuberculosis, active Leprosy infectious MENTAL CONDITIONS: Mental retardation Previous occurrence of one or more Mental defect (mental deficiency) attacks of insanity Narcotic drug addiction Insanity Psychopathic personality Chronic alcoholism Sexual deviation (See proviso, sec. 34.7, USPHS Regs.) CLASS B: Physical Defect, Disease, or Disability Serious in Degree or Permanent in Nature Amounting to a Substantial Departure from Normal Physical Well-Being. CLASS C: Minor Conditions. Kyphieis (CHECK NUMBER (1) BELOW OR COMPLETE NUMBER (2)) My examination, including the X-ray and other reports below, revealed: (1) No defect, disease, or disability. (2) Defect, disease, or disability, or previous occurrence of one or more attacks of insanity, as follows (give class - A, B, or C- diagnosis, and pertinent details*): Ana Whit Ches' X-ray report Normal chest from Dr. CHULALONGKORN Blood serological report NON-REACTIVE from Dr. HOSPITAL BANGKOK Other special report(s) when needed) from Dr. SIGNATURE OF MEDICAL TECHNICAL ADVISOR TITLE M. Karaulnik M.D. DATE OF FINAL REPORT I.C.E. M. M fficer 26 JUL 1976 50157-101 * Continue on reverse side if necessary. GPO 1975 0-576-794 OPTIONAL FORM 157 (Formerly FS-398) January 1975 DEPT. OF STATE"
 }

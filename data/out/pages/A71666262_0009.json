@@ -1,0 +1,31 @@
+{
+  "anumber": "A71666262",
+  "id": "A71666262_0009",
+  "page_index": 9,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A71666262_0009/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "INTERNATIONAL RESCUE COMMITTEE, INC."
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Kenya",
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1994,
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 5/19/2023 INTERNATIONAL RESCUE COMMITTEE, INC. OUNCE 162 BOYLSTON STREET BOSTON, MA 02116 (817) 482-1154 TO: Pamela Hutchings JVS/Kenya Date: March 30,1994 CC: Bath IRC/NY Re: IRC INTEREST CASE Name of HOF: Mohamed Shide (17) U.S. Relative: Lul Mohamed Shide Address: Utanga Refugee Camp Address: 21 Wyeth St, Apt #7 Mombasa, Kenya. Malden, Mass. 02148 Size: 17 Phone: (home) (617) 321 - 9976 Nationality: SOMALI (work) Dear Pamela Hutchings Enclosed please find a notarized Affidavit of Relationship submitted by the U.S. relative or friend of the above mentioned refugee(s). Should this case be found eligible for admission into the United States, we would appreciate your indicating on the Bio-Data form submitted to the RDC (Refugee Data Center) that IRC is the volag for this case. IRC will submit the requisite assurance as soon as possible after the case is allocated. Thank you for your assistance. Sincerely, radit Abdul SADIK, ABDUL IRC. Resettlement Office AOR enclosed CC: IRC New York"
+}

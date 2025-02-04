@@ -1,0 +1,34 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0011",
+  "page_index": 11,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0011/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Certificate Preparation Sheet And Oath Declaration, Form N-649 ( (Rev. 1/1/98)"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Haiti",
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1905,
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 Department of Justice Immigration and Naturalization Service Certificate Preparation Sheet And Oath Declaration A # A 026 875 947 Daytime Phone # (305) 651-2819 NAME (If name Change, ENTER new Name): Check BOX if there is a change of name: ROSE (FIRST) (MIDDLE) PETIT (LAST) (Check Sex) MALE: Date of birth: 12/01/1905 FEMALE: Month/Day/Complete Year Height: 5 1 Marital Status; Enter \"S\" Single, \"M\" Married, \"D\" Divorced, or \"W\" Widow(er): W (Feet) (Inches) Country of Former Nationality: Haiti (Enter Actual name of Country) Oath of Allegiance I HEREBY DECLARE, on oath, that I absolutely and entirely renounce and abjure all allegiance and fidelity to any foreign prince, potentate, state, or sovereignty of whom or which I have heretofore been a subject or citizen; that I will support and defend the Constitution and the laws of the United States of America against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I will bear arms on behalf of the United States when required by the law; that I will perform noncombatant service in the Armed Forces of the United States when required by the law; that I will perform work of national importance under civilian direction when required by the law; and that I take this obligation freely without any mental reservation or purpose of evasion; SO HELP ME GOD. In acknowledgment whereof I have hereunto affixed my signature. Rose Petit 8-7-07 / Applicant's Signature (name change) Date Form N-649 (Rev. 11/1/98)"
+}

@@ -1,0 +1,32 @@
+{
+  "anumber": "A12284895",
+  "id": "A12284895_0023",
+  "page_index": 23,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12284895_0023/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Form FS-510 ( (English) ( (8–17–59)"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1912,
+        1954,
+        1951,
+        1960
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Form FS-510 (English) (8-17-59) Page 2 23. I am submitting the following personal documents in support of and as part of my application Birth certificate Military record Promise of employment Police certificate(s) Evidence of support or own resources Medical record(s) 1. Certificate of non availability of birth, marriage and/ police records; Hongkong Other (describe) 24. Name and present residence of my wife/husband is (Give maiden name of wife) SZETO Getman -husband-309 Shawmut Ave., Boston, Mass. 25. The names and addresses of my children under 21 years of age are Not applicable; 26. The names of members of my family who are immigrating with me are Not applicable; 27. The name and address of my father is (If deceased, so state, giving date) CHAN Kar Tin - deceased (date not remembered) ; 28. The maiden name and address of my mother is (If deceased, so state, giving date) WONG Shee - deceased (date not remembered); 29. The name and address of my next of kin in my home country is SZETO Kam -daughter- 1203 Peony House, East Block, Tai Kok Tsui, Kowloon, Hong Kong; 30. Since my sixteenth birthday my places of residence for 6 months or more have been City or town Province Country Dates (From-To) Calling or occupation Hoiping, Kwangtung, China; 1912 -1951 Housework & Housewife; Hong Kong; 1951 - 1954 Housewife; Macau; 1954 - 1960 If Hong Kong; 1960 - date 11 31. Since my sixteenth birthday I am or have been a member or affiliate of the following political, professional, vocational or social organizations Name and address Type of membership and Dates (From-To) office held, if any Not applicable; 32. I speak, read, write the following languages (Include your native language) Language Speak Read Write Chinese (Hoiping dialect) yes; 33. I have previously been in the United States during the following periods (Give year and type of visa or status) (If never, so state) Never;"
+}

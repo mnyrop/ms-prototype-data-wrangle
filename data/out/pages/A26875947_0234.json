@@ -1,0 +1,33 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0234",
+  "page_index": 234,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0234/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Processing Sheet, I 181 INFORMATION SHEET"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Haiti"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023,
+        1984
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 UNITED STATES DEPARTMENT or JUSTICE Immigration and Naturalization Service Processing Sheet Application of Petition : Form No. File No. I 181 INFORMATION SHEET NAME Rosegaren Peth ADDRESS 48 Fuller st, Dirich MA 02124 SEX Female DATE OF BIRTH 12-01-05 CITY OF BIRTH 2inantities Marin COUNTRY OF BIRTH WAITI COUNTRY OF NATIONALITY HAITI COUNTRY OF LAST RESIDENCE MARITAL STATUS Maried OCCUPATION NONIMMIGRANT CLASS AT TIME OF APPLICATION YEAR ADMITTED TO US 1984 US CONSULATE POST WHERE YOU RECEIVED YOUR NONIMMIGRANT VISA Part-en Prince on Haiti DATE NONIMMIGRANT VISA ISSUED 12-12-8K NUMBER OF NONIMMIGRANT VISA I CLASSIFICATION OF NONIMMIGRANT VISA MOTHER'S FIRST NAME Janalie Pine FATHER'S FIRST NAME gersiun Piene Paul PRIORITY DATE PREFERENCE COUNTRY TO WHICH CHARGEABLE"
+}

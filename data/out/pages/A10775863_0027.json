@@ -1,9 +1,9 @@
 {
+  "anumber": "A10775863",
   "id": "A10775863_0027",
   "page_index": 27,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0027/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0027/full/max/0/default.jpg"
   },
   "fields": {
     "sex": {
@@ -15,14 +15,13 @@
     "form_title": {
       "ms_form_title_llm_v1": "United States of America Naturalization Certificate, 345016"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "Jamaica"
       ]
     }
   },
-  "anumber": "A10775863",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "TO BE FORWARDED TO THE BUREAU OF NATURALIZATION No. 3645015 OF 10 kelden no 34022 Personal description of holder arefa date of inaturalization Uge 25 years Jer female eder white completion medium colorefoyo grey coloref hair black height 5 feel 7 inches bernight 155 founds distendere marks none Marilat Matur single proce Irish former maternality British Icerlife that the description above greenes has and Malthe photograph affired herebo \" likeness of me Marquez Honyou / Complete and true signature of holder) State of New York 53 County of Queens Bedknown that Mar garet Horgan then residing at Queensboro Hospital, Jamaica, N. Y. having politicned to admitted.ru adian the United Males of (Imerica and alerm of the Supreme Gourly the State of New York held pursuanth law at Long Island City, N. Y. in November 30th 183 the courthaving to and that the proteiner intends to reside permanently m the United Mater hadin all resport complerd with the Maherateation from of the United Rates in such me applicable andwa condition lot readmilled the courthereupon organet organ H admitted the coloren of the United Hater if Minerian In testimony whereef the seality the courtes herrante affered this 30th day of November who your four land nineteen handrodand Seal thirty-two Independe na the one hundred and fifty-seventh offox arrele Supreme Gent Clork"
 }

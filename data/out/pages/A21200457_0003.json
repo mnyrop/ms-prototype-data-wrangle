@@ -1,0 +1,51 @@
+{
+  "anumber": "A21200457",
+  "id": "A21200457_0003",
+  "page_index": 3,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21200457_0003/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, G-325 ( (Rev. 10-1-82) Y"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Vietnam",
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1975,
+        1958,
+        1986,
+        2023,
+        1933,
+        1913,
+        1991,
+        1915
+      ]
+    },
+    "g325a": {
+      "occupation": {
+        "occupation_llm_v1": "['retired senior citizen']"
+      },
+      "reason": {
+        "reason_llm_v1": "NATURALIZATION"
+      },
+      "nationality": {
+        "nationality_llm_v1": "Stateless"
+      }
+    }
+  },
+  "is_g325a": true,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/17/2023 U.S. Department of Justice OMB No. 1115-0066 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE (Mo.-Day-Yr.) NATIONALITY FILE NUMBER Nguyen Minh Van FEMALE Jul.14,1915 Stateless A 21-200-457 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. None Hung Yen, Viet Nam (If any) 506-40-9958 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH (If known) CITY AND COUNTRY OF RESIDENCE. FATHER Nguyen Chinh Unk. Hung Yen, Viet Nam Deceased MOTHER (Maiden name) Quach Kinh Unk. Hung Yen, Viet Nam Deceased HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE Aug . 22 Hung Yen, Hung Yen, Pham Vac 1913 Viet Nam 1933 Viet Nam FORMER HUSBANDS OR WIVES (if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE None APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 1718 S. King St. Santa Ana CA USA June 1986 PRESENT TIME APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 48 Tran Quoc Toan Sai Gon Viet Nam Jan. 1958 Apr. 1975 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, so STATE) LIST PRESENT EMPLOYMENT FIRST FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR Retired Senior Citizen PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) Directorate General of Dudgets and Foreign Aids Sai Gon, Viet Nam: Auditor THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT DATE NATURALIZATION OTHER (SPECIFY): STATUS AS PERMANENT RESIDENT Jun. 08, 1991 IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS, WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE Are all copies legible? Yes PENALTIES: SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. APPLICANT: BE SURE TO PUT YOUR NAME AND ALIEN REGISTRATION NUMBER IN THE BOX OUTLINED BY HEAVY BORDER BELOW. COMPLETE THIS BOX (Family name) (Given name) (Middle name) (Allen registration number) Nguyen Minh Van A21-200-457 (OTHER AGENCY USE) INS USE (Office of Origin) OFFICE CODE: TYPE OF CASE: DATE: Form G-325 (Rev. 10-1-82) Y (2) Rec. BR."
+}

@@ -1,0 +1,26 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0166",
+  "page_index": 166,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0166/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "CHAMA, 35413-WW"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023,
+        1984,
+        1987
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 CHAMA Cambridge Haitian American Association, Inc. 105 Windsor Street, Cambridge, Mass. 02139 A non-profit organization Tel. (617) 492-6622 Verified: For the authentification of the signature of Mr. Raoul St. Cyr, Judge of the District Court of the East section of Port au Prince Receipt no. 35413 WW In Court this 1st of October 1984 G. Myrbel Jean Baptiste, att. Government commissioner (signature) (Civil Court stamp) Verified: for the authentification of the signature of Me. Myrbel Jean Baptiste, Government Commissioner assigned to the Civil Court of Port au Prince, affixed on the over side of this certificate, recorded at the Office of the Secretary of State for Justice on October 3d 84, Year 181 of Independance, no. 200 on the Register maintained for this purpose. Receipt no. 35413-WW (seal of Justice Dept. signature) Charles Legrand, General Director (illegible scrawls) I, the undersigned, do certify that I am competant in reading and understanding both the French and the English languages and that the foregoing is a true and accurate translation of the Annexed document. Anthony Augustus, Translator Bonny J. . Saintelot, Notary Public My commission expires on May 28 1987"
+}

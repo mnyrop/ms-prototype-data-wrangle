@@ -1,0 +1,30 @@
+{
+  "anumber": "A44045795",
+  "id": "A44045795_0013",
+  "page_index": 13,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44045795_0013/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "U.S. Immigration & Naturalization Service, ER 721"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023,
+        1991
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/15/2023 U.S. Immigration & Naturalization Service The filing fees for the following forms are currently in effect (as of April 11, 1991). Please review the list to determine the fee for the application you are filing. Applications received with the wrong fee will be returned unprocessed. I-17 $130.00 I-290A 110.00 I-752 85.00 I-90 70.00 I-290B 110.00 I-765 60.00 I-102 50.00 I-485* 95.00/ N-300/315 I-129F 75.00 120.00 70.00 ea I-129H 80.00 I-485A* .95.00/ N-400 90.00 I-129L 80.00 120.00 N-402 80.00 I-130 75.00 I-506 70.00 N-405/407 I-131 65.00 I-538 70.00 70.00 ea I-140 70.00 I-539 70.00 N-410 50.00 I-191 90.00 I-570 45.00 N-455 90.00 I-192 85.00 I-600 140.00 N-470 90.00 I-193 90.00 I-600A 140.00 N-565 50.00 I-212 90.00 I-601 90.00 N-577 50.00 I-246 155.00 I-612 90.00 N-600 90.00 I-256A 100.00 I-751 65.00 N-643 85.00 Request for authorization for parole of an alien into the United States $65.00 Motion to reopen and reconsider/INS 110.00 Motion to reopen and reconsider/Immigration Judge or BIA 110.00 * Filing fee for I-485 and I-485A is $ 95.00 if applicant is under 14 years of age OR $120.00 if applicant is14 years of age or over ER 721 3/91 3230 FPI-RBK-6/91 Over"
+}

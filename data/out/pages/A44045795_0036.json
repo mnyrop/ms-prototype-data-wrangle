@@ -1,0 +1,24 @@
+{
+  "anumber": "A44045795",
+  "id": "A44045795_0036",
+  "page_index": 36,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44045795_0036/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "BREACH CAIY HOSPITAL & RESEARCH CENTRE"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/15/2023 BREACH CAI Y HOSPITAL & RESE. RCH CENTRE 60-A, Bhulabhai Desai Road, Bombay-400026. DEPARTMENT OF PATHOLOGY AND MICROBIOLOGY Senior Pathologist Dr. FRAINY E. PALIA M.D. (Path) D.P.B. Date 2.3.93 Tel. No. : 363 36 51 Specimen taken on 2.3.93 NAME : MRS. MISTRY MANCHHABEN Lab. No. : REFERRED BY : DR. P. N. KAVARANA U.S.A. ERYTHROCYTE SEDIMENTATION RATE : 40 mm at the end of one hour. (Westergren) as/gwb IN"
+}

@@ -1,0 +1,25 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0199",
+  "page_index": 199,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0199/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, Form N-14 (Rev. 9/16/97"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023,
+        2001
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 STREET U.S. Department of Justice I Immigration and Naturalization Service ROSE PETIT File No.: 26 875 947 Date: Officer: D Examination of your application (N400) shows that additional information, documents or forms are needed before your application can be acted upon. Please RETURN THIS LETTER WITH REQUESTED INFORMATION and/or DOCUMENTS on Immigration and Naturalization Service 77 S.E. 5th Street, 2nd Floor AUG 0 7 2001 10:10Am Miami, Florida 33131 Failure to do so may result in the denial of your application. dIHSNEZIO 05:6 HV :- any 100Z Form N-14 (Rev. 9/16/97)"
+}

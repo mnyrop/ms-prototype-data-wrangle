@@ -1,9 +1,9 @@
 {
+  "anumber": "A22484466",
   "id": "A22484466_0027",
   "page_index": 27,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0027/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0027/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service Processing Sheet, I-485-c"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "Cambodia",
@@ -28,6 +26,7 @@
       ]
     }
   },
-  "anumber": "A22484466",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet Officer A.W. Date SEP 23 3 1978 4 Application or Petition Form No. I-485-C File No. A 22 484-466 NAME. Family name (in caps) followed by given name and middle name DOB: Same as I-94 Change verified by Affidavit or B/C ENTRY: Paroled as Refugee Admitted as NIV on or before 3/31/75 PRESENCE: Meets 2-year physical presence requirement (needs not be continuous) MEDICAL: Not required (Paroled through Refugee camp) Must be obtained G-325-A and fingerprints (not required if under 14) LOCAL POLICE CHECKS: Must be obtained from each location of residence in the U.S. of 6 months or more (not required if under 14) PHOTOS: ADIT PROCESSING CARD: Supplemental Sheet: CLASSIFICATION: (circle one) IC6 Native or Citizen of Vietnam, Laos, or Cambodia IC7 Non-native or non-citizen of above countries but who is the spouse or child of above. (This class must also meet the entry and 2-year physical presence requirements.) IC8 Previously adjusted native or citizen of Vietnam, Laos, or Cambodia who is applying for rollback date of permanent residence IC9 Previously adjusted applicant who is neither a native or citizen of Vietnam, Laos, or Cambodia, but who is the spouse or child of Indochina refugee and is applying for a rollback date of permanent residence. Form I-181 G-601 checkmark_ntt OK to Grant Except for 1. file review 2. 3. This form may be overprinted or stamped to show instructions, items requested, items received, or other pertinent data which may facilitate processing. Form I-468 Keep this sheet on top of all material in file until initial decision is made (Rev. 11-1-70) FPI-LOM-1-24-78"
 }

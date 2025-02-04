@@ -1,0 +1,41 @@
+{
+  "anumber": "A20177550",
+  "id": "A20177550_0025",
+  "page_index": 25,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20177550_0025/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "male"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Title: United States Department of Justice, Immigration and Naturalization Service\\nForm Number: G-325A ( (Rev. 8-72-71N)"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Cuba",
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1946
+      ]
+    },
+    "g325a": {
+      "occupation": {
+        "occupation_llm_v1": "['helper']"
+      },
+      "nationality": {
+        "nationality_llm_v1": "Cuban"
+      }
+    }
+  },
+  "is_g325a": true,
+  "is_cert_naturalization": false,
+  "full_text": "INSTRUCTIONS: USE TYPEWRITER. BE SURE ALL COPIES ARE LEGIBLE. Failure to answer fully all questions delays action. D4312 Do Not Remove Carbons: If typewriter is vailable, print heavily in block letters with ball-point GOVERNMENT PRINTING OFFICE: 972 25649 FORM G-325A (REV. 8-27-72)N rm Approved UNITED STATES DEPARTMENT OF JUSTICE OMB No. 43-R436 Immigration and Naturalization Service BIOGRAPHIC INFORMATION (Family name) (First name) (Middle name) MALE BIRTHDATE(Mo.-Day-Yr.) NATIONALITY ALIEN REGISTRATION NO. BRITO-VAREIA, Silvano XXPEMALK 8/30/07 Cuban (A(20)177-550 ALL OTHER NAMES USED (Including names by previous marriages) CITY AND COUNTRY OF BIRTH SOCIAL SECURITY NO. Hab Cuba 2607445-5030 FAMILY NAME FIRST NAME DATE, CITY AND COUNTRY OF BIRTH(If known) CITY AND COUNTRY OF RESIDENCE FATHER Brito Modesto Hab Cuba deceased Varela Angela 1 1 1 MOTHER (Maiden name) HUSBAND (If none, so state) FAMILY NAME FIRST NAME BIRTHDATE CITY & COUNTRY OF BIRTH DATE OF MARRIAGE PLACE OF MARRIAGE OR (For wife, give maiden name) WIFE Rad-Cliff Hortencia Oct 7 /09 Tampa USA Jan ,1946 Hab Cuba FORMER HUSBANDS OR WIVES( if none, so state) FAMILY NAME (For wife, give maiden name) FIRST NAME BIRTHDATE DATE & PLACE OF MARRIAGE DATE AND PLACE OF TERMINATION OF MARRIAGE APPLICANT'S RESIDENCE LAST FIVE YEARS. LIST PRESENT ADDRESS FIRST. FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR 720 N.W. 27 Ct Apt 1 Miami Fla USA Dec 73 PRESENT TIME 1117 N.W. 32 Ave Dec 72 Dec 73 APPLICANT'S LAST ADDRESS OUTSIDE THE UNITED STATES OF MORE THAN ONE YEAR FROM TO STREET AND NUMBER CITY PROVINCE OR STATE COUNTRY MONTH YEAR MONTH YEAR Calle Sanguily # 82 Hab Hab 54 Dec 72 APPLICANT'S EMPLOYMENT LAST FIVE YEARS. (IF NONE, SO STATE.) LIST PRESENT EMPLOYMENT FIRST. FROM TO FULL NAME AND ADDRESS OF EMPLOYER OCCUPATION (SPECIFY) MONTH YEAR MONTH YEAR 303 E Flagler helper Oct 73 PRESENT TIME Show below last occupation abroad if not shown above. (Include all information requested above.) THIS FORM IS SUBMITTED IN CONNECTION WITH APPLICATION FOR: SIGNATURE OF APPLICANT OR PETITIONER DATE NATURALIZATION ADJUSTMENT OF STATUS 12/23/74 OTHER (SPECIFY): Bihano Brits IF YOUR NATIVE ALPHABET IS IN OTHER THAN ROMAN LETTERS. WRITE YOUR NAME IN YOUR NATIVE ALPHABET IN THIS SPACE: Are all copies legible? Yes PENALTIES SEVERE PENALTIES ARE PROVIDED BY LAW FOR KNOWINGLY AND WILLFULLY FALSIFYING OR CONCEALING A MATERIAL FACT. (OTHER AGENCY USE) INS USE (Office of Origin) FORM G-325A (2) Rec. Br."
+}

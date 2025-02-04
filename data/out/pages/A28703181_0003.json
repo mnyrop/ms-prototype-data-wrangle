@@ -1,9 +1,9 @@
 {
+  "anumber": "A28703181",
   "id": "A28703181_0003",
   "page_index": 3,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28703181_0003/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28703181_0003/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "Petition for Alien Relative, I-550 Petition Filing Form"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -28,6 +26,7 @@
       ]
     }
   },
-  "anumber": "A28703181",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 5/9/2023 TO THE SECRETARY OF STATE: 2/4 AUG 1977 The patition was filed on I REMARKS U.S. APPROVED INS. PERSONAL INTERVIEW CONDUCTED The petition is approved for status under section: OCJ 6 1977 DOCUMENT CHECK ONLY SPOUSE, 201 (b) CHILD 203 (a) (2) DATE FIELD INVESTIGATION COMPLETED OF ACTION APPROVAL PREVIOUSLY FORWARDED 201 (b) PARENT 203 (a) (4) DD LOS ANGELES CA2 203 (a) (1) 203 (a) (5) DISTRICT REMARKS/Continued) OFFICIAT SAG' (PETITIONER IS NOT TO WRITE ABOVE THIS LINE) 20. Check the appropriate box below and furnish the information required for the box checked: XBenaficial will anolv for a visa abroad at the GITA DALAJARA, JALISCO, MEXICO FOIA (b)(6) FOIA (b) CITY IN FOREIGN COUNTRY)IFOREIGN COUNTRY) Beneficiary is in the United States and will apply for adjustment of status to that of a lawful permanent resident in the office of the Immigration and Naturalization Service at (CITY) (STATE) If the application for adjustment of status is denied. the beneficiary will apply for a visa abroad at the American Consulate in (CITY IN FOREIGN COUNTRY) (FOREIGN COUNTRY) 21. My residence in the United States is: (C/O. if appropriate) (Apt. No.) (Number and Street) (Town or city) (State) (ZIP Code) 1283 SOUTH -WINDSOR BLVD., LOS ANGELES, CALIFORNIA, 90019 22. My address abroad (if any) is: (Number and street) (Town or city) (Province) (Country) NONE. 23. Last address at which I and my spouse resided together From To (Town or city) (State or Province) (Country) (Apt. No.) (Number and street) (Month) (Year) (Month) (Year) LOS ANGELES, CALIFORNIA, U.S.A. 1223 17th ST. 6/1971 to 8/1974 24. Address in the United States where beneficiary will reside (City) (State) 1283 SOUTH WINDSOR BLVD., LOS ANGELES, CALIFORNIA 90019 25. Address at which beneficiary is presently residing (Apt. No.) (Number and street) (Town or city) (Province or State) (ZIP Code) 1283 SOUTH WINDSOR BLVD., LOS ANGELES, CALIFORNIA 90019 26. If this petition is for a child. (a). Is the child married? NO (b). Is the child your adopted child? N/A if so, give the names, dates, and places of birth of all other children adopted by you. If none, so state. FOIA (b) (6) FOIA (b) (6) 27. If this petition is for a brother or sister. are both your parents the same as the alien's parents? N/A If not, submit a separate statement giving full details as to parentage. dates of marriage of parents. and the number of previous marriages of each parent. 28. If separate petitions are also being submitted for other relatives. give names of each and relationship to petitioner. CELIA MARIA DE JESUS RUIZ RAMIREZ, SISTERS. 29. Have you ever filed a petition for this alien before? YES. If so. give place and date of filing and result. I-550 PETITION FILED INS LOS ANGELES, CAL. 7/8/75 -130 UNDER NEW LEGISLATTON-PRIOR 30. If beneficiary is in the United States give the following information concerning beneficiary: PETITION PENDING CONSUMNATION (a) Last arrived in U.S. On (b) Last arrived in U. S. as & FILING OF I-130 FORN Date beneficiary's stay expired or will (Month) (Day) (Year) (Visitor, student, exchange alien, crewman, stowaway, etc.) expire as shown on his Form 1-94 or I-95 FOIA (b)(6) WITHOUT PASSPORT OF VISA NOT APPLICABLE (d) Name and address of present employer (e) Date alien began this employment FOIA b)(6) FOIA (b)(6)"
 }

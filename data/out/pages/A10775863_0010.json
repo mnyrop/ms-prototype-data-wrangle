@@ -1,9 +1,9 @@
 {
+  "anumber": "A10775863",
   "id": "A10775863_0010",
   "page_index": 10,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0010/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0010/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "UNITED STATES GOVERNMENT Memorandum, 5010-108"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "years": {
       "ms_years_nlp_v1": [
         1907,
@@ -24,6 +22,7 @@
       ]
     }
   },
-  "anumber": "A10775863",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "OPTIONAL FORM NO. 10 5010-106 MAY 1962 EDITION GSA GEN. REG. NO. 27 UNITED STATES GOVERNMENT Memorandum IMMIGRATION AND N=565-0;Neill NATURALIZATION SERVICE C-3645015 CU TO District Director DATE: July 24, 1964 Washington, D. C. 1964 JUL 27 AM 11 22 FROM : J. B. Sullivan, Acting District Director for Citizenship, Boston, Massachusetts WASHINGTON D.C SUBJECT: MARGARET O'NEILL; Applicant for a New Naturalization Certificate The above-named subject submitted an application for a new naturalization certificate to this office. She was born March 16, 1907 at Cork, Ireland. Mrs. O'Neill was naturalized by the Supreme Court at Long Island City, New York on November 30, 1932, under her maiden name, Margaret Horgan and was issued Certificate No. 3645015. On September 3, 1957, the American Consulate at Cork, Ireland notified Mrs. O'Neill of her expatriation. For further consideration of this case, kindly ascertain from the records of the State Department whether loss of citizenship was for any reason other than residence in the place of her birth. Joseph tel 341-1408"
 }

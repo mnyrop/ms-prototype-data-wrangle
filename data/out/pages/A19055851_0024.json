@@ -1,0 +1,32 @@
+{
+  "anumber": "A19055851",
+  "id": "A19055851_0024",
+  "page_index": 24,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19055851_0024/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Popkin and Shamir, A19 055 851"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Canada",
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1969,
+        1970,
+        1968
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "LAW OFFICES Popkin and Shamir SUITE 1885 CALIFORNIA FEDERAL BUILDING RICHARD C. POPKIN 5670 WILSHIRE BOULEVARD RUTH SHAMIR LOS ANGELES, CALIFORNIA 90036 TELEPHONES 938-3268 AND 933-9562 CABLE ADDRESS - PRIORITY March 24, 1970 Immigration & Naturalization Service 300 North Los Angeles Street Los Angeles, California 90012 Re: GEORGE WOLFSON File No. A19 055 851 T/A: Application for Permanent Residence D/F: December 29, 1969 ATTENTION: TC/245-je Gentlemen: Please attach the following documentation to your file relative to the above-captioned matter: - A current letter of employment. Please be advised that when Mr. Wolfson last entered the United States on March 21, 1968, no Form I-94 was issued to him by the Immigration Officer at the port of Toronto, Canada. Please note that the petitioner's claim to United States citizenship has been proven at the Immigration Service in New York, who likewise approved the petition filed on behalf of beneficiary, Mr. Wolfson. The record of birth of the beneficiary is not available. Please notify us regarding further developments. Very truly yours, POPKIN AND SHAMIR Kas BY: RUTH SHAMIR RS : Enc."
+}

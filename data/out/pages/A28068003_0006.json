@@ -1,0 +1,29 @@
+{
+  "anumber": "A28068003",
+  "id": "A28068003_0006",
+  "page_index": 6,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28068003_0006/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "RECORD OF INTERPRETERER’S OATH, FOIA ( (b)(6)"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 4/24/2023 Department of Homeland Security 2675 Prosperity Avenue Fairfax, VA 20598-2440 DEPARTMENT U.S. Citizenship and Immigration SECURITY Services Date: 10/19/09 RECORD OF INTERPRETER'S OATH Interpreter's info: Name: FOIA (b)(6) Address: FOIA (b)(6) Phone number: FOIA (b)(6) This interview will be conducted in the language. The interpreter is related to or acquainted with the applicant in the following manner: FOIA (b)(6) Applicant's name: I do solemnly swear, or affirm, the following: Somali That I speak and understand the English and languages with competence; That I have gathered by speaking with the applicant that there is mutual comprehension between us; That in connection with the application for adjustment of status to that of a lawful permanent resident of the United States, I will truthfully, literally, and fully translate the questions asked by the officer and the answers given by the adjustment applicant without coaching or changing the translation to favor either of the parties involved. FOIA (b)(6) Interpreter's signature Place of interview: Fairfax, VA USCIS officer's name and title Date"
+}

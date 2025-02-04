@@ -1,9 +1,9 @@
 {
+  "anumber": "A19529822",
   "id": "A19529822_0021",
   "page_index": 21,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0021/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0021/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "Pelvic Pain"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "years": {
       "ms_years_nlp_v1": [
         2023,
@@ -21,6 +19,7 @@
       ]
     }
   },
-  "anumber": "A19529822",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 7/13/2023 Page: 1 For DURUPADI WADHWANT, Friday, October 27, 2000, 7:20 pm To reach use Emergency Department 973-971-5004 Work Med- 973-971-7700 PELVIC PAIN: Your exam shows your pain is probably from OUT pelvic organs (ovaries, tubes, uterus). Common causes of pelvig pain include: ovulation, cysts of the ovaries, infection, endometriosis, and tumors. More serious causes of pain in the pelvis that require surgery are appendicitis and ectopic (tubal) pregnancy. Often the exact cause cannot be found with a single exam. Blood tests, cultures, and a follow-up check with a gynecologist may be needed. You should rest in bed with your legs propped up until your pain is much better Avoid sex until your symptoms are improved and your doctor says it is safe. If your stomach is upset. stick to small amounts of clear liquids until you feel better. Pain medicine is sometimes needed. Contact your doctor for a follow-up exam as recommended Please call right away or go to the emergency room if you have any of these symptoms * Uprov of Fainting, severe weakness, repeated vomiting, dehydration. * Heavy vaginal bleeding or passing solid tissue. Fever or chills. Arbe ED Phys: Richman #7752 ED Nurse: Eikel Private Physician Referral None Assigned - None Assigned My signature below indicates that I have received and understood the oral Instructions reguarding my medical problem. I acknowledge receipt of this written instruction sheet, which I will read and review. I will arrange for follow up care indicated above. Patient or Legal Guardian signature Please return to the Emergency Department immediately if your condition worsens. Join with primary doctor pubic ramus fracture (stable)"
 }

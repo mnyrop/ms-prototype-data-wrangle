@@ -1,0 +1,29 @@
+{
+  "anumber": "A28754751",
+  "id": "A28754751_0079",
+  "page_index": 79,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28754751_0079/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "NOTICE TO BE GIVEN ORALLY IN SPANISH OR ENGLISH OR ANY OTHER LANGUAGE UNDERSTOOD BY THE DETAINEE., Exhibit A"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 5/5/2023 NOTICE TO BE GIVF ORALLY IN SPANISH OR ENG SH OR ANY OTHER LANGUAGE UNDERSTO s BY THE DETAINEE. You are being detained by the United States Immigration and Naturalization Service. I am handing you a written Notice that describes your rights. Please read this Notice carefully before deciding whether you wish to agree to be removed voluntarily from the United States, demand a deportation hearing, request political asylum, or apply for any other available form of relief. You must sign a copy of the Notice to show that you have received it. If you cannot read, please tell me and I will read the Notice to you. Exhibit A"
+}

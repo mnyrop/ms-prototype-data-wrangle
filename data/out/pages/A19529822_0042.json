@@ -1,9 +1,9 @@
 {
+  "anumber": "A19529822",
   "id": "A19529822_0042",
   "page_index": 42,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0042/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0042/full/max/0/default.jpg"
   },
   "fields": {
     "sex": {
@@ -15,8 +15,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "FOIA ( (b)(6), GPO 950-733"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -30,6 +28,7 @@
       ]
     }
   },
-  "anumber": "A19529822",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 7/13/2023 5. That the following persons are dependent upon me for support: (Place a check in the appropriate col- umn to indicate whether the person named is wholly or partially dependent upon you for support.) WHOLLY PARTIALLY NAME OF PERSON AGE RELATIONSHIP TO ME DEPENDENT DEPENDENT CARMEN WADHWANT 29 WIFE FOIA (b)(6) 6. (To be filled in, if appropriate.) That I have previously submitted affidavit(s) of support for the following per- son(s): Name Date submitted SARASWATI WADHWANI JULY 1970, JUNE 1972 SEPT 72 USHA JUNE 1972 SEPT. 1972 MOHAN is MAY 1972 7. (To be filled in, if appropriate.) That I have submitted visa petition(s) to the Immigration and Naturalization Service, on behalf of the following person(s): Name Relationship Date submitted JAGATRAI WADHWANI FATHER MAY 1972 MOHAN G BROTHER \" fr 8. That I am willing and able to receive, maintain, and support the persons listed in item 3 above. That I am ready and willing to deposit a bond, if necessary, with the Immigration and Naturalization Service to guarantee that such persons will not become public charges during their stay in the United States. 9. That this affidavit is made by me for the purpose of assuring the Immigration and Naturalization Service that the above-named persons will not become public charges in the United States. 10. That my reasons for signing this affidavit are: Ided Execution of affidavit You must sign the affidavit in your full, Signature of personpreparing form, if other than deponent true, and correct name and affirm or make it under ath. In the United States the affidavit may be sworn to or affirmed before an immigration officer without the payment of fee, or be- I declare that this document was prepared by me at the fore a notary public or other officer authorized to administer request of the deponent and is based on all information oaths for general purposes, in which case the official seal or of which I have any knowledge. certificate of authority to administer oaths must be affixed SIGNATURE Outside the United States the affidavit must be sworn to or affirmed before a United States consular or immigration officer. Address: Date: SUBSCRIBED AND SWORN TO BEFORE ME THIS 2 8th day of October A.D. 19 72 Bh gower withous (Signature of deponent) at Binnevele Pa. Louise (Signature novah officer) COMMISSION EXPIRES JULY 24. 1078 of Notary (Tide of officer) Nature of Evidence of Net Worth To Be Submitted. - The deponent must submit in duplicate evidence of net worth as follows: 1. Statement from an officer-of the bank, postal or other financial institution in which you have deposits giving the following details re- garding your bank account: (1) Date account opened, (2) Total amount deposited for past year, (3) Present balance. 2. Statement of employer, preferably his business stationery, showing: (1) Date and nature of employment, (2) Salary paid, (3) Whether position temporary or permanent. 3. If self-employed: (1) Copy of last inc. tax return filed or (2) report of commercial rating cc n. EDDICARS List containing serial number and denomination of bonds and name of purchaser. GPO 950-733"
 }

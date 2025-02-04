@@ -1,0 +1,24 @@
+{
+  "anumber": "A26875947",
+  "id": "A26875947_0059",
+  "page_index": 59,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0059/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Executive Office of Human Services Department of Public Welfare"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 8/11/2023 The Commonwealth of Massachusetts Executive Office of Human Services SECURITY Live Department of Public Welfare 43 Hawkins St. Boston, Ma., , 02114 CHARLES M. ATKINS 227-8320 Commissioner 5/14/86 To whom it may concern: Rose G. Petit, 48 Fuller St., , Dorchester, Ma., applied for Medical Assistance with this department on 8/7/85. Her application was not approved as she did not provide the necessary verifications. Ms. Petit is neither a recipient nor an applicant for Medical Assistance at this time at this office. Additionally, Ms. Petit has requested that her previous application be withdrawn. However, it is suffice to say that no Medical Assistance was authorized as a result of this application. Very truly yours, Georged George A. Benoit Benait Supervisor of Financial Assistance"
+}

@@ -1,9 +1,9 @@
 {
+  "anumber": "A19529822",
   "id": "A19529822_0055",
   "page_index": 55,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0055/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0055/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "Application for Adjustment of Status to Lawful Permanent Resident,, N-456."
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -27,6 +25,7 @@
       ]
     }
   },
-  "anumber": "A19529822",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 7/13/2023 Block I. - Information About Alien Beneficiary (Continued) 20. Address in the United States where beneficiary will reside (City) (State) 203 KYLINE DRIVE, CALIFORNIA PA 5419 21. Address at which beneficiary is presently residing (Number and street) (Town or city) (Province or State) (Zip Code, If in U.S.) 203 SKYLINE DRIVE CALIFORNIAPA 15419 22. If beneficiary is in the United States, give the following information concerning beneficiary: a. He last arrived in the U.S. on (Month) (Day) (Year) b. He last arrived in U.S. as (Visitor, student, exchangealien crewman, stowaway, etc.) APRIL 8 1972 VISITOR C. Show date beneficiary's stay expired or will expire as shown on his Form I-94 or I-95; AUG. 8, 1972 d. Name and address of present employer Date alien began this employment NONE NOT APPLICABLE 23. Check the appropriate box below and furnish the information required for the box checked: Beneficiary will apply for a visa abroad at the American Consulate in (City in foreign country) (Foreign country) Beneficiary is in the United States and will apply for adjustment of status to that of a lawful permanent resident in the Office of the Immigration and Naturalization Service at NEW YORK PITTSBURGH, PENNSYLVAN (City) (State) -IA If the application for adjustment of status is denied the beneficiary will apply for a visa abroad at the American Consulate in BOMBAY SADIA (City in Foreign Country) (Foreign Country) Block II. - Information About Petitioner 24. My name is (Last) (First) (Middle) 25. If you are a married woman, give your maiden name WADHWANI BHAGWAN JAGATRAI NOT APPLICABLE 26. I reside in the United States at (Apt. No.) (Number and street) (Town or city) (State) (ZIP Code) 203 SKYLINE DRIVE CALIFORNIA PA 15419 27. Address abroad (if any) (Number and street) (City or town) (Province) (Country) NONE 28. I was born: (Month) (Day) (Year) In: (City or town) (State or Province) (Country) 12-22-1938 KARACHI SIND WEST PAKISTAM 29. If you are a citizen of the United States, give the following: a Citizenship was acquired: (Check one) through birth in the U.S. through parents through naturalization through marriage (1) If acquired through naturalization, give name under which naturalized, number of naturalization certificate and date and place of naturalization: SHAGWAN JAGATRAI WADHWANI 9694525 3110172 is DIST (2) If acquired through parentage or marriage, have you obtained a certificate of citizenship in your Down name based on such acquisition? (a) If so, give number of certificate and date and place of issuance: (b) If not, submit evidence of citizenship in accordance with Instruction 3a. (2). b. Have you or any person through whom you claim citizenship ever lost United States citizenship? No If so, attach detailed explanation on separate sheet. 30. If you are a lawful permanent resident alien of the United States, give the following: NOT APPLICABLE a. Alien Registration Number: b. Date, place, and means of admission for lawful permanent residence A c. Have you ever lost status as a lawful permanent resident alien? If so, explain: (If you are married to a citizen of the United States, read instruction 1b carefully) Block III. - Oath or Affirmation of Petitioner I swear (affirm) that I know the contents of this petition signed by me and that the statements herein are true and correct. Signature of petitioner (See Instruction No. 5) Bhapwen Jagatrai Wadhwan Subscribed and sworn to (affirmed) before me this 21th day of april A.D. 1972 at Brownsville fa. (SEAL) My commission expires 7-24-72 nounh notary (Signature of officer administering oath) (Title) Block IV. - Signature of Person Preparing Form, if Other Than Petitioner I declare that this document was prepared by me at the request of the petitioner and is based on all information of which I have any knowledge. (Signature) (Address) (Date)"
 }

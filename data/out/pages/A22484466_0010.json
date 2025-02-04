@@ -1,9 +1,9 @@
 {
+  "anumber": "A22484466",
   "id": "A22484466_0010",
   "page_index": 10,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0010/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0010/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,14 +12,13 @@
     "form_title": {
       "ms_form_title_llm_v1": "INDEX CARD, G-361 (Rev. 4-1-76) N"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "years": {
       "ms_years_nlp_v1": [
         1896
       ]
     }
   },
-  "anumber": "A22484466",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "NAME (LAST IN CAPS) (FIRST) (MIDDLE) SNDX CODE NO. A22 484 466 Alias TRAN, LIEN THE P.O.E. DATE OF ENTRY TYPE ADM. MO.-DAY-YR. OF BIRTH COUNTRY OF BIRTH 8-2-76 REFUGEE 1896 VEETNAM Type of Action: Name of Sponsor: I-94 Action on VP: (Decision) (Mo.) (Day) (Year) (Section) (Forwarded to Consul at:) Street Address (City, State, and Zip Code) FCO Date FCO Date FCO Date LOS 8-25-76GWBT Acession No. Box No. Form G-361 (Rev. 4-1-76) N INDEX CARD Triplicate"
 }

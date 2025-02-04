@@ -1,0 +1,24 @@
+{
+  "anumber": "A19055851",
+  "id": "A19055851_0043",
+  "page_index": 43,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19055851_0043/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Application to File Petition for Naturalization"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1975
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "popkin, shamir & greenberg LAW OFFICES INCORPORATED richard C. popkin June 2, 1975 ruth shamir bert d, greenberg leslie J. frank Immigration & Naturalization Service fred i fleming 300 North Los Angeles Street ernie sosnick Los Angeles, CA 90012 RE: WOLFSON, GEORGE - A19 055 851 Application to File Petition for Naturalization Gentlemen: Enclosed please find the following documents relative to the above=mentioned matter; - Form N-400 executed by the applicant; - Form G-325 executed by the applicant; - Form G-28 indicating our representation; - Fingerprint chart and three photographs of the applicant; Please review the foregoing documents and notify our office of your decision regarding same. Very truly yours, POPKIN, SHAMIR & GREENBERG, INC. My BERT D. GREENBERG BDG:gv encls. suite 1800 california federal building 5670 wilshire boulevard los angeles, california 90036 cable address - priority telephones (213) 933-9562 and 938-3268"
+}

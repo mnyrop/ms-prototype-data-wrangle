@@ -1,9 +1,9 @@
 {
+  "anumber": "A21203456",
   "id": "A21203456_0017",
   "page_index": 17,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0017/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203456_0017/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "AFFIDAVIT RE ASSETS AND LIABILITIES TO BE SUBMITTED BY EVERY REFUGEE 17 YEARS OF AGE OR OVER APPLYING FOR PAROLE INTO THE UNITED STATES, A-21 203 456"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -25,6 +23,7 @@
       ]
     }
   },
-  "anumber": "A21203456",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "A 21 203 456 AFFIDAVIT RE ASSETS AND LIABILITIES TO BE SUBMITTED BY EVERY REFUGEE 17 YEARS OF AGE OR OVER APPLYING FOR PAROLE INTO THE UNITED STATES I. TA THI UHEN being duly sworn depose and say: 1. I have on deposit in banks in the United States and in other countries the following: Location Name of Bank Amount b 2. I have stocks and bonds in the United States and in other countries in the amount of $ market value as follows: Company/(iovernment Unit No. of Share's or Bonds Value & 1. I own real estate in the United States and in other countries as follows: Location Value Mortgages and other encumbrances thereon amounting to P 4. I have in currency, gold, silver, diamonds, commodities, objects d'art in the United States and in other countries as follows: Loration Item Value D 5. I have the following assets in real and personal property in the United States and in other countries, not listed above as follows: Location Item Value B 6. My total net worth is as follows: $ P + her mark (Complete and 191LC Signature of Applicant) funder Subscribed and sworn to before me by the above-named applicant at CP PENDLERON CA on OCT 15 1975 (month/day/year) Name of Interpreter (Print) MARY HNYEN Signature of Interpreter my Layboon (Signature and Title of Officer) (Reverse of this form may be used if additional space is needed) Form G-648 (6-2-75) UNITED STATES DEPARTMENT OF JUSTI 1. Immigration and Naturalization Service"
 }

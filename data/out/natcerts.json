@@ -1,3 +1,335 @@
 [
-
+  {
+    "anumber": "A26875947",
+    "id": "A26875947_0001",
+    "page_index": 1,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26875947_0001/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "letter"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "Naturalization Certificate, N-550 REV. 6-91"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Haiti",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1905,
+          2023,
+          2001
+        ]
+      },
+      "certificate_naturalization": {
+        "complexion": {
+          "complexion_llm_v1": "N.A"
+        },
+        "marital_status": {
+          "marital_status_llm_v1": "WIDOWED"
+        },
+        "year_naturalization": {
+          "year_naturalization_llm_v1": 2001.0
+        },
+        "residence_naturlization": {
+          "residence_naturlization_llm_v1": "Miami Beach, Florida"
+        }
+      }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": true,
+    "full_text": "Screened by NARA, 8/11/2023 No. 25327726 Personal description of holder INS RegistrationNo. A026875947 as of date of naturalization: I certify that the description given is true, and that the photograph affixed Date of birth: DECEMBER 01, 1905 hereto is a likeness of me. Sex: FEMALE Height: 5 feet 1 inches Complete and true signature of holder) Marital. status: WIDOWED Be it known that, pursuant to an application filed with the Attorney General Country of former nationality: at: MIAMI, FLORIDA HAITI The Attorney General having found that: ROSE PETIT then residing in the United States, intends to reside in the United States when so required by the Naturalization Laws of the United States, and had in all other respects complied with the applicable provisions of such naturalization laws and was entitled to be admitted to citizenship, such person having taken the oath of allegiance in a ceremony conducted by the U.S. IMMIGRATION AND NATURALIZATION SERVICE TC at: MIAMI BEACH, FLORIDA on: AUGUST 13, 2001 that such person is admitted as a citizen of the United States of America. IT IS PUNISHABLE BY U. S. LAW TO COPY, PRINT OR PHOTOGRAPH THIS CERTIFICATE. WITHOUT LAWFUL AUTHORITY. J Commissioner a of Immigrding gig and Naturalization of FORM N-550 REV. 6.91"
+  },
+  {
+    "anumber": "A12468555",
+    "id": "A12468555_0002",
+    "page_index": 2,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12468555_0002/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "letter"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "Certificate of Citizenship, Form N-560 ( (REV. 10-1-56)"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Canada"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1904
+        ]
+      },
+      "certificate_naturalization": {
+        "complexion": {
+          "complexion_llm_v1": "medium"
+        },
+        "marital_status": {
+          "marital_status_llm_v1": "Married"
+        },
+        "year_naturalization": {
+          "year_naturalization_llm_v1": 1985.0
+        },
+        "residence_naturlization": {
+          "residence_naturlization_llm_v1": "2224 S.E. 42nd Avenue, Portland, Oregon"
+        }
+      }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": true,
+    "full_text": "Form N-560 (REV. 10-1-56) No. AA-144479 CATE SHOOP application No. A-12 468 555 DUPLICATE Personal description of holder as of date Poofissuanceoff this certificate: Lex Female date of birthmarch 5, 1904 ; country of birth Canada complexion Medium coloroloyes Brown Black-Gray height 5 feet 2 inches; weight 118 pounds; visible distinctive marks None Maritalstatus Married I certify that the description, above given is drue, and that photograph, affixed hereto is a likeness of me. Margari ( Complete Procenture and true signature of holder) Beil known. that -MARGARET PIACENTINI- , now residingal 2224 S.E. 42nd Avenue, Portland, Oregon having appliedstophe Commissioners of cilizenship pursuantios Section 341 ofthe Immigration, an ednationality Achhavingproved.be thesatisfactionalthe deisnow,accitizen, States of America.,became March 5, 1904 States: Now Therefore infursuance Section 341 ofthe Immigration and nationality Col, this certificate tedthis Fifth Seal day/of June in the yearofour and Sixty-one and of our Independence.the onehundredcand Eighty-fif th and theseal of the Department of Justice afficed hursuantle statute. IT IS A VIOLATION OF THE U. S. CODE (AND PUNISHABLE AS SUCH) TO COPY. PRINT. PHOTOGRAPH. OR OTHERWISE ILLEGALLY USE THIS CERTIFICATE. Insuring COMMISSIONER DECSUCE"
+  },
+  {
+    "anumber": "A19055851",
+    "id": "A19055851_0004",
+    "page_index": 4,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19055851_0004/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "letter"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "Alien Registration Form, A19 055 851"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1976
+        ]
+      },
+      "certificate_naturalization": {
+        "complexion": {
+          "complexion_llm_v1": "N.A"
+        },
+        "marital_status": {
+          "marital_status_llm_v1": "Married"
+        },
+        "year_naturalization": {
+          "year_naturalization_llm_v1": 1976.0
+        },
+        "residence_naturlization": {
+          "residence_naturlization_llm_v1": "100532706"
+        }
+      }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": true,
+    "full_text": "TO BE FORWARDED TO No. 10532706 IMMIGRATION AND NATURALIZATION SERVICE 0 Polition No: 373205 DUPLICATE AlienRegistration No A19 055 851 Personal,description of holderas of birth December 11, 1909 sex Male ; complaxion Fair colorsforge's Blue colorefhair Gray height 5 feet 11 1/2 inches; weight 195, ounds; None Marital Married Country of formorationality. So. Africa I certify shound the description, above givenis is wilikeness of ma Spi Complete and true signature of holder) UNITED STATES OF AMERICA SS: CENTRALADIST OF CALIFORNIA Beitknown,Male ala clermofthe, District The United States Court,of Los Angeles on August 6, 1976 the Sourthavingfoundshan *** GEORGE FREDRICK WOLFSON *** thenresidingal 100 So. Dohney St Los Angeles, Cali fornia inlands, to reside hermanently in the United States Naturalization Laws of the United States), hadin, callother respects, complied.with the applicable provisions, of such naturalization, laws, and was, entitled.labe Seal admitted socidiseenship admilled as hellnited States of America the bearh, the courtis 6th dayof August inthoyeur of our Seventy-six EDWARD M. KRITZMAN Glerk of the U.S. District Court. IT IS PUNISHABLE BY U. S. LAW TO COPY, PRINT OR PHOTOGRAPH THIS CERTIFICATE. By 50 mg Deputy Clerk."
+  },
+  {
+    "anumber": "A34190657",
+    "id": "A34190657_0000",
+    "page_index": 0,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34190657_0000/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "letter"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "U.S. Naturalization Certificate, FORM N-550 ( (REV. 11-1-87)Y"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "China",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          2023,
+          1911,
+          1991
+        ]
+      },
+      "certificate_naturalization": {
+        "complexion": {
+          "complexion_llm_v1": "medium"
+        },
+        "marital_status": {
+          "marital_status_llm_v1": "MARRIED"
+        },
+        "year_naturalization": {
+          "year_naturalization_llm_v1": 1991.0
+        },
+        "residence_naturlization": {
+          "residence_naturlization_llm_v1": "THOUSAND OAKS, CA"
+        }
+      }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": true,
+    "full_text": "FORM N-550 Screened by NARA, 9/25/2023 No. 14732274 U. S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE (REV. 11-1-87)Y Name SHU-TUNG CHIANG residing at 3910. VIA VERDE THOUSAND OAKS, CA. 91360 SIGNATURE OF HOLDER Date of birth 8/17/11 Date of order of admission 10/10/91 IS NOT REQUIRED ON THIS DUPLICATE STUB Date certificate issued OCTOBER 10TH, 1991 by the U.S. District Court at Los Angeles, California DUPLICATE DO NOT DETACH Petition No. 00.883844 INS Registration No. A34. 190. : E. 8.50 Chiang TO BE FORWARDED TO No. 14732274 IMMIGRATION AND INATURALIZATION SERVICE 0 Petition No. 00883844 DUPLICATE INS Registration Re A34 190 657 Personal description, of holderus, Date of birth AUGUST 17, 1911 isea MALE ; complexion MEDIUM coloropeyes BROWN color of hair GRAY height 5 feet 5 inches; weight 110 pounds, visible edistendive marks NONE Maritalstatus MARRIED Country of formernationality CHINA, MAINLAND I certify that the description, above givenis, drive, heretois, a likeness of me. Shoe Chiang / Complete and true signature of holder) UNITED STATES OF AMERICA CENTRAL DIST. OF CALIFORNIA } SS: Beit known, that alatermofthe District Court,of The United States held hursuantto, lawal Los Angeles on OCTOBER 10TH, 1991 SHU-TUNG CHIANG themresidingal 3910 VIA VERDE, THOUSAND OAKS, CA inlends loreside permanonWlyin, the United States when so required bythe Naturalization Laws ofthe United States), had in all otherrespects, complied with the applicant all provisions, of such naturalization laws, and was entilled lobe Seal admilledNoxilizenshe ih thereupon ordered that such person be and(s)howas admilled as a cilixen of the United States of America. Intestimony whereof thesealos, the courtis, 10TH day of OCTOBER menedeen/hundred.and NINETY-ONE LEONARD A. BROSNAN Clerk of the U.S. District Court. By Martha Solid Deputy Clerk. FORM N-550 (REV. 11-1-87)Y"
+  },
+  {
+    "anumber": "A12315057",
+    "id": "A12315057_0000",
+    "page_index": 0,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12315057_0000/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "female"
+      },
+      "doctype": {
+        "ms_doctype_v1": "letter"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "CERTIFICATE OF CITIZENSHIP"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Russia",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1906,
+          1915
+        ]
+      },
+      "certificate_naturalization": {
+        "complexion": {
+          "complexion_llm_v1": "fair"
+        },
+        "marital_status": {
+          "marital_status_llm_v1": "Married"
+        },
+        "year_naturalization": {
+          "year_naturalization_llm_v1": 1915.0
+        },
+        "residence_naturlization": {
+          "residence_naturlization_llm_v1": "82 Paulison Ave, Passaic, New Jersey"
+        }
+      }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": true,
+    "full_text": "TOTO CA No. A-414834 application No. A12 315 057 DUPLICATE Personaldescription of holder's of date refissuance of this certificate; Lex Female date of birthSeptember 23, 1906 country of birth Russia complexion Fair colorofeyes Blue :colorxfhair Grey ; height 5 feel 0 inches; weight 150 pounds; visible edistinctive marks None Maritalstatus Marri ed I certify that the description, above given is brue, and that the photograph affixed heretois a likeness of me. Eva Miller Complete and true signature of holder) Beit known,that EVA MILLER*** , now residingal 82 Paulison Ave. , Passaic, New Jersey having cappliedson he Commissioner of Immigrationandnaturaluzation for vacertificated cilizenship Section 341 ofthe Immigration an dnationality Commission or,What ofthe United States of America.,Became acilizer Whereofon November 17, 1915 andismowinthe United States: Era miller nom Therefore in Section 341 of the Immigration and nationality Act, this certificate 1st Seal day/of August intheyearspour's Londmineleenhundred and Sixty One ,and of our Independencethe onehundredund Eighty Sixth , and theseal ofthe Department of IT IS A VIOLATION OF THE U. S. CODE (AND PUNISHABLE AS SUCH) TO COPY. PRINT. PHOTOGRAPH. OR OTHERWISE ILLEGALLY USE THIS CERTIFICATE. COMMISSIONER OF IMMIGRATION AND NATURALIZATION FORM N-560 (REV 10-15-57)"
+  },
+  {
+    "anumber": "A13490102",
+    "id": "A13490102_0000",
+    "page_index": 0,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A13490102_0000/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "letter"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "CERTIFICATE OF CITIZENSHIP, FORM N-560 ( (REV 10-15-57)"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Russia",
+          "United States"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1913,
+          1900
+        ]
+      },
+      "certificate_naturalization": {
+        "complexion": {
+          "complexion_llm_v1": "fair"
+        },
+        "marital_status": {
+          "marital_status_llm_v1": "Married"
+        },
+        "year_naturalization": {
+          "year_naturalization_llm_v1": 1915.0
+        },
+        "residence_naturlization": {
+          "residence_naturlization_llm_v1": "826 South 52nd St., Omaha, Nebraska"
+        }
+      }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": true,
+    "full_text": "THE CA No. A-398003 CANER Application No. 13 490 102 DUPLICATE Personaldescription ofholderas of date ofissuanceof his certificate: Lear male date of birth April 21, 1900 ; country of birth Russia ; complexion fair coloroleyes blue colorofhair grey ; height 5 feel 10 inches; weight 175 pounds; visibledistinctivemarks none Maritalstatus married I certify that the description above given is break and thatthe photography affixed hereto, is a likeness of me. Jack Meleher / Complete and true signature of holder) Beil known that JACK MELCHER , now residingal 826 South 52nd St., Omaha, Nebraska having appliedstophe Commissioner of Immigrationand', naturalization.for racertificateof Section 341/of the Immigration, candnationality Achhavingproved.lo thesalisfactionalshe Commissioner,that heisnow-unitizen, of the United States of America.,became acilizenthereofin Dec. 11, 1913 andismowinthe United States: note Therefore infursuance ofthe eauthority, containeding Section 341,of the Immigration and nationality Rol, this certificate 10th Seal day/of April insheyearofour Londmineteenhundred and Sixty four ,and ofour Independence.the onehundredund Eighty eighth and theseal ofthe Department of Justice afficed chursuant dostable. IT IS A VIOLATION OF THE U. S. CODE (AND PUNISHABLE AS SUCH) TO COPY. PRINT. PHOTOGRAPH. OR OTHERWISE ILLEGALLY USE THIS CERTIFICATE. Raymond F Forrell COMMISSIONER OF IMMIGRATION AND NATURALIZATION FORM N-560 (REV 10-15-57)"
+  },
+  {
+    "anumber": "A17896323",
+    "id": "A17896323_0000",
+    "page_index": 0,
+    "resources": {
+      "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17896323_0000/full/max/0/default.jpg"
+    },
+    "fields": {
+      "sex": {
+        "ms_sex_llm_v1": "male"
+      },
+      "doctype": {
+        "ms_doctype_v1": "letter"
+      },
+      "form_title": {
+        "ms_form_title_llm_v1": "CERTIFICATE OF CITIZENSHIP"
+      },
+      "countries": {
+        "ms_countries_nlp_v1": [
+          "Austria"
+        ]
+      },
+      "years": {
+        "ms_years_nlp_v1": [
+          1892,
+          1882
+        ]
+      },
+      "certificate_naturalization": {
+        "complexion": {
+          "complexion_llm_v1": "N.A"
+        },
+        "marital_status": {
+          "marital_status_llm_v1": "Widower"
+        },
+        "year_naturalization": {
+          "year_naturalization_llm_v1": 1962.0
+        },
+        "residence_naturlization": {
+          "residence_naturlization_llm_v1": "N.A"
+        }
+      }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": true,
+    "full_text": "JUICE No. A-502560 application no. A17 896 323 DUPLICATE Personal description of holder,as, of date ofissuance of this certificate; Sex Male date of birth January 23, 1882 country of birth Austria ; complexion Fair coloroleyes Brown colory hair Gray ; height 5 feel 12 inches; weight 110 pounds; visible edistinctive/marks None Maritalstatus Widower I certify that the description, above given is brue, and hereto, is a likeness, ofm J. loador Tiras ( Complete and true signature of holder) Beitknown,that ISADOR TIRAS , now residing al 3410 Norris Street, Houston, Texas having appliedstother Commissioner of Immigrationand, citizens shippursuamble Section 341 ofthe thesalisfactionafthe Commission or,What States of America,Became acclinenthereofion March 5, 1892 andismowinthelmiled States: nom Therefore Section 341 of the Immigration and nationality Act, this issued this Ninth Seal day/of June Lordmineleenhundred and Sixty-seven and/hesealofthe Department of IT IS A VIOLATION OF THE U. S. CODE (AND PUNISHABLE AS SUCH) TO COPY, PRINT. PHOTOGRAPH. OR OTHERWISE ILLEGALLY USE THIS CERTIFICATE. Reynond COMMISSIONER OF IMMIGRATION y. Forrell AND NATURALIZATION FORM N-560 (REV 3-1-61) BUREAU O ENGRAVING AND PRINTING,LITHO. STATISTICS"
+  }
 ]

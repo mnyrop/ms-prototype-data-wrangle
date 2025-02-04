@@ -1,0 +1,25 @@
+{
+  "anumber": "A28068003",
+  "id": "A28068003_0072",
+  "page_index": 72,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28068003_0072/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Screened by NARA, 4/24023, PS Form 3811"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2004,
+        2023
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 4/24/2023 SENDER: COMPLETE THIS SECTION COMPLETE THIS SECTION ON DELIVERY Complete items 1, 2, and 3. Also complete A. Signature item 4 if Restricted Delivery is desired. Print your name and address on the reverse x FOIA (b)(6) Agent Addresse so that we can return the card to you. B. Received DV ( Printed Name) C. Date of Delivery Attach this card to the back of the mailpiece, or on the front if space permits. RECEIVED FOIA (b)(6) D. Is delivery address differentificm item 1? Yes 1. Article Addressed to: tan Heaven 20102 15 P 5th YES, enter delivery address below: No 3709 S. 3. Service Type my VA Certified Malb Express Mail Registered Return Receipt for Merchand'se Insured: Mail C.O.D. 22041 4. Restricted Delivery? (Extra Fee) Y 2. (Transfer from service label) Article Number 70073020 000167460720 PS Form 3811, February 2004 Domestic Return Receipt 102595-02-M-154"
+}

@@ -1,0 +1,29 @@
+{
+  "anumber": "A17896323",
+  "id": "A17896323_0029",
+  "page_index": 29,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17896323_0029/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "UNITED STATES GOVERNMENT Memorandum, OPTIONAL FORM NO. 10"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "Austria"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1967
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "OPTIONAL FORM NO. 10 5010-103 UNITED STATES GOV NMENT Memorandum NAT2 SNA 30/11.2-C TO : Officer in Charge, Houston, Texas APR 12 GATE: AM1507 MAPril 10, 1967 IMMIGRATION & FROM : William T. Jarmon, Asst. District Director ZATION SERVICE for Citizenship, , San Antonio, Texas \": SUBJECT: Isador Tiras, A17 896 323, applicant for certificate of citizenship In compliance with your memo of April 4, 1967, we have checked our old indices of naturalization records relating to Fannin County. We have located the following record: \"Joseph Tiras--Austria, age 32; Declaration of Intention 10/10/88; petition for naturalization 2/4/92 and 3/5/92. \" It is not known whether a naturalization was completed pursuant to the petition for naturalization on 2/4/92 or 3/5/92. It is thought that the Clerk of the District Court in Fannin County may clear up the question."
+}

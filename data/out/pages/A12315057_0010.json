@@ -1,0 +1,26 @@
+{
+  "anumber": "A12315057",
+  "id": "A12315057_0010",
+  "page_index": 10,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12315057_0010/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "PASSaic Public Schools, 7-5300"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1961,
+        1906,
+        1911
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "PASSAIC PUBLIC SCHOOLS ADMINISTRATION BUILDING Columbia Ave. and Jackson St. Passaic, New Jersey 7-5300 Office of the Assistant Superintendent, Telephone PRescott X-XIXX Director of Children's Bureau and PRescott X34XX Coordinator of Special Services PRescot XX-XZXX February 21,1961 TO WHOM IT MAY CONCERN: : According to a School Record at School No. 11 Passaic, New Jersey - EVA ZIGMAN entered the School No. 7 in the kindergarten, September 11, 1911. The date of birth was given as September 23, 1906. The father's name was given as Samuel and the mother's name as Rosa. Very truly yours, John JOHN P. Gover GOWER DIRECTOR OF CENSUS DEPARTMENT E+13"
+}

@@ -1,9 +1,9 @@
 {
+  "anumber": "A22484466",
   "id": "A22484466_0005",
   "page_index": 5,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0005/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0005/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -11,10 +11,9 @@
     },
     "form_title": {
       "ms_form_title_llm_v1": "SPINAL FLUID, 000082"
-    },
-    "is_g325a": false,
-    "is_cert_naturalization": false
+    }
   },
-  "anumber": "A22484466",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "SPECIMEN LAB RPT. NO. SPINAL FLUID 000082 URGENCY PATIENT STATUS AMB BED ROUTINE OUTPATIENT NP DOM.. TRAN THI LIEN TODAY SPECIMEN SOURCE PRE-OP CEREBROSPINAL STAT FLUID Enter in above space PATIENT IDENTIFICATION-TREATING FACILITY-WARD NO - DATE REPORTED BY MD DATE LAB ID. NO. REQUESTING PHYSICIAN'S SIGNATURE Vanna TECH 26.7.76 REMARKS: PA CHEST Nonreactive CHULALONGKORN HOSPITAL BANGKOK Transportation TOTAL SHOWN VOV. evous 3 5 5 51557"
 }

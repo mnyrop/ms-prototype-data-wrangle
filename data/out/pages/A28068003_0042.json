@@ -1,0 +1,36 @@
+{
+  "anumber": "A28068003",
+  "id": "A28068003_0042",
+  "page_index": 42,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28068003_0042/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, A28-068-003"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States",
+        "Somalia"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1988,
+        2023,
+        1987,
+        1915
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 4/24/2023 U.S. DEPARTMENT OF JUSTICE Memorandum of Creation of Record Immigration and Naturalization Service of Lawful Permanent Residence Place WASHINGTON, D.C. File No. A28-068-003 Status as a lawful permanent resident of the United States is accorded: Sex 1 Male Date of Birth (Month/Day/Year) Name In Care Of 2 Female Jan. 1, 1915 HAWA HERSI Street City of Birth Country of Birth Address 1102 WEST BRADDOCK ROAD Mogadishuo, SOMALIA Apt. No. ALEXANDRIA, VIRGINIA 22302 Country of Nationality Country of Last Residence City, State, Zip SOMALIA SOMALIA Marital Status 1 Single Married Occupation N/I Class at time of Adj. Year Adm. to U.S. or Year of Change to Present NI Class (whichever most recent) 3 Widowed 4 Divorced 5 Separated UNR B-2 1987 Priority Date (Month/Day/Year) Preference (If any) Country to Which Chargeable (If any) N/A N/A N/A Section 212 (a) (14) XXX Not Mother's First Name Father's First Name 1 Applicable-Submitted Labor Certification Applicable Elmi Nur Hesi Last NIV Issued at (U.S. Consulate Post) Date of Issuance of Last NIV Number of Last NIV Classification of Last NIV Mogadishuo, Somalia Sept. 23, 1987 001042 B-2 Under the following provision of law Other law (Specify) Public Law 95-412 Sec. 209 (a) of the I & N Act Sec. 249 of the I & N Act Public Law 96-212 Sec. 209 (b) of the I & N Act Sec. 1 of the Act of 11/2/66 Private Law No. Sec. 244 ( ) ( ) of the T & N Act Sec. 13 of the Act of 9/11/57 of the Congress Session XX Sec. 245 of the I & N Act Sec. 214 (d) of the I & N Act As of march 2 1988 at WAS (Month) (Day) (Year) PORT OF ENTRY FOR PERMANENT RESIDENCE IR-O Class of admission (Insert Symbol) REMARKS APPROVED RECOMMENDED BY: (Immigration Officer) (Date) I.N.S DISTRICT DIRECTOR MJ Juck IE 3-3-88 DATE OF ACTION MAR 02 1988 DD Recommended MT DISTRICT WAS/ 1057 FOR USE BY VISA CONTROL OFFICE Date Foreign State Preference Category Number Month of Issuance Signed (Visa Office. Dept. of State) CC: Page 2 Master Index copy sent on CC: Page 3 ADIT and Statistical report copy sent on Form I. 181 (Rev.3-1-83) N 1. FILE COPY"
+}

@@ -1,0 +1,30 @@
+{
+  "anumber": "A19055851",
+  "id": "A19055851_0021",
+  "page_index": 21,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19055851_0021/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "Letter of Employment Reference for Mr. and Mrs. George Wolfson"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1970,
+        1968
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "March 23, 1970 United States Department of Justice Immigration and Naturalization Service 300 North Los Angeles Street Los Angeles, Calif. . 90012 To whom it may concern: This is to state that Mr. and Mrs. . George Wolfson have been in my employ since July 1, 1968, and are of excellent character. They have earned $17,550.00 during that period. Should there be any additional information you might need on these two fine people, please do not hesitate to contact my office for any further references. Yours sincerely, Jungh Jerry Moss JM/jmf AM RECORDS 1416 N. LA BREA AVE./HOLLYWOOD, CALIFORNIA 90028/461-9931"
+}

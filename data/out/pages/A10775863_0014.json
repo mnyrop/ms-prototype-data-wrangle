@@ -1,9 +1,9 @@
 {
+  "anumber": "A10775863",
   "id": "A10775863_0014",
   "page_index": 14,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0014/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0014/full/max/0/default.jpg"
   },
   "fields": {
     "sex": {
@@ -15,8 +15,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "APPLICATION FOR REGISTRATION"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -35,6 +33,7 @@
       ]
     }
   },
-  "anumber": "A10775863",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "REGISTRATION APPROVED Get a Date APPLICATION FOR REGISTRATION (For use by person whose status as a citimen has been approved by the Department of State at Washington) Valid to john 41,TEPO Consult : Margaret O'Neill was born at Ovens, Co.Cork . (Place) Ireland . on March 17, 1907 : I was naturalized as a State) (Date) New York citizen of the United States before the Supreme Court of State of at Long Island the York on November 2 1932. I have resided outside the United States since 479 August 7, 1933, (Give at of Cor , Ireland, names country and periods of residence in esch) for the purpose of visiting my father, and married after my : my legal residence arrival in the United States is at 755 Southern Boulevard, Bronx, N.Y : my occupation is that of cousewife (formerly Nurse) : I intend to return to the United States within time months to reside permanently. I have not been naturalized as a citizen of a foreign state bake have not taken an oath of alleg ance to a foreign state. My husband-father-mother was naturaliz as a citizen of the United States before the / Court of at / on / My husband, Timothy O'Neill . to whom I was married on November 29, 1934 was born it Bandon, Co.Cork, Ireland , on He arch the 1905 is not an American citizen. ican have the following minor children: Helen Patricia Cork, Irele d. Name (Place of birth) September 6, 1935. Cork, Ireland (Date of birth) Katherine Marie Cork, Irel d. (Besidence) March 10, 1937 Cork, Ireland I desire my registration to include the following members of my family: The children above named In the event of death or accident notify: Mr. Timothy (Name) O'Neill (Husband) Flora Ville, (Address) Boreenmanna Road Cork. (Signature of applicant Flora Ville, Bercenmanne Road Caned Cork Irela Evidence of citizenship submitted: of Horgan. Naturalizati certificate Passport No. 30184 (To be filed issued June 8, 1933, maiden in na in by Count NO FEE. Robert R. Patterson (Signature of Committee collect) Cork Ireland (Place) Jule? 2010"
 }

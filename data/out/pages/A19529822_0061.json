@@ -1,22 +1,21 @@
 {
+  "anumber": "A19529822",
   "id": "A19529822_0061",
   "page_index": 61,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0061/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19529822_0061/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
       "ms_doctype_v1": "form"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "years": {
       "ms_years_nlp_v1": [
         2023
       ]
     }
   },
-  "anumber": "A19529822",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Screened by NARA, 7/13/2023 N-400 PROCESSING WORKSHEET A# 019 529 822 CLERICAL Initials Date Remarks Fee was paid. Record at arted here Mc 8/16/93 FD-258 \"masthead\" is complete, Set I accurate, and legible. Set 2 If necessary, A-number is zero filled Set 1 on FD-258. (e.g., A40123456 to A040123456) Set 2 FD-258 (fingerprints) were sent to FBI. Set I Set 2 All receipt data entry was completed. (NACS/CLAIMS-GUI) DM 4/6/99 If Non-NACS site, G-325 was sent to FBI. and copy retained in file. (SCs If military, G-325B and N-426 were sent, and copies retained in file. FD-258 Control # 5J 9-29-00 exempt A-file was located in your own office. AC 7/20/97 G/545 B-496 If not, initial A-file transfer request was made. See attached MC 8/16/97 If necessary, 2nd A-file transfer request was made. (30 calendar days) MC 8/14/97 If necessary, 3rd A-file transfer request was made. (30 calendar days) Final status of A-file transfer request. RT 7.26.99 A-file relates to the applicant. AC 7/20/99 Charged to Naty PAGE 1 Rev. May 23-97 Attachment 2"
 }

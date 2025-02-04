@@ -1,9 +1,9 @@
 {
+  "anumber": "A10775863",
   "id": "A10775863_0015",
   "page_index": 15,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0015/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10775863_0015/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "AFFIDAVIT BY NATURALIZED AMERICAN TO OVERCOME PRESUMPTION OF NONCITIZENSHIP, 1-170"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -27,6 +25,7 @@
       ]
     }
   },
-  "anumber": "A10775863",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Arrwater DI THING AMERICAN tv BLOWKIND AFFIDAVIT BY NATURALIZED AMERICAN TO OVERCOME PRESUMPTION OF NONCITIZENSHIP In all cases where the presumption of expatriation has arisen or is about to arise, this form must be made out and accompany the application, whether for a passport, registration, renewal, or extension. It is to be used in all cases where passports are applied for under rule (g) [sec. 150, note 18]. It must always accompany applications for extension of passports which have been expressly limited in validity [sec. 169. note 3). In cases of naturalized citizens the exact periods and places of foreign residence since naturalization should be stated. I. Margaret O'Neill a American citizen, born at Ovens, Co. Cork, Ireland do solemnly swear that I ceased to (City) (Country) reside in the United States on or about August 7, 1933 1 ; that I have since resided at Cork, Ireland ; and that I arrived (Countries) in Cork, Ireland , where I now (temporarily residing, on August 7 (City and country) 933 my reasons for such foreign residence bein follows: 1 To visit my father who was 111. I married in November 934 a citizen of Ireland, and since marriage have two daughte Since establishing a residence abroad I have made the following visits to the United States: From 19 to 19 From 19 to 19 From 19 to 19 From 19 to 19 I have not since my naturalization never as an Americ in citizen} been naturalized, taken an oath of allegiance, or voted as a foreign citizen or subject, or in any way held myself out as such. I maintain the following ties of family, business, and property with the United States: Lrs. II. Slattery (Sister) 755 Southern Boulevard, Bronx, New York John Cullinan (Uncle) 765 Sou hern Boulevard, Bronx, New York. I do not } pay the American Income Tax at do I intend to return to the United States permanently to reside within 9 (months) Peace or when in the Spring of 1940. Imagant (Signature of oncell applicant) AMERICAN CONSULAR SERVICE AT Cork, Ireland. Sworn to before me this 3rd day o Jul Vs 1939. Johnson (Date) [SEAL] (No fee prescribed) Robert R. Patterson Vice-Consul (SEE INSTRUCTIONS PRINTED ON REVERSE SIDE) of the United States of America. afflant Executing 'This and reasons statement officer therefor. should will Officer indicate should whether also this state is the whether applicant's or not independent afflant's statement statement has been If not, translated officer from should a foreign state extent language. to which he has prompted be as clear and definite as possible. JC 1-170"
 }

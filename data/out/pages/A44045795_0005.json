@@ -1,0 +1,35 @@
+{
+  "anumber": "A44045795",
+  "id": "A44045795_0005",
+  "page_index": 5,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A44045795_0005/full/max/0/default.jpg"
+  },
+  "fields": {
+    "sex": {
+      "ms_sex_llm_v1": "female"
+    },
+    "doctype": {
+      "ms_doctype_v1": "form"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 230 I ( (ENGLISH)"
+    },
+    "countries": {
+      "ms_countries_nlp_v1": [
+        "United States",
+        "India"
+      ]
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        1903,
+        1905,
+        1928
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "OMB APPROVAL NO. 1405-0015 EXPRESS 08-31-92 ESTIMATED BURDEN : 1 HOUR APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION PART I - BIOGRAPHIC DATA INSTRUCTIONS: Complete one copy of this form for yourself and each member of your family, regardless of age, who will immigrate with you. Please print or type your answer to all questions. Questions that are Not Applicable should be so marked. If there is insufficient room on the form, answer on a separate sheet using the same numbers as appear on the form. Attach the sheet to this form. WARNING: Any false statement or concealment of a material fact may result in your permanent explusion from the United States. This form is Part I of two parts which, together with Optional Form OF-230 PART II, constitute the complete Application for Immigrant Visa and Alien Registration. 1. FAMILY NAME FIRST NAME MIDDLE NAME MISTRY MANCHHABEN CHHABILDAS 2. OTHER NAMES USED OR BY WHICH KNOWN (If married woman, give maiden name) MANCHHABEN 3. FULL NAME IN NATIVE ALPHABET (If Roman letters not used) 172257 HELIGN ESIGNEIN 4. DATE OF BIRTH 5. AGE 6. PLACE OF BIRTH (Day) (Month) (Year) (City or town) (Province) (Country) 28 JULY 1905 87 UNDACH GUJARAT INDIA NATIONALITY (If dual national, 8. SEX 9. MARITAL STATUS give both) Male Single (Never married) Married S Widowed Divorced Separated INDIAN Female Including my present marriage, I have been married ONE times. 10. PERSONAL DESCRIPTION 11. OCCUPATION a. Color of hair WATE /GREY. Height 152 CM b. Color of eyes BLACK d. complexion FAIR HOUSEHOLD WORK 12. MARKS OF IDENTIFICATION 13. PRESENT ADDRESS SONI FALIA, KHARA ABRAMA, NIL TA: NAVSARI , DI: BULSAR GUJARAT PIN 396406 INDIA. Telephone number: Home Office 14. NAME OF SPOUSE (Maiden or family name) (First name) (Middle name) MISTRY CHHABILDAS ZINABHAI. Date and place of birth of spouse JUNE 16, 1903, UNDACH INDIA. Address of spouse (if different from your own): EXPIRED. 15. LIST NAME, DATE AND PLACE OF BIRTH, AND ADDRESS OF ALL CHILDREN NAME DATE AND PLACE OF BIRTH ADDRESS (If different from your own) INDIA SHANTILAL DEC 14, 1928, KHARA ABRAMA 105 GREGORY AVE, APT #3C PASSAIC NJ 07055, U.S.A. ( only THIS FORM MAY BE OBTAINED GRATIS AT CONSULAR OFFICES OF THE UNITED STATES OF AMERICA OPTIONAL FORM, 230 I (ENGLISH) NSN 7540-00-149=-0919 REVISED 4-91 50230-108 Previous editions obsolete DEPT. OF STATE"
+}

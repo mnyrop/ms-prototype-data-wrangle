@@ -1,9 +1,9 @@
 {
+  "anumber": "A22484466",
   "id": "A22484466_0015",
   "page_index": 15,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0015/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A22484466_0015/full/max/0/default.jpg"
   },
   "fields": {
     "sex": {
@@ -15,8 +15,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, 1-357"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "Vietnam",
@@ -31,6 +29,7 @@
       ]
     }
   },
-  "anumber": "A22484466",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "IMPORTANT: PLEASE READ INSTRUCTIONS ON BACK OF PAGE ONE BEFORE FILLING OUT MEMORANDUM U. S. GOVERNMENT PRINTING OFFICE: 1977-249-607 UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE Place Los Angeles File No. A 22 484 4 466 LOS Status as a lawful permanent resident of the United States is accorded: Name SEX DATE OF BIRTH Street TRAN, LIEN THI F 1896 Address 26981 Ayamonte PLACE OF BIRTH City, State, Zip Mission Viejo, Ca. 92675 Saigon, Vietnam NATIONALITY COUNTRY TO WHICH CHARGEABLE (If any) PREFERENCE (If any) Vietnamese PRIORITY DATE REMARKS Indochina Refugee NONPREFERENCE: Section 212(a)(14) certification not required because: Individual section 212(a)(14) certification issued Blanket section 212(a)(14) certification issued under the following provision of law: Sec 203(h) of the I & N Act Sec 249 of the I & N Act Sec 214(d) I & N Act Private Law no. of the Sec 244( )( ) of the I & N Act Sec 1 of the Act of 11/2/66 Congress session Sec 245 of the I & N Act Sec 13 of the Act of 9/11/57 Public Law 95-145 Aut, 2, 1976 at (Other law Specify) As of (Month) Los Angeles, Ca. (Day) (Year) PORT OF ENTRY FOR PERMANENT RESIDENCE Class of admission. (Insert symbol) IC6 DATE OF SEP 23 1978 RECOMMENDED BY: (Immigration Officer) (Date) A.Witshage) 9-23-78 civi DD ACTION LOS Sureck Charge DISTRICT T/C 245 FOR USE BY VISA CONTROL OFFICE Date 6-361 (DATE) G-1883-13-79, Foreign State APR 04 1979 PROCESSED FOR I-551. Preference Category LAB TEMPORARY EVIDENCE OF LAWFUL ADMISSION FOR Number PERMANENT RESIDENCE VALID UNTIL Month of Issuance EMPLOYMENT AUTHORIZED Signed (Visa Office, Dept. of State) Form 1-357 delivered Form 1-151 Serial No. mailed delivered CC: Visa Control Office, Visa Office, Department of State, Washington, D.C. 20520 for allocation of immigrant visa number. orm 1 - 181 (Rev. 4-1-77)Y"
 }

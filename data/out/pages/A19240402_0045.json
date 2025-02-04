@@ -1,9 +1,9 @@
 {
+  "anumber": "A19240402",
   "id": "A19240402_0045",
   "page_index": 45,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0045/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0045/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,8 +12,6 @@
     "form_title": {
       "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service, Form No. 4-25-77N"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "countries": {
       "ms_countries_nlp_v1": [
         "United States"
@@ -26,6 +24,7 @@
       ]
     }
   },
-  "anumber": "A19240402",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "Form approved. OMB No. 43-R0433 Jric: UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE De. call for M/E to Mapa, (see address) Alien Registration No. A19240402 2/6/7815 Petition No. ANNA NEMETH men address: 300 MONTE VISTA #103 3333 Beard Rd: apl.#1 Date OAKLAND, CA. 94611 Mape, CA. 94578 Your application has been received and arrangements have been made to help you in the next step toward naturalization. Please come to: on (date) ROOM 1004, TENTH FLOOR, APPRAISERS BUILDING JAN 18 1978 630 SANSOME ST., SAN FRANCISCO, CALIF. 94111 at (time) 12:00 P.M. The proceeding will take about two hours. If for any reason you cannot keep this appointment, return this letter immediately with your explanation and a request for a new appointment; otherwise, no further action will be taken on your application. If you are applying for citizenship for yourself, you will be tested on your knowledge of the government of the United States and its history. You will also be tested on reading, writing, and speaking English, unless on December 24, 1952, you had been living in the United States for a total of at least 20 years and were then over 50 years old, or unless you are physically unable to read, write, or speak. YOU MUST BRING WITH YOU: 1. This letter 2. $25 filing fee a money order made payable to \"Clerk of Court\") 3. Alien Registration Receipt Card 4. Any draft cards 5. Any documents you have which you used in connection with any entries into the United States 6. The Personal Description Form on the back, completely filled in 7. The third page of this letter with the names and addresses of your two witnesses filled in on the lines provided 8. Those items checked on the back side of this letter PLEASE KEEP THIS APPOINTMENT EVEN IF YOU DO NOT HAVE ALL THE ITEMS NUMBERED ABOVE OR THOSE CHECKED ON THE BACK. HOWEVER, YOU MUST BRING THE $25 FILING FEE. IMPORTANT: Bring with you two United States citizen witnesses 5 who can testify from personal knowledge and observation about your qualifications for naturalization during the past years. These witnesses must live or have lived in the general area in which you live or lived during that period, and must have seen you very often in the area in which you live or lived. If the witnesses you bring with you can cover only a part of the number of years shown above, that will be satisfactory, provided that they can cover no less than the last six months. The rest of the period can be covered at a later date, by affidavits of other witnesses. This will be explained to you when you appear before the examiner. (316, 319 (a)) who can testify from personal knowledge and observation about you, and about your adopted child's (children's) qualifications for naturalization during the past years. These witnesses must live or have lived in the general area in which you and your child (children) live or lived during that period, and must have seen you and your child (children) very often in the area in which you and your child (children) live or lived. If the witnesses you bring with you can cover only part of the number of years shown above, that will be satisfactory. The rest of the period can be covered at a later date by affidavits of other witnesses. This will be explained to you when you appear before the examiner. (323 (a)) who can testify from personal knowledge and observation about you, and your child's (children's) qualifications for naturalization. (322, 323 (c)) who can testify from personal knowledge and observation about your qualifications for naturalization. (319 (b) (c) (d), 329) Form N-430 IMPORTANT-SEE ITEMS CHECKED BACK SIDE (Rev. 4-25-77)N"
 }

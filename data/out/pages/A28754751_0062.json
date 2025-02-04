@@ -1,0 +1,25 @@
+{
+  "anumber": "A28754751",
+  "id": "A28754751_0062",
+  "page_index": 62,
+  "resources": {
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28754751_0062/full/max/0/default.jpg"
+  },
+  "fields": {
+    "doctype": {
+      "ms_doctype_v1": "letter"
+    },
+    "form_title": {
+      "ms_form_title_llm_v1": "UNITED NATIONS HIGH COMMISSIONER FOR REFUGEES, NARA-502341"
+    },
+    "years": {
+      "ms_years_nlp_v1": [
+        2023,
+        1981
+      ]
+    }
+  },
+  "is_g325a": false,
+  "is_cert_naturalization": false,
+  "full_text": "Screened by NARA, 5/5/2023 1 2 3 4 5 6 7 8 9 10 11 12 UNITED NATIONS HIGH COMMISSIONER FOR REFUGEES 13 14 1981 15 16 17 18 19 20 21 22 23 24 25 26 27 28"
+}

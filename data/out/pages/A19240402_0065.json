@@ -1,9 +1,9 @@
 {
+  "anumber": "A19240402",
   "id": "A19240402_0065",
   "page_index": 65,
   "resources": {
-    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0065/full/max/0/default.jpg",
-    "ocr_txt": true
+    "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19240402_0065/full/max/0/default.jpg"
   },
   "fields": {
     "doctype": {
@@ -12,14 +12,13 @@
     "form_title": {
       "ms_form_title_llm_v1": "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( (Rev. 12-12-67)"
     },
-    "is_g325a": false,
-    "is_cert_naturalization": false,
     "years": {
       "ms_years_nlp_v1": [
         1971
       ]
     }
   },
-  "anumber": "A19240402",
+  "is_g325a": false,
+  "is_cert_naturalization": false,
   "full_text": "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE WASHINGTON, D.C. 20537 1. LOOP APPLICANT A14 240 402 CENTER To obtain classifiable fingerprints: OF LOOP 1. Use printer's ink. 2. Distribute ink evenly on inking slab. 3. Wash and dry fingers thoroughly. 4. Roll fingers from nail to nail, and avoid allowing fingers to slip. 5. Be sure impressions are recorded in correct order. 6. If an amputation or deformity makes it impossible to print a finger, make a nota- tion to that effect in the individual finger block. DELTA 7. If some physical condition makes it impossible to obtain perfect impressions, sub- mit the best that can be obtained with a memo stapled to the card explaining the circumstances. 8. Examine the completed prints to see if they can be classified, bearing in mind THE LINES BETWEEN CENTER OF that most fingerprints fall into the patterns shown on this card (other patterns occur infrequently and are not shown here). LOOP AND DELTA MUST SHOW 2. WHORL This card for use by: LEAVE THIS SPACE BLANK 1. Law enforcement agencies in fingerprinting DELTAS applicants for law enforcement positions and applicants for licenses or permits required by local ordinance or official regulation. The reason for fingerprinting must be shown in appropriate block. 2. U.S. Government agencies in connection with clearances. Identity of private contractor should be shown in space \"Company and Ad- dress.\" The contributor is the name of agency submitting the fingerprint card to the FBI. THESE LINES RUNNING BETWEEN DELTAS MUST BE CLEAR FBI number, if known, should always be fur- nished in appropriate space. 3. ARCH ILLEGIBLE PRINT 3 94, REASON RECORDED NO ARREST RECORD BY NAME FBI IDENTIFICATION DIVISION OCT 19 1971 IDENT. DIV. iss ARCHES HAVE NO DELTAS FD-258 (Rev. 12-12-67)"
 }
